@@ -1,0 +1,1817 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+                              ./driver_library/gcc/crt0.riscv.o (__libc_init_array)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+                              ./driver_library/libs/sys_lib/src/drv_adc.o (memcpy)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+                              ./driver_library/libs/sys_lib/src/drv_adc.o (memset)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .group         0x0000000000000000        0xc ./uart/uart.o
+ .text          0x0000000000000000        0x0 ./uart/uart.o
+ .data          0x0000000000000000        0x0 ./uart/uart.o
+ .bss           0x0000000000000000        0x0 ./uart/uart.o
+ .text.uart0_irq_handler
+                0x0000000000000000       0x40 ./uart/uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_deinit
+                0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_init
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_conf_struct_init
+                0x0000000000000000       0x3c ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_set_conf
+                0x0000000000000000       0x56 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_start
+                0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_stop
+                0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_set_int_level
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_int_enable
+                0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_int_disable
+                0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_read_status
+                0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_read_result
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .sdata2.ADC    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_info    0x0000000000000000      0xcaa ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_abbrev  0x0000000000000000      0x2d8 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_loc     0x0000000000000000       0xc2 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_ranges  0x0000000000000000       0x60 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x205 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x19 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x94 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x57 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x97 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x330 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0xfd ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x1f ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x43 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x18e ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0xd7 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x3d ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x16f ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x35 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0xee ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_line    0x0000000000000000      0x8f1 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_str     0x0000000000000000     0x8313 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_frame   0x0000000000000000       0xf8 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text.adc_clock_select
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text.hf_clock_enable
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text.clock_status_get
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_clock.o
+ .sdata2.CLOCK  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text.clockcal_write_factor_to_memory
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text.clockcal_read_factor_from_memory
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .sdata2.cal    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .text.console_send
+                0x0000000000000000       0x2e ./driver_library/libs/sys_lib/src/drv_console.o
+ .text.console_send_char
+                0x0000000000000000       0x2c ./driver_library/libs/sys_lib/src/drv_console.o
+ .text.console_get_char
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0xf5 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_chip
+                0x0000000000000000       0x62 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_main_pages
+                0x0000000000000000       0x62 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_info_pages
+                0x0000000000000000       0xbc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_program_page
+                0x0000000000000000       0x80 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_page
+                0x0000000000000000       0xb6 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_page
+                0x0000000000000000       0x80 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_main_page
+                0x0000000000000000       0xb6 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_info_page
+                0x0000000000000000       0xba ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_main_page
+                0x0000000000000000       0x84 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_info_page
+                0x0000000000000000       0x82 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .sdata2.EFLASH
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x4c ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_direction_set
+                0x0000000000000000       0x42 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_pin_value
+                0x0000000000000000       0x3e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_pin_value
+                0x0000000000000000       0x2a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_port_value
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_reset_port_value
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_port_value
+                0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_pin_int_enable
+                0x0000000000000000       0x3e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_pin_int_type
+                0x0000000000000000       0xda ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_int_status
+                0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_global_int_enable
+                0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_global_int_disable
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .sdata2.IOMUX  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .sdata2.PORT   0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_init
+                0x0000000000000000      0x142 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_deinit
+                0x0000000000000000       0xc6 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_setup_adapter
+                0x0000000000000000       0x50 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_get_status
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_get_ack
+                0x0000000000000000       0x46 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_send_data
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_send_command
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_get_data
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_busy
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_xfer
+                0x0000000000000000      0x17e ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C0   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C1   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C2   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C3   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C4   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C5   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_info    0x0000000000000000      0x964 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_abbrev  0x0000000000000000      0x250 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_loc     0x0000000000000000      0x724 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_aranges
+                0x0000000000000000       0x68 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_ranges  0x0000000000000000      0x150 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0xa0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0xf4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_line    0x0000000000000000     0x1095 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_str     0x0000000000000000     0x513b ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_frame   0x0000000000000000       0xf0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_get
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_is_ready
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_bais_powerdown_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_bais_powerdown_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_powerdown_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_powerdown_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_threshold_set
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_threshold_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_status_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_vcc_value_get
+                0x0000000000000000       0x54 ./driver_library/libs/sys_lib/src/drv_power.o
+ .rodata.vol_tab
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_power.o
+ .sdata2.pwr_ctrl
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_info    0x0000000000000000      0x2f8 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_abbrev  0x0000000000000000      0x1b7 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_loc     0x0000000000000000       0xce ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_ranges  0x0000000000000000       0x78 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x7a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_line    0x0000000000000000      0x61e ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_str     0x0000000000000000     0x41af ./driver_library/libs/sys_lib/src/drv_power.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_frame   0x0000000000000000       0xcc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_init
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_deinit
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_set_channel
+                0x0000000000000000       0x42 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_enable_channel
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_disable_channel
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_enable_all_channel
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_disable_all_channel
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_enable_multi_channel
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .sdata2.PWM    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_info    0x0000000000000000      0x237 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_abbrev  0x0000000000000000      0x10b ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_loc     0x0000000000000000      0x100 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_ranges  0x0000000000000000       0x48 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x7a ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_line    0x0000000000000000      0x5b3 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_str     0x0000000000000000     0x4172 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_frame   0x0000000000000000       0x90 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_deinit
+                0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_init
+                0x0000000000000000       0x2a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_enable
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_disable
+                0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_set_time
+                0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_get_time
+                0x0000000000000000       0xfe ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_set_alarm
+                0x0000000000000000       0xe4 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_get_alarm
+                0x0000000000000000       0xbe ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_enable
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_disable
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_int_enable
+                0x0000000000000000       0x38 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_int_disable
+                0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_reset
+                0x0000000000000000       0x30 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .sdata2.rtc    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_info    0x0000000000000000      0x817 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_abbrev  0x0000000000000000      0x21d ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_loc     0x0000000000000000     0x13f5 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_ranges  0x0000000000000000       0xc8 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x96 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_line    0x0000000000000000      0xea5 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_str     0x0000000000000000     0x4379 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_frame   0x0000000000000000      0x190 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .text.scu_reset_mcu
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .text.scu_get_reset_reason
+                0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .sdata2.SCU    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_info    0x0000000000000000      0x10f ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_abbrev  0x0000000000000000       0xd3 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_ranges  0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x84 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_line    0x0000000000000000      0x33c ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_str     0x0000000000000000     0x3f77 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_frame   0x0000000000000000       0x30 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_init
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_deinit
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_master
+                0x0000000000000000       0xa8 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_set_max_speed
+                0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_attach_chip_select
+                0x0000000000000000      0x164 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_cmd_addr
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_dummy
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_set_datalen
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_start_transaction
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_get_status
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_fifo
+                0x0000000000000000       0x46 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_read_fifo
+                0x0000000000000000       0x46 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.swap_endian
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_chip_select
+                0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_release_chip_select
+                0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_direct
+                0x0000000000000000      0x112 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_read_direct
+                0x0000000000000000      0x12c ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_then_read_direct
+                0x0000000000000000      0x206 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_then_write_direct
+                0x0000000000000000      0x1da ./driver_library/libs/sys_lib/src/drv_spi.o
+ .sdata2.SPI0   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .sdata2.SPI1   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_info    0x0000000000000000     0x1712 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_abbrev  0x0000000000000000      0x2ee ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_loc     0x0000000000000000     0x1593 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_aranges
+                0x0000000000000000       0xa8 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_ranges  0x0000000000000000      0x478 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0xa0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0xdc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_line    0x0000000000000000     0x2405 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_str     0x0000000000000000     0x51b1 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_frame   0x0000000000000000      0x270 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_deinit
+                0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_init
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_int_enable
+                0x0000000000000000       0x72 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_int_disable
+                0x0000000000000000       0x92 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_int_reset
+                0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_set_prescaler
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_reset
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_start
+                0x0000000000000000       0x14 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_stop
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_get_count
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_set_output_cmp
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER0
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER1
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER2
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER3
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_info    0x0000000000000000      0x33d ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_abbrev  0x0000000000000000      0x108 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_loc     0x0000000000000000      0x41a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_ranges  0x0000000000000000       0x60 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x8d ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_line    0x0000000000000000      0x9f9 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_str     0x0000000000000000     0x42d1 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_frame   0x0000000000000000       0xc0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_deinit
+                0x0000000000000000       0x90 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_int_disable
+                0x0000000000000000       0xcc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_get_char
+                0x0000000000000000       0x14 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_send_char
+                0x0000000000000000       0x14 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_wait_tx_done
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART1  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART2  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART3  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART4  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART5  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0xf5 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_init
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_deinit
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_start
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_keep_alive
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_reset_mcu
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .sdata2.WDT    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_info    0x0000000000000000      0x161 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_abbrev  0x0000000000000000       0xe4 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_aranges
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_ranges  0x0000000000000000       0x30 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x8d ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_line    0x0000000000000000      0x3ec ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_str     0x0000000000000000     0x3fd7 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_frame   0x0000000000000000       0x60 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .text.UART0_IRQ_handler
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/irq.o
+ .text.default_exception_handler_c
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/irq.o
+ .text.request_irq
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x19 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x94 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x57 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x97 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x330 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0xfd ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x1f ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x43 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x18e ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0xd7 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x3d ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x16f ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x4c ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0xf5 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .text.eoc      0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/utils.o
+ .text.sleep_busy
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/utils.o
+ .text.cpu_perf_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .text.cpu_perf_get
+                0x0000000000000000       0x96 ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_get
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_get.str1.4
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_set.str1.4
+                0x0000000000000000       0x23 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x19 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x97 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x330 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0xfd ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x1f ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x43 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x18e ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0xd7 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x3d ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x16f ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.qprinti.constprop.1
+                0x0000000000000000      0x2d8 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.putchar  0x0000000000000000       0x1e ./driver_library/libs/string_lib/src/qprintf.o
+ .text.printf   0x0000000000000000      0x382 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.puts     0x0000000000000000       0x3c ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strcmp_c
+                0x0000000000000000       0x82 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.memset_c
+                0x0000000000000000       0xc4 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strcpy_c
+                0x0000000000000000       0x18 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strlen_c
+                0x0000000000000000       0x20 ./driver_library/libs/string_lib/src/qprintf.o
+ .data.remu10_table
+                0x0000000000000000       0x10 ./driver_library/libs/string_lib/src/qprintf.o
+ .rodata.printf.str1.4
+                0x0000000000000000        0x7 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_info    0x0000000000000000      0xe7c ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_abbrev  0x0000000000000000      0x38b ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_loc     0x0000000000000000     0x1bba ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_ranges  0x0000000000000000      0x4b0 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0xd8 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0xf5 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_line    0x0000000000000000     0x18c7 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_str     0x0000000000000000     0x4854 ./driver_library/libs/string_lib/src/qprintf.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_frame   0x0000000000000000      0x124 ./driver_library/libs/string_lib/src/qprintf.o
+ .data          0x0000000000000000        0x0 ./driver_library/gcc/crt0.riscv.o
+ .bss           0x0000000000000000        0x0 ./driver_library/gcc/crt0.riscv.o
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000000000      0x11c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000000       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000       0xdc d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_text           0x0000000000000000 0x0000000000008000
+m_data           0x0000000000100000 0x0000000000004000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./uart/uart.o
+LOAD ./driver_library/libs/sys_lib/src/drv_adc.o
+LOAD ./driver_library/libs/sys_lib/src/drv_clock.o
+LOAD ./driver_library/libs/sys_lib/src/drv_clockcal.o
+LOAD ./driver_library/libs/sys_lib/src/drv_console.o
+LOAD ./driver_library/libs/sys_lib/src/drv_eflash.o
+LOAD ./driver_library/libs/sys_lib/src/drv_gpio.o
+LOAD ./driver_library/libs/sys_lib/src/drv_i2c.o
+LOAD ./driver_library/libs/sys_lib/src/drv_power.o
+LOAD ./driver_library/libs/sys_lib/src/drv_pwm.o
+LOAD ./driver_library/libs/sys_lib/src/drv_rtc.o
+LOAD ./driver_library/libs/sys_lib/src/drv_scu.o
+LOAD ./driver_library/libs/sys_lib/src/drv_spi.o
+LOAD ./driver_library/libs/sys_lib/src/drv_timer.o
+LOAD ./driver_library/libs/sys_lib/src/drv_uart.o
+LOAD ./driver_library/libs/sys_lib/src/drv_wdt.o
+LOAD ./driver_library/libs/sys_lib/src/irq.o
+LOAD ./driver_library/libs/sys_lib/src/system_proton.o
+LOAD ./driver_library/libs/sys_lib/src/utils.o
+LOAD ./driver_library/libs/string_lib/src/qprintf.o
+LOAD ./driver_library/gcc/crt0.riscv.o
+START GROUP
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libgloss.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libsupc++.a
+END GROUP
+                0x0000000000000800                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x800
+
+.vectors        0x0000000000000000       0x8c
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c ./driver_library/gcc/crt0.riscv.o
+
+.text           0x000000000000008c      0x1b0
+                0x000000000000008c                . = ALIGN (0x4)
+                0x000000000000008c                _stext = .
+ *(.text)
+ .text          0x000000000000008c      0x158 ./driver_library/gcc/crt0.riscv.o
+                0x00000000000001e2                _fini
+                0x00000000000001e2                _init
+                0x00000000000001e4                _etext = .
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.main.str1.4
+                0x00000000000001e4        0xc ./uart/uart.o
+                                          0xb (size before relaxing)
+ .rodata.CSWTCH.0
+                0x00000000000001f0       0x1c ./driver_library/libs/sys_lib/src/drv_clock.o
+ .rodata.gpio_mode_set
+                0x000000000000020c       0x20 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x000000000000022c                __CTOR_LIST__ = .
+                0x000000000000022c        0x4 LONG 0x0 (((__CTOR_END__ - __CTOR_LIST__) / 0x4) - 0x2)
+ *(.ctors)
+                0x0000000000000230        0x4 LONG 0x0
+                0x0000000000000234                __CTOR_END__ = .
+                0x0000000000000234                __DTOR_LIST__ = .
+                0x0000000000000234        0x4 LONG 0x0 (((__DTOR_END__ - __DTOR_LIST__) / 0x4) - 0x2)
+ *(.dtors)
+                0x0000000000000238        0x4 LONG 0x0
+                0x000000000000023c                __DTOR_END__ = .
+ *(.lit)
+ *(.shdata)
+                0x000000000000023c                . = ALIGN (0x4)
+                0x000000000000023c                __fsymtab_start = .
+ *(FSymTab)
+                0x000000000000023c                __fsymtab_end = .
+                0x000000000000023c                . = ALIGN (0x4)
+                0x000000000000023c                __vsymtab_start = .
+ *(VSymTab)
+                0x000000000000023c                __vsymtab_end = .
+                0x000000000000023c                . = ALIGN (0x4)
+                0x000000000000023c                . = ALIGN (0x4)
+                0x000000000000023c                __rt_init_start = .
+ *(SORT_BY_NAME(.rti_fn*))
+                0x000000000000023c                __rt_init_end = .
+                0x000000000000023c                . = ALIGN (0x4)
+                0x000000000000023c                _endtext = .
+
+.text.startup.main
+                0x000000000000023c       0x5a
+ .text.startup.main
+                0x000000000000023c       0x5a ./uart/uart.o
+                0x000000000000023c                main
+
+.text.UART0_IRQ_handler
+                0x0000000000000296       0x36
+ .text.UART0_IRQ_handler
+                0x0000000000000296       0x36 ./uart/uart.o
+                0x0000000000000296                UART0_IRQ_handler
+
+.text.system_clock_set
+                0x00000000000002cc       0x16
+ .text.system_clock_set
+                0x00000000000002cc       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x00000000000002cc                system_clock_set
+
+.text.system_clock_get
+                0x00000000000002e2       0x26
+ .text.system_clock_get
+                0x00000000000002e2       0x26 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x00000000000002e2                system_clock_get
+
+.text.lf_clock_select
+                0x0000000000000308       0x16
+ .text.lf_clock_select
+                0x0000000000000308       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x0000000000000308                lf_clock_select
+
+.text.ext_clock_enable
+                0x000000000000031e       0x1e
+ .text.ext_clock_enable
+                0x000000000000031e       0x1e ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x000000000000031e                ext_clock_enable
+
+.text.clockcal_calibrate
+                0x000000000000033c       0x32
+ .text.clockcal_calibrate
+                0x000000000000033c       0x32 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x000000000000033c                clockcal_calibrate
+
+.text.clockcal_read_factor_register
+                0x000000000000036e       0x1a
+ .text.clockcal_read_factor_register
+                0x000000000000036e       0x1a ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x000000000000036e                clockcal_read_factor_register
+
+.text.clockcal_write_factor_register
+                0x0000000000000388       0x32
+ .text.clockcal_write_factor_register
+                0x0000000000000388       0x32 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x0000000000000388                clockcal_write_factor_register
+
+.text.console_init
+                0x00000000000003ba       0x50
+ .text.console_init
+                0x00000000000003ba       0x50 ./driver_library/libs/sys_lib/src/drv_console.o
+                0x00000000000003ba                console_init
+
+.text.eflash_erase_page
+                0x000000000000040a       0x6e
+ .text.eflash_erase_page
+                0x000000000000040a       0x6e ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x000000000000040a                eflash_erase_page
+
+.text.eflash_program_word
+                0x0000000000000478       0x5c
+ .text.eflash_program_word
+                0x0000000000000478       0x5c ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x0000000000000478                eflash_program_word
+
+.text.eflash_read_word
+                0x00000000000004d4       0x5c
+ .text.eflash_read_word
+                0x00000000000004d4       0x5c ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x00000000000004d4                eflash_read_word
+
+.text.gpio_func_set
+                0x0000000000000530       0x48
+ .text.gpio_func_set
+                0x0000000000000530       0x48 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x0000000000000530                gpio_func_set
+
+.text.gpio_mode_set
+                0x0000000000000578      0x1c8
+ .text.gpio_mode_set
+                0x0000000000000578      0x1c8 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x0000000000000578                gpio_mode_set
+
+.text.uartx_init
+                0x0000000000000740      0x15c
+ .text.uartx_init
+                0x0000000000000740      0x15c ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000000740                uartx_init
+
+.text.uartx_set_conf
+                0x000000000000089c       0x66
+ .text.uartx_set_conf
+                0x000000000000089c       0x66 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x000000000000089c                uartx_set_conf
+
+.text.uartx_int_enable
+                0x0000000000000902       0x94
+ .text.uartx_int_enable
+                0x0000000000000902       0x94 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000000902                uartx_int_enable
+
+.text.uartx_int_reset
+                0x0000000000000996       0x9a
+ .text.uartx_int_reset
+                0x0000000000000996       0x9a ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000000996                uartx_int_reset
+
+.text.uartx_send
+                0x0000000000000a30       0x26
+ .text.uartx_send
+                0x0000000000000a30       0x26 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000000a30                uartx_send
+
+.text.default_irq_handler
+                0x0000000000000a56        0x2
+ .text.default_irq_handler
+                0x0000000000000a56        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a56                default_irq_handler
+
+.text.I2C5_IRQ_handler
+                0x0000000000000a58        0x2
+ .text.I2C5_IRQ_handler
+                0x0000000000000a58        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a58                I2C5_IRQ_handler
+
+.text.I2C4_IRQ_handler
+                0x0000000000000a5a        0x2
+ .text.I2C4_IRQ_handler
+                0x0000000000000a5a        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a5a                I2C4_IRQ_handler
+
+.text.I2C3_IRQ_handler
+                0x0000000000000a5c        0x2
+ .text.I2C3_IRQ_handler
+                0x0000000000000a5c        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a5c                I2C3_IRQ_handler
+
+.text.I2C2_IRQ_handler
+                0x0000000000000a5e        0x2
+ .text.I2C2_IRQ_handler
+                0x0000000000000a5e        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a5e                I2C2_IRQ_handler
+
+.text.I2C1_IRQ_handler
+                0x0000000000000a60        0x2
+ .text.I2C1_IRQ_handler
+                0x0000000000000a60        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a60                I2C1_IRQ_handler
+
+.text.I2C0_IRQ_handler
+                0x0000000000000a62        0x2
+ .text.I2C0_IRQ_handler
+                0x0000000000000a62        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a62                I2C0_IRQ_handler
+
+.text.ADCH_IRQ_handler
+                0x0000000000000a64        0x2
+ .text.ADCH_IRQ_handler
+                0x0000000000000a64        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a64                ADCH_IRQ_handler
+
+.text.ADCF_IRQ_handler
+                0x0000000000000a66        0x2
+ .text.ADCF_IRQ_handler
+                0x0000000000000a66        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a66                ADCF_IRQ_handler
+
+.text.RTC_IRQ_handler
+                0x0000000000000a68        0x2
+ .text.RTC_IRQ_handler
+                0x0000000000000a68        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a68                RTC_IRQ_handler
+
+.text.CAL32M_IRQ_handler
+                0x0000000000000a6a        0x2
+ .text.CAL32M_IRQ_handler
+                0x0000000000000a6a        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a6a                CAL32M_IRQ_handler
+
+.text.CAL32K_IRQ_handler
+                0x0000000000000a6c        0x2
+ .text.CAL32K_IRQ_handler
+                0x0000000000000a6c        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a6c                CAL32K_IRQ_handler
+
+.text.UART5_IRQ_handler
+                0x0000000000000a6e        0x2
+ .text.UART5_IRQ_handler
+                0x0000000000000a6e        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a6e                UART5_IRQ_handler
+
+.text.UART4_IRQ_handler
+                0x0000000000000a70        0x2
+ .text.UART4_IRQ_handler
+                0x0000000000000a70        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a70                UART4_IRQ_handler
+
+.text.UART3_IRQ_handler
+                0x0000000000000a72        0x2
+ .text.UART3_IRQ_handler
+                0x0000000000000a72        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a72                UART3_IRQ_handler
+
+.text.UART2_IRQ_handler
+                0x0000000000000a74        0x2
+ .text.UART2_IRQ_handler
+                0x0000000000000a74        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a74                UART2_IRQ_handler
+
+.text.UART1_IRQ_handler
+                0x0000000000000a76        0x2
+ .text.UART1_IRQ_handler
+                0x0000000000000a76        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a76                UART1_IRQ_handler
+
+.text.GPIO_IRQ_handler
+                0x0000000000000a78        0x2
+ .text.GPIO_IRQ_handler
+                0x0000000000000a78        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a78                GPIO_IRQ_handler
+
+.text.SPIM1A_IRQ_handler
+                0x0000000000000a7a        0x2
+ .text.SPIM1A_IRQ_handler
+                0x0000000000000a7a        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a7a                SPIM1A_IRQ_handler
+
+.text.SPIM1B_IRQ_handler
+                0x0000000000000a7c        0x2
+ .text.SPIM1B_IRQ_handler
+                0x0000000000000a7c        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a7c                SPIM1B_IRQ_handler
+
+.text.SPIM0A_IRQ_handler
+                0x0000000000000a7e        0x2
+ .text.SPIM0A_IRQ_handler
+                0x0000000000000a7e        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a7e                SPIM0A_IRQ_handler
+
+.text.SPIM0B_IRQ_handler
+                0x0000000000000a80        0x2
+ .text.SPIM0B_IRQ_handler
+                0x0000000000000a80        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a80                SPIM0B_IRQ_handler
+
+.text.TIMER0_IRQ_handler
+                0x0000000000000a82        0x2
+ .text.TIMER0_IRQ_handler
+                0x0000000000000a82        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a82                TIMER0_IRQ_handler
+
+.text.TIMER1_IRQ_handler
+                0x0000000000000a84        0x2
+ .text.TIMER1_IRQ_handler
+                0x0000000000000a84        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a84                TIMER1_IRQ_handler
+
+.text.TIMER2_IRQ_handler
+                0x0000000000000a86        0x2
+ .text.TIMER2_IRQ_handler
+                0x0000000000000a86        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a86                TIMER2_IRQ_handler
+
+.text.TIMER3_IRQ_handler
+                0x0000000000000a88        0x2
+ .text.TIMER3_IRQ_handler
+                0x0000000000000a88        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a88                TIMER3_IRQ_handler
+
+.text.illegal_insn_handler_c
+                0x0000000000000a8a        0x2
+ .text.illegal_insn_handler_c
+                0x0000000000000a8a        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a8a                illegal_insn_handler_c
+
+.text.ecall_insn_handler_c
+                0x0000000000000a8c        0x2
+ .text.ecall_insn_handler_c
+                0x0000000000000a8c        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a8c                ecall_insn_handler_c
+
+.text.system_irq_handler
+                0x0000000000000a8e       0x1a
+ .text.system_irq_handler
+                0x0000000000000a8e       0x1a ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000000a8e                system_irq_handler
+
+.text.system_init_hook
+                0x0000000000000aa8      0x11a
+ .text.system_init_hook
+                0x0000000000000aa8      0x11a ./driver_library/libs/sys_lib/src/system_proton.o
+                0x0000000000000aa8                system_init_hook
+
+.text.system_init
+                0x0000000000000bc2       0x5c
+ .text.system_init
+                0x0000000000000bc2       0x5c ./driver_library/libs/sys_lib/src/system_proton.o
+                0x0000000000000bc2                system_init
+
+.text.exit      0x0000000000000c1e       0x12
+ .text.exit     0x0000000000000c1e       0x12 ./driver_library/libs/sys_lib/src/utils.o
+                0x0000000000000c1e                exit
+
+.text.__libc_init_array
+                0x0000000000000c30       0x98
+ .text.__libc_init_array
+                0x0000000000000c30       0x98 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+                0x0000000000000c30                __libc_init_array
+
+.sdata2.UART0   0x0000000000000cc8        0x4
+ .sdata2.UART0  0x0000000000000cc8        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000000cc8                UART0
+
+.rela.dyn       0x0000000000000ccc        0x0
+ .rela.data.isr_table
+                0x0000000000000ccc        0x0 ./uart/uart.o
+ .rela.text.system_init
+                0x0000000000000ccc        0x0 ./uart/uart.o
+ .rela.text     0x0000000000000ccc        0x0 ./uart/uart.o
+ .rela.text.__libc_init_array
+                0x0000000000000ccc        0x0 ./uart/uart.o
+
+.preinit_array  0x0000000000000ccc        0x0
+                0x0000000000000ccc                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000000000ccc                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000000ccc        0x0
+                0x0000000000000ccc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000000000ccc                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000000ccc        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000000000ccc                __etext = .
+                0x0000000000000ccc                __global_pointer = .
+                0x0000000000000ccc                __DATA_ROM = .
+
+.data           0x0000000000100000       0x80 load address 0x0000000000000ccc
+                0x0000000000100000                . = ALIGN (0x4)
+                0x0000000000100000                __DATA_RAM = .
+                0x0000000000100000                __data_start__ = .
+                0x0000000000100000                sdata = .
+ *(.data)
+ *(.data.*)
+ .data.isr_table
+                0x0000000000100000       0x80 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000100080                edata = .
+                0x0000000000100080                . = ALIGN (0x4)
+                0x0000000000100080                __data_end__ = .
+
+.stack          0x0000000000100080      0x800 load address 0x0000000000000d4c
+                0x0000000000100080                . = ALIGN (0x8)
+                0x0000000000100080                __StackLimit = .
+                0x0000000000100880                . = (. + STACK_SIZE)
+ *fill*         0x0000000000100080      0x800 
+                0x0000000000100880                __StackTop = .
+                0x0000000000100880                __rt_thread_irq_stack_top = .
+                0x0000000000100880                __freertos_irq_stack_top = .
+                [!provide]                        PROVIDE (__stack = __StackTop)
+                0x0000000000100880                __bss_start = .
+
+.bss            0x0000000000100880        0x0
+                0x0000000000100880                . = ALIGN (0x4)
+                0x0000000000100880                __START_BSS = .
+                0x0000000000100880                __bss_start__ = .
+ *(.bss)
+ *(.bss.*)
+ *(.sbss)
+ *(.sbss.*)
+ *(COMMON)
+                0x0000000000100880                . = ALIGN (0x4)
+                0x0000000000100880                __bss_end__ = .
+                0x0000000000100880                __END_BSS = .
+                0x0000000000100880                __bss_end = .
+OUTPUT(uart.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0x4d69
+ .debug_info    0x0000000000000000     0x1070 ./uart/uart.o
+ .debug_info    0x0000000000001070      0x249 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_info    0x00000000000012b9      0x2a1 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_info    0x000000000000155a      0x444 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_info    0x000000000000199e      0x9ca ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_info    0x0000000000002368      0x45e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_info    0x00000000000027c6      0x7c0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_info    0x0000000000002f86      0xbf7 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_info    0x0000000000003b7d      0x736 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_info    0x00000000000042b3      0xa94 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_info    0x0000000000004d47       0x22 ./driver_library/gcc/crt0.riscv.o
+
+.debug_abbrev   0x0000000000000000     0x13ee
+ .debug_abbrev  0x0000000000000000      0x35b ./uart/uart.o
+ .debug_abbrev  0x000000000000035b      0x142 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_abbrev  0x000000000000049d      0x161 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_abbrev  0x00000000000005fe      0x189 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_abbrev  0x0000000000000787      0x21a ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_abbrev  0x00000000000009a1      0x156 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_abbrev  0x0000000000000af7      0x1d5 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_abbrev  0x0000000000000ccc      0x24b ./driver_library/libs/sys_lib/src/irq.o
+ .debug_abbrev  0x0000000000000f17      0x1fb ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_abbrev  0x0000000000001112      0x2ca ./driver_library/libs/sys_lib/src/utils.o
+ .debug_abbrev  0x00000000000013dc       0x12 ./driver_library/gcc/crt0.riscv.o
+
+.debug_loc      0x0000000000000000     0x1d08
+ .debug_loc     0x0000000000000000       0x45 ./uart/uart.o
+ .debug_loc     0x0000000000000045       0xab ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_loc     0x00000000000000f0       0xdd ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_loc     0x00000000000001cd       0xa5 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_loc     0x0000000000000272      0xbfd ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_loc     0x0000000000000e6f      0x48c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_loc     0x00000000000012fb      0x68e ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_loc     0x0000000000001989       0x8b ./driver_library/libs/sys_lib/src/irq.o
+ .debug_loc     0x0000000000001a14       0xca ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_loc     0x0000000000001ade      0x22a ./driver_library/libs/sys_lib/src/utils.o
+
+.debug_aranges  0x0000000000000000      0x408
+ .debug_aranges
+                0x0000000000000000       0x30 ./uart/uart.o
+ .debug_aranges
+                0x0000000000000030       0x50 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_aranges
+                0x0000000000000080       0x40 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_aranges
+                0x00000000000000c0       0x38 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_aranges
+                0x00000000000000f8       0x80 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_aranges
+                0x0000000000000178       0x80 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_aranges
+                0x00000000000001f8       0x68 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_aranges
+                0x0000000000000260      0x118 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_aranges
+                0x0000000000000378       0x28 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_aranges
+                0x00000000000003a0       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_aranges
+                0x00000000000003e0       0x28 ./driver_library/gcc/crt0.riscv.o
+
+.debug_ranges   0x0000000000000000      0x650
+ .debug_ranges  0x0000000000000000       0x58 ./uart/uart.o
+ .debug_ranges  0x0000000000000058       0x40 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_ranges  0x0000000000000098       0x30 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_ranges  0x00000000000000c8       0x28 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_ranges  0x00000000000000f0      0x2a8 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_ranges  0x0000000000000398       0x70 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_ranges  0x0000000000000408       0x58 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_ranges  0x0000000000000460      0x108 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_ranges  0x0000000000000568       0x68 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_ranges  0x00000000000005d0       0x60 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_ranges  0x0000000000000630       0x20 ./driver_library/gcc/crt0.riscv.o
+
+.debug_macro    0x0000000000000000     0x2f77
+ .debug_macro   0x0000000000000000      0x311 ./uart/uart.o
+ .debug_macro   0x0000000000000311      0x748 ./uart/uart.o
+ .debug_macro   0x0000000000000a59       0x22 ./uart/uart.o
+ .debug_macro   0x0000000000000a7b       0x52 ./uart/uart.o
+ .debug_macro   0x0000000000000acd       0x19 ./uart/uart.o
+ .debug_macro   0x0000000000000ae6       0x94 ./uart/uart.o
+ .debug_macro   0x0000000000000b7a       0x34 ./uart/uart.o
+ .debug_macro   0x0000000000000bae       0x34 ./uart/uart.o
+ .debug_macro   0x0000000000000be2       0x16 ./uart/uart.o
+ .debug_macro   0x0000000000000bf8       0x57 ./uart/uart.o
+ .debug_macro   0x0000000000000c4f       0x97 ./uart/uart.o
+ .debug_macro   0x0000000000000ce6      0x330 ./uart/uart.o
+ .debug_macro   0x0000000000001016       0xfd ./uart/uart.o
+ .debug_macro   0x0000000000001113       0x10 ./uart/uart.o
+ .debug_macro   0x0000000000001123       0x58 ./uart/uart.o
+ .debug_macro   0x000000000000117b       0x1f ./uart/uart.o
+ .debug_macro   0x000000000000119a       0x43 ./uart/uart.o
+ .debug_macro   0x00000000000011dd       0x20 ./uart/uart.o
+ .debug_macro   0x00000000000011fd      0x18e ./uart/uart.o
+ .debug_macro   0x000000000000138b       0x10 ./uart/uart.o
+ .debug_macro   0x000000000000139b       0x6a ./uart/uart.o
+ .debug_macro   0x0000000000001405       0x1c ./uart/uart.o
+ .debug_macro   0x0000000000001421       0x52 ./uart/uart.o
+ .debug_macro   0x0000000000001473       0x40 ./uart/uart.o
+ .debug_macro   0x00000000000014b3       0x10 ./uart/uart.o
+ .debug_macro   0x00000000000014c3       0x40 ./uart/uart.o
+ .debug_macro   0x0000000000001503       0xd7 ./uart/uart.o
+ .debug_macro   0x00000000000015da       0x1c ./uart/uart.o
+ .debug_macro   0x00000000000015f6       0x3d ./uart/uart.o
+ .debug_macro   0x0000000000001633       0x16 ./uart/uart.o
+ .debug_macro   0x0000000000001649      0x16f ./uart/uart.o
+ .debug_macro   0x00000000000017b8       0xef ./uart/uart.o
+ .debug_macro   0x00000000000018a7      0x1df ./uart/uart.o
+ .debug_macro   0x0000000000001a86      0x162 ./uart/uart.o
+ .debug_macro   0x0000000000001be8       0x8e ./uart/uart.o
+ .debug_macro   0x0000000000001c76       0x6a ./uart/uart.o
+ .debug_macro   0x0000000000001ce0       0x28 ./uart/uart.o
+ .debug_macro   0x0000000000001d08       0xf5 ./uart/uart.o
+ .debug_macro   0x0000000000001dfd       0x16 ./uart/uart.o
+ .debug_macro   0x0000000000001e13      0x224 ./uart/uart.o
+ .debug_macro   0x0000000000002037       0xf4 ./uart/uart.o
+ .debug_macro   0x000000000000212b       0xdc ./uart/uart.o
+ .debug_macro   0x0000000000002207       0x58 ./uart/uart.o
+ .debug_macro   0x000000000000225f       0x70 ./uart/uart.o
+ .debug_macro   0x00000000000022cf       0x16 ./uart/uart.o
+ .debug_macro   0x00000000000022e5       0x22 ./uart/uart.o
+ .debug_macro   0x0000000000002307       0x10 ./uart/uart.o
+ .debug_macro   0x0000000000002317       0xee ./uart/uart.o
+ .debug_macro   0x0000000000002405       0x4c ./uart/uart.o
+ .debug_macro   0x0000000000002451       0x16 ./uart/uart.o
+ .debug_macro   0x0000000000002467       0x7a ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x00000000000024e1       0x8e ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x000000000000256f       0x51 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x00000000000025c0      0x174 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000002734       0x8e ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x00000000000027c2       0xac ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x000000000000286e       0x8d ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x00000000000028fb       0x8d ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000002988       0xb3 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000002a3b      0x1d9 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000002c14       0x10 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000002c24       0xfc ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000002d20       0x22 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000002d42      0x1dd ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000002f1f       0x58 ./driver_library/libs/sys_lib/src/utils.o
+
+.debug_line     0x0000000000000000     0x66a4
+ .debug_line    0x0000000000000000      0x6ef ./uart/uart.o
+ .debug_line    0x00000000000006ef      0x503 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_line    0x0000000000000bf2      0x572 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_line    0x0000000000001164      0x474 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_line    0x00000000000015d8     0x184b ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_line    0x0000000000002e23      0xdfd ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_line    0x0000000000003c20      0xf78 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_line    0x0000000000004b98      0x91c ./driver_library/libs/sys_lib/src/irq.o
+ .debug_line    0x00000000000054b4      0x67f ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_line    0x0000000000005b33      0x767 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_line    0x000000000000629a      0x40a ./driver_library/gcc/crt0.riscv.o
+
+.debug_str      0x0000000000000000     0xb31f
+ .debug_str     0x0000000000000000     0xa813 ./uart/uart.o
+                                       0xaa6c (size before relaxing)
+ .debug_str     0x000000000000a813       0xcc ./driver_library/libs/sys_lib/src/drv_clock.o
+                                       0x4287 (size before relaxing)
+ .debug_str     0x000000000000a8df       0xd3 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                                       0x4310 (size before relaxing)
+ .debug_str     0x000000000000a9b2       0xd5 ./driver_library/libs/sys_lib/src/drv_console.o
+                                       0x50d8 (size before relaxing)
+ .debug_str     0x000000000000aa87      0x16a ./driver_library/libs/sys_lib/src/drv_eflash.o
+                                       0x420d (size before relaxing)
+ .debug_str     0x000000000000abf1      0x1d1 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                                       0x4b0e (size before relaxing)
+ .debug_str     0x000000000000adc2       0xa9 ./driver_library/libs/sys_lib/src/drv_uart.o
+                                       0x5481 (size before relaxing)
+ .debug_str     0x000000000000ae6b      0x29c ./driver_library/libs/sys_lib/src/irq.o
+                                       0x80e8 (size before relaxing)
+ .debug_str     0x000000000000b107      0x163 ./driver_library/libs/sys_lib/src/system_proton.o
+                                       0x5875 (size before relaxing)
+ .debug_str     0x000000000000b26a       0x76 ./driver_library/libs/sys_lib/src/utils.o
+                                       0x875d (size before relaxing)
+ .debug_str     0x000000000000b2e0       0x3f ./driver_library/gcc/crt0.riscv.o
+                                         0x5f (size before relaxing)
+
+.comment        0x0000000000000000       0x39
+ .comment       0x0000000000000000       0x39 ./uart/uart.o
+                                         0x3a (size before relaxing)
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_clock.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_console.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_uart.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/irq.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/system_proton.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/utils.o
+
+.debug_frame    0x0000000000000000      0x80c
+ .debug_frame   0x0000000000000000       0x68 ./uart/uart.o
+ .debug_frame   0x0000000000000068       0x80 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_frame   0x00000000000000e8       0x70 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_frame   0x0000000000000158       0x88 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_frame   0x00000000000001e0      0x148 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_frame   0x0000000000000328       0xe0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_frame   0x0000000000000408      0x104 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_frame   0x000000000000050c      0x210 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_frame   0x000000000000071c       0x40 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_frame   0x000000000000075c       0x74 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_frame   0x00000000000007d0       0x3c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)

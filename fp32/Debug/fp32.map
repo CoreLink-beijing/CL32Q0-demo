@@ -1,0 +1,2389 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+                              ./driver_library/gcc/crt0.riscv.o (__libc_init_array)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+                              ./driver_library/libs/sys_lib/src/system_proton.o (memcpy)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+                              ./driver_library/libs/sys_lib/src/system_proton.o (memset)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o)
+                              ./src/fpmath_demo.o (log)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o)
+                              ./src/fpmath_demo.o (pow)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o) (__ieee754_log)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_sqrt.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_fabs.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o) (fabs)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_finite.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o) (finite)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_lib_ver.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o) (__fdlib_version)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_matherr.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o) (matherr)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_nan.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o) (nan)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_rint.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o) (rint)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_scalbn.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o) (scalbn)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_copysign.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_scalbn.o) (copysign)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(adddf3.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o) (__adddf3)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(divdf3.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o) (__divdf3)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(eqdf2.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o) (__eqdf2)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(gedf2.o)
+                              ./fpmath/fpmath.o (__gedf2)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(ledf2.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o) (__ltdf2)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(muldf3.o)
+                              ./src/fpmath_demo.o (__muldf3)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(subdf3.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o) (__subdf3)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(unorddf2.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o) (__unorddf2)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(fixdfsi.o)
+                              ./src/fpmath_demo.o (__fixdfsi)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(floatsidf.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o) (__floatsidf)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(adddf3.o) (__clzsi2)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o) (__clz_tab)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-errno.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o) (__errno)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-impure.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-errno.o) (_impure_ptr)
+
+Allocating common symbols
+Common symbol       size              file
+
+tick                0x4               ./src/fpmath_demo.o
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./src/fpmath_demo.o
+ .text          0x0000000000000000        0x0 ./src/fpmath_demo.o
+ .data          0x0000000000000000        0x0 ./src/fpmath_demo.o
+ .bss           0x0000000000000000        0x0 ./src/fpmath_demo.o
+ .group         0x0000000000000000        0xc ./fpmath/math-sll/math-sll.o
+ .group         0x0000000000000000        0xc ./fpmath/math-sll/math-sll.o
+ .text          0x0000000000000000        0x0 ./fpmath/math-sll/math-sll.o
+ .data          0x0000000000000000        0x0 ./fpmath/math-sll/math-sll.o
+ .bss           0x0000000000000000        0x0 ./fpmath/math-sll/math-sll.o
+ .text._sllcos  0x0000000000000000      0x256 ./fpmath/math-sll/math-sll.o
+ .text._sllsin  0x0000000000000000      0x26e ./fpmath/math-sll/math-sll.o
+ .text.sllmul   0x0000000000000000       0x42 ./fpmath/math-sll/math-sll.o
+ .text.sllcos   0x0000000000000000       0xd2 ./fpmath/math-sll/math-sll.o
+ .text.sllsin   0x0000000000000000       0xd2 ./fpmath/math-sll/math-sll.o
+ .text.sllexp   0x0000000000000000       0xc8 ./fpmath/math-sll/math-sll.o
+ .text.sllinv   0x0000000000000000      0x380 ./fpmath/math-sll/math-sll.o
+ .text.sllatan  0x0000000000000000      0x52a ./fpmath/math-sll/math-sll.o
+ .text.slltan   0x0000000000000000      0x166 ./fpmath/math-sll/math-sll.o
+ .text.sllsqrt.part.0
+                0x0000000000000000      0x29c ./fpmath/math-sll/math-sll.o
+ .text.sllasin  0x0000000000000000      0x42a ./fpmath/math-sll/math-sll.o
+ .text.sllsqrt  0x0000000000000000       0x20 ./fpmath/math-sll/math-sll.o
+ .rodata.sllatan.cst8
+                0x0000000000000000        0x8 ./fpmath/math-sll/math-sll.o
+ .debug_macro   0x0000000000000000      0x748 ./fpmath/math-sll/math-sll.o
+ .debug_macro   0x0000000000000000      0x1f4 ./fpmath/math-sll/math-sll.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./fpmath/fpmath.o
+ .text          0x0000000000000000        0x0 ./fpmath/fpmath.o
+ .data          0x0000000000000000        0x0 ./fpmath/fpmath.o
+ .bss           0x0000000000000000        0x0 ./fpmath/fpmath.o
+ .text.cl_fabs  0x0000000000000000       0x54 ./fpmath/fpmath.o
+ .text.cl_cos   0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .text.cl_sin   0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .text.cl_tan   0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .text.cl_acos  0x0000000000000000       0x38 ./fpmath/fpmath.o
+ .text.cl_asin  0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .text.cl_atan  0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .text.cl_cosh  0x0000000000000000       0x64 ./fpmath/fpmath.o
+ .text.cl_sinh  0x0000000000000000       0x68 ./fpmath/fpmath.o
+ .text.cl_tanh  0x0000000000000000       0x52 ./fpmath/fpmath.o
+ .text.cl_exp   0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .text.cl_log2  0x0000000000000000       0x50 ./fpmath/fpmath.o
+ .text.cl_log10
+                0x0000000000000000       0x50 ./fpmath/fpmath.o
+ .text.cl_sqrt  0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .text.cl_floor
+                0x0000000000000000       0x1a ./fpmath/fpmath.o
+ .text.cl_ceil  0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .text.fp32_log2
+                0x0000000000000000       0x40 ./fpmath/fpmath.o
+ .text.fp32_log10
+                0x0000000000000000       0x40 ./fpmath/fpmath.o
+ .rodata.cl_log10.cst8
+                0x0000000000000000        0x8 ./fpmath/fpmath.o
+ .rodata.cl_log2.cst8
+                0x0000000000000000        0x8 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000      0x748 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x22 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0xef ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x6a ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000      0x1df ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x19 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x34 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x34 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x16 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x97 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000      0x330 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0xfd ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x10 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x58 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x1f ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x43 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x20 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000      0x18e ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x10 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x1c ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x52 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x40 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x10 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x40 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0xd7 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x1c ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x3d ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000       0x16 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000      0x16f ./fpmath/fpmath.o
+ .debug_macro   0x0000000000000000      0x1f4 ./fpmath/fpmath.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_deinit
+                0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_init
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_conf_struct_init
+                0x0000000000000000       0x32 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_set_conf
+                0x0000000000000000       0x5c ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_start
+                0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_stop
+                0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_set_int_level
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_int_enable
+                0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_int_disable
+                0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_read_status
+                0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_read_result
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+ .sdata2.ADC    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_info    0x0000000000000000      0xc5d ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_abbrev  0x0000000000000000      0x2ae ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_loc     0x0000000000000000       0xac ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_ranges  0x0000000000000000       0x60 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x205 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x19 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x94 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x57 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x97 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x330 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0xfd ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x1f ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x43 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x18e ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0xd7 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x3d ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x16f ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0x35 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_macro   0x0000000000000000       0xee ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_line    0x0000000000000000      0x8a7 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_str     0x0000000000000000     0x82dd ./driver_library/libs/sys_lib/src/drv_adc.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_frame   0x0000000000000000       0xe0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text.adc_clock_select
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text.hf_clock_enable
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text.clock_status_get
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_clock.o
+ .sdata2.CLOCK  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_clock.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text.clockcal_write_factor_to_memory
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text.clockcal_read_factor_from_memory
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .sdata2.cal    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_console.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .text.console_send
+                0x0000000000000000       0x2e ./driver_library/libs/sys_lib/src/drv_console.o
+ .text.console_get_char
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0xf5 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_console.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_chip
+                0x0000000000000000       0x62 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_main_pages
+                0x0000000000000000       0x62 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_info_pages
+                0x0000000000000000       0xbc ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_program_page
+                0x0000000000000000       0x80 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_page
+                0x0000000000000000       0xb6 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_page
+                0x0000000000000000       0x80 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_main_page
+                0x0000000000000000       0xb6 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_info_page
+                0x0000000000000000       0xba ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_main_page
+                0x0000000000000000       0x84 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_info_page
+                0x0000000000000000       0x82 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .sdata2.EFLASH
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x4c ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_direction_set
+                0x0000000000000000       0x42 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_pin_value
+                0x0000000000000000       0x3e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_pin_value
+                0x0000000000000000       0x2a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_port_value
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_reset_port_value
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_port_value
+                0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_pin_int_enable
+                0x0000000000000000       0x3e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_pin_int_type
+                0x0000000000000000       0xda ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_int_status
+                0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_global_int_enable
+                0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_global_int_disable
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .sdata2.IOMUX  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .sdata2.PORT   0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_init
+                0x0000000000000000      0x142 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_deinit
+                0x0000000000000000       0xc6 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_setup_adapter
+                0x0000000000000000       0x50 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_get_status
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_get_ack
+                0x0000000000000000       0x46 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_send_data
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_send_command
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_get_data
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_busy
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_xfer
+                0x0000000000000000      0x17e ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C0   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C1   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C2   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C3   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C4   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C5   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_info    0x0000000000000000      0x964 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_abbrev  0x0000000000000000      0x250 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_loc     0x0000000000000000      0x724 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_aranges
+                0x0000000000000000       0x68 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_ranges  0x0000000000000000      0x150 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0xa0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0xf4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_line    0x0000000000000000     0x1095 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_str     0x0000000000000000     0x5113 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_frame   0x0000000000000000       0xf0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_get
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_is_ready
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_bais_powerdown_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_bais_powerdown_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_powerdown_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_powerdown_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_threshold_set
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_threshold_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_status_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_vcc_value_get
+                0x0000000000000000       0x54 ./driver_library/libs/sys_lib/src/drv_power.o
+ .rodata.vol_tab
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_power.o
+ .sdata2.pwr_ctrl
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_info    0x0000000000000000      0x2f8 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_abbrev  0x0000000000000000      0x1b7 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_loc     0x0000000000000000       0xce ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_ranges  0x0000000000000000       0x78 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x7a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_line    0x0000000000000000      0x61e ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_str     0x0000000000000000     0x4187 ./driver_library/libs/sys_lib/src/drv_power.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_frame   0x0000000000000000       0xcc ./driver_library/libs/sys_lib/src/drv_power.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_init
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_deinit
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_set_channel
+                0x0000000000000000       0x42 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_enable_channel
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_disable_channel
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_enable_all_channel
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_disable_all_channel
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_enable_multi_channel
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .sdata2.PWM    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_info    0x0000000000000000      0x237 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_abbrev  0x0000000000000000      0x10b ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_loc     0x0000000000000000      0x100 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_ranges  0x0000000000000000       0x48 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x7a ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_macro   0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_line    0x0000000000000000      0x5b3 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_str     0x0000000000000000     0x414a ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_frame   0x0000000000000000       0x90 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_deinit
+                0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_init
+                0x0000000000000000       0x2a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_enable
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_disable
+                0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_set_time
+                0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_get_time
+                0x0000000000000000       0xfe ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_set_alarm
+                0x0000000000000000       0xe4 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_get_alarm
+                0x0000000000000000       0xbe ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_enable
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_disable
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_int_enable
+                0x0000000000000000       0x38 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_int_disable
+                0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_reset
+                0x0000000000000000       0x30 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .sdata2.rtc    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_info    0x0000000000000000      0x817 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_abbrev  0x0000000000000000      0x21d ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_loc     0x0000000000000000     0x13f5 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_ranges  0x0000000000000000       0xc8 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x96 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_line    0x0000000000000000      0xea5 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_str     0x0000000000000000     0x4351 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_frame   0x0000000000000000      0x190 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_scu.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .text.scu_reset_mcu
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .text.scu_get_reset_reason
+                0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .sdata2.SCU    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_info    0x0000000000000000      0x10f ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_abbrev  0x0000000000000000       0xd3 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_ranges  0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x84 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_macro   0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_line    0x0000000000000000      0x33c ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_str     0x0000000000000000     0x3f4f ./driver_library/libs/sys_lib/src/drv_scu.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_frame   0x0000000000000000       0x30 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_init
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_deinit
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_master
+                0x0000000000000000       0xa8 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_set_max_speed
+                0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_attach_chip_select
+                0x0000000000000000      0x164 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_cmd_addr
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_dummy
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_set_datalen
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_start_transaction
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_get_status
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_fifo
+                0x0000000000000000       0x46 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_read_fifo
+                0x0000000000000000       0x46 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.swap_endian
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_chip_select
+                0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_release_chip_select
+                0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_direct
+                0x0000000000000000      0x112 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_read_direct
+                0x0000000000000000      0x12c ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_then_read_direct
+                0x0000000000000000      0x206 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_then_write_direct
+                0x0000000000000000      0x1da ./driver_library/libs/sys_lib/src/drv_spi.o
+ .sdata2.SPI0   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .sdata2.SPI1   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_info    0x0000000000000000     0x1712 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_abbrev  0x0000000000000000      0x2ee ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_loc     0x0000000000000000     0x1593 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_aranges
+                0x0000000000000000       0xa8 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_ranges  0x0000000000000000      0x478 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0xa0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0xdc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_line    0x0000000000000000     0x2405 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_str     0x0000000000000000     0x5189 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_frame   0x0000000000000000      0x270 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_deinit
+                0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_int_disable
+                0x0000000000000000       0x92 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_int_reset
+                0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_reset
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_stop
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_get_count
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER0
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER2
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER3
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_init
+                0x0000000000000000      0x1ec ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_deinit
+                0x0000000000000000       0x90 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_int_disable
+                0x0000000000000000       0xcc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_int_reset
+                0x0000000000000000       0x9a ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_send
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_get_char
+                0x0000000000000000       0x14 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART1  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART2  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART3  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART4  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART5  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0xf5 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_init
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_deinit
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_start
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_keep_alive
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_reset_mcu
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .sdata2.WDT    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_info    0x0000000000000000      0x161 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_abbrev  0x0000000000000000       0xe4 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_aranges
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_ranges  0x0000000000000000       0x30 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x8d ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_line    0x0000000000000000      0x3ec ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_str     0x0000000000000000     0x3faf ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_frame   0x0000000000000000       0x60 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/irq.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .text.default_exception_handler_c
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x19 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x94 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x57 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x97 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x330 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0xfd ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x1f ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x43 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x18e ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0xd7 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x3d ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x16f ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/irq.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/system_proton.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x4c ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0xf5 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/system_proton.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/utils.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .text.eoc      0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/utils.o
+ .text.sleep_busy
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/utils.o
+ .text.cpu_perf_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .text.cpu_perf_get
+                0x0000000000000000       0x96 ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_get
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_get.str1.4
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_set.str1.4
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x19 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x34 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x97 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x330 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0xfd ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x58 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x1f ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x43 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x18e ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x52 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0xd7 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x3d ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x16f ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x162 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000      0x224 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/utils.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .group         0x0000000000000000        0xc ./driver_library/libs/string_lib/src/qprintf.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.puts     0x0000000000000000       0x3c ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strcmp_c
+                0x0000000000000000       0x82 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.memset_c
+                0x0000000000000000       0x20 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strcpy_c
+                0x0000000000000000       0x18 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strlen_c
+                0x0000000000000000       0x20 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000      0x748 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000      0x174 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x22 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x8e ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x51 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0xef ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x6a ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000      0x1df ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000      0x15c ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0xf5 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000000000       0x16 ./driver_library/libs/string_lib/src/qprintf.o
+ .data          0x0000000000000000        0x0 ./driver_library/gcc/crt0.riscv.o
+ .bss           0x0000000000000000        0x0 ./driver_library/gcc/crt0.riscv.o
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_sqrt.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_sqrt.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_sqrt.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_fabs.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_fabs.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_fabs.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_finite.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_finite.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_finite.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_lib_ver.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_lib_ver.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_matherr.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_matherr.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_matherr.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_nan.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_nan.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_nan.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_rint.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_rint.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_rint.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_scalbn.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_scalbn.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_scalbn.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_copysign.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_copysign.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_copysign.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(adddf3.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(adddf3.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(adddf3.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(divdf3.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(eqdf2.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(eqdf2.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(eqdf2.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(gedf2.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(gedf2.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(gedf2.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(ledf2.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(ledf2.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(ledf2.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(muldf3.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(subdf3.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(unorddf2.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(unorddf2.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(unorddf2.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(fixdfsi.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(floatsidf.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(floatsidf.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-impure.o)
+ .sdata2._global_impure_ptr
+                0x0000000000000000        0x4 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-impure.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_text           0x0000000000000000 0x0000000000008000
+m_data           0x0000000000100000 0x0000000000004000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/fpmath_demo.o
+LOAD ./fpmath/math-sll/math-sll.o
+LOAD ./fpmath/fpmath.o
+LOAD ./driver_library/libs/sys_lib/src/drv_adc.o
+LOAD ./driver_library/libs/sys_lib/src/drv_clock.o
+LOAD ./driver_library/libs/sys_lib/src/drv_clockcal.o
+LOAD ./driver_library/libs/sys_lib/src/drv_console.o
+LOAD ./driver_library/libs/sys_lib/src/drv_eflash.o
+LOAD ./driver_library/libs/sys_lib/src/drv_gpio.o
+LOAD ./driver_library/libs/sys_lib/src/drv_i2c.o
+LOAD ./driver_library/libs/sys_lib/src/drv_power.o
+LOAD ./driver_library/libs/sys_lib/src/drv_pwm.o
+LOAD ./driver_library/libs/sys_lib/src/drv_rtc.o
+LOAD ./driver_library/libs/sys_lib/src/drv_scu.o
+LOAD ./driver_library/libs/sys_lib/src/drv_spi.o
+LOAD ./driver_library/libs/sys_lib/src/drv_timer.o
+LOAD ./driver_library/libs/sys_lib/src/drv_uart.o
+LOAD ./driver_library/libs/sys_lib/src/drv_wdt.o
+LOAD ./driver_library/libs/sys_lib/src/irq.o
+LOAD ./driver_library/libs/sys_lib/src/system_proton.o
+LOAD ./driver_library/libs/sys_lib/src/utils.o
+LOAD ./driver_library/libs/string_lib/src/qprintf.o
+LOAD ./driver_library/gcc/crt0.riscv.o
+START GROUP
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libgloss.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libsupc++.a
+END GROUP
+                0x0000000000000800                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x800
+
+.vectors        0x0000000000000000       0x8c
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c ./driver_library/gcc/crt0.riscv.o
+
+.text           0x0000000000000090      0x608
+                0x0000000000000090                . = ALIGN (0x4)
+                0x0000000000000090                _stext = .
+ *(.text)
+ .text          0x0000000000000090      0x158 ./driver_library/gcc/crt0.riscv.o
+                0x00000000000001e6                _fini
+                0x00000000000001e6                _init
+ .text          0x00000000000001e8       0xdc d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+                0x00000000000001e8                memset
+                0x00000000000002c4                _etext = .
+ *(.rodata)
+ *(.rodata.*)
+ *fill*         0x00000000000002c4        0x4 
+ .rodata.main.cst8
+                0x00000000000002c8       0x10 ./src/fpmath_demo.o
+ .rodata.main.str1.4
+                0x00000000000002d8       0x26 ./src/fpmath_demo.o
+ *fill*         0x00000000000002fe        0x2 
+ .rodata.sllexp.cst8
+                0x0000000000000300        0x8 ./fpmath/math-sll/math-sll.o
+ .rodata.CSWTCH.0
+                0x0000000000000308       0x1c ./driver_library/libs/sys_lib/src/drv_clock.o
+ .rodata.gpio_mode_set
+                0x0000000000000324       0x20 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .rodata.printf.str1.4
+                0x0000000000000344        0x7 ./driver_library/libs/string_lib/src/qprintf.o
+ *fill*         0x000000000000034b        0x5 
+ .rodata.log.cst8
+                0x0000000000000350       0x10 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o)
+ .rodata.log.str1.4
+                0x0000000000000360        0x5 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o)
+ *fill*         0x0000000000000365        0x3 
+ .rodata.pow.cst8
+                0x0000000000000368       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o)
+                                         0x30 (size before relaxing)
+ .rodata.pow.str1.4
+                0x0000000000000388        0x4 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o)
+ *fill*         0x000000000000038c        0x4 
+ .rodata.__ieee754_log.cst8
+                0x0000000000000390       0x68 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o)
+                                         0x78 (size before relaxing)
+ .rodata.__ieee754_pow.cst8
+                0x00000000000003f8       0xf0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o)
+                                        0x110 (size before relaxing)
+ .rodata.__ieee754_pow.str1.4
+                0x00000000000004e8        0x1 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o)
+ .rodata.nan.cst8
+                0x00000000000004e8        0x8 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_nan.o)
+ .rodata.TWO52  0x00000000000004f0       0x10 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_rint.o)
+ .rodata.scalbn.cst8
+                0x0000000000000500        0x8 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_scalbn.o)
+                                         0x20 (size before relaxing)
+ .rodata.__divdf3
+                0x0000000000000508       0x40 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(divdf3.o)
+ .rodata.__muldf3
+                0x0000000000000548       0x40 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(muldf3.o)
+ .rodata.__clz_tab
+                0x0000000000000588      0x100 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+                0x0000000000000588                __clz_tab
+                0x0000000000000688                __CTOR_LIST__ = .
+                0x0000000000000688        0x4 LONG 0x0 (((__CTOR_END__ - __CTOR_LIST__) / 0x4) - 0x2)
+ *(.ctors)
+                0x000000000000068c        0x4 LONG 0x0
+                0x0000000000000690                __CTOR_END__ = .
+                0x0000000000000690                __DTOR_LIST__ = .
+                0x0000000000000690        0x4 LONG 0x0 (((__DTOR_END__ - __DTOR_LIST__) / 0x4) - 0x2)
+ *(.dtors)
+                0x0000000000000694        0x4 LONG 0x0
+                0x0000000000000698                __DTOR_END__ = .
+ *(.lit)
+ *(.shdata)
+                0x0000000000000698                . = ALIGN (0x4)
+                0x0000000000000698                __fsymtab_start = .
+ *(FSymTab)
+                0x0000000000000698                __fsymtab_end = .
+                0x0000000000000698                . = ALIGN (0x4)
+                0x0000000000000698                __vsymtab_start = .
+ *(VSymTab)
+                0x0000000000000698                __vsymtab_end = .
+                0x0000000000000698                . = ALIGN (0x4)
+                0x0000000000000698                . = ALIGN (0x4)
+                0x0000000000000698                __rt_init_start = .
+ *(SORT_BY_NAME(.rti_fn*))
+                0x0000000000000698                __rt_init_end = .
+                0x0000000000000698                . = ALIGN (0x4)
+                0x0000000000000698                _endtext = .
+
+.text.timer1_irq_handler
+                0x0000000000000698       0x1c
+ .text.timer1_irq_handler
+                0x0000000000000698       0x1c ./src/fpmath_demo.o
+                0x0000000000000698                timer1_irq_handler
+
+.text.tick_init
+                0x00000000000006b4       0x5a
+ .text.tick_init
+                0x00000000000006b4       0x5a ./src/fpmath_demo.o
+                0x00000000000006b4                tick_init
+
+.text.startup.main
+                0x000000000000070e      0x19e
+ .text.startup.main
+                0x000000000000070e      0x19e ./src/fpmath_demo.o
+                0x000000000000070e                main
+
+.text._sllexp   0x00000000000008ac      0x3aa
+ .text._sllexp  0x00000000000008ac      0x3aa ./fpmath/math-sll/math-sll.o
+
+.text.dbl2sll   0x0000000000000c56       0x72
+ .text.dbl2sll  0x0000000000000c56       0x72 ./fpmath/math-sll/math-sll.o
+                0x0000000000000c56                dbl2sll
+
+.text.sll2dbl   0x0000000000000cc8       0xb2
+ .text.sll2dbl  0x0000000000000cc8       0xb2 ./fpmath/math-sll/math-sll.o
+                0x0000000000000cc8                sll2dbl
+
+.text.slllog    0x0000000000000d7a      0x292
+ .text.slllog   0x0000000000000d7a      0x292 ./fpmath/math-sll/math-sll.o
+                0x0000000000000d7a                slllog
+
+.text.sllpow    0x000000000000100c      0x116
+ .text.sllpow   0x000000000000100c      0x116 ./fpmath/math-sll/math-sll.o
+                0x000000000000100c                sllpow
+
+.text.cl_log    0x0000000000001122        0xe
+ .text.cl_log   0x0000000000001122        0xe ./fpmath/fpmath.o
+                0x0000000000001122                cl_log
+
+.text.cl_pow    0x0000000000001130       0x34
+ .text.cl_pow   0x0000000000001130       0x34 ./fpmath/fpmath.o
+                0x0000000000001130                cl_pow
+
+.text.system_clock_set
+                0x0000000000001164       0x16
+ .text.system_clock_set
+                0x0000000000001164       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x0000000000001164                system_clock_set
+
+.text.system_clock_get
+                0x000000000000117a       0x26
+ .text.system_clock_get
+                0x000000000000117a       0x26 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x000000000000117a                system_clock_get
+
+.text.lf_clock_select
+                0x00000000000011a0       0x16
+ .text.lf_clock_select
+                0x00000000000011a0       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x00000000000011a0                lf_clock_select
+
+.text.ext_clock_enable
+                0x00000000000011b6       0x1e
+ .text.ext_clock_enable
+                0x00000000000011b6       0x1e ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x00000000000011b6                ext_clock_enable
+
+.text.clockcal_calibrate
+                0x00000000000011d4       0x32
+ .text.clockcal_calibrate
+                0x00000000000011d4       0x32 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x00000000000011d4                clockcal_calibrate
+
+.text.clockcal_read_factor_register
+                0x0000000000001206       0x1a
+ .text.clockcal_read_factor_register
+                0x0000000000001206       0x1a ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x0000000000001206                clockcal_read_factor_register
+
+.text.clockcal_write_factor_register
+                0x0000000000001220       0x32
+ .text.clockcal_write_factor_register
+                0x0000000000001220       0x32 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x0000000000001220                clockcal_write_factor_register
+
+.text.console_init
+                0x0000000000001252       0x50
+ .text.console_init
+                0x0000000000001252       0x50 ./driver_library/libs/sys_lib/src/drv_console.o
+                0x0000000000001252                console_init
+
+.text.console_send_char
+                0x00000000000012a2       0x20
+ .text.console_send_char
+                0x00000000000012a2       0x20 ./driver_library/libs/sys_lib/src/drv_console.o
+                0x00000000000012a2                console_send_char
+
+.text.eflash_erase_page
+                0x00000000000012c2       0x6e
+ .text.eflash_erase_page
+                0x00000000000012c2       0x6e ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x00000000000012c2                eflash_erase_page
+
+.text.eflash_program_word
+                0x0000000000001330       0x5c
+ .text.eflash_program_word
+                0x0000000000001330       0x5c ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x0000000000001330                eflash_program_word
+
+.text.eflash_read_word
+                0x000000000000138c       0x5c
+ .text.eflash_read_word
+                0x000000000000138c       0x5c ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x000000000000138c                eflash_read_word
+
+.text.gpio_func_set
+                0x00000000000013e8       0x48
+ .text.gpio_func_set
+                0x00000000000013e8       0x48 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x00000000000013e8                gpio_func_set
+
+.text.gpio_mode_set
+                0x0000000000001430      0x1c8
+ .text.gpio_mode_set
+                0x0000000000001430      0x1c8 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x0000000000001430                gpio_mode_set
+
+.text.timer_init
+                0x00000000000015f8       0x1e
+ .text.timer_init
+                0x00000000000015f8       0x1e ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x00000000000015f8                timer_init
+
+.text.timer_int_enable
+                0x0000000000001616       0x72
+ .text.timer_int_enable
+                0x0000000000001616       0x72 ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x0000000000001616                timer_int_enable
+
+.text.timer_set_prescaler
+                0x0000000000001688       0x1e
+ .text.timer_set_prescaler
+                0x0000000000001688       0x1e ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x0000000000001688                timer_set_prescaler
+
+.text.timer_start
+                0x00000000000016a6       0x14
+ .text.timer_start
+                0x00000000000016a6       0x14 ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x00000000000016a6                timer_start
+
+.text.timer_set_output_cmp
+                0x00000000000016ba        0xc
+ .text.timer_set_output_cmp
+                0x00000000000016ba        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x00000000000016ba                timer_set_output_cmp
+
+.text.uartx_set_conf
+                0x00000000000016c6       0x66
+ .text.uartx_set_conf
+                0x00000000000016c6       0x66 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x00000000000016c6                uartx_set_conf
+
+.text.uartx_int_enable
+                0x000000000000172c       0x94
+ .text.uartx_int_enable
+                0x000000000000172c       0x94 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x000000000000172c                uartx_int_enable
+
+.text.uartx_send_char
+                0x00000000000017c0       0x14
+ .text.uartx_send_char
+                0x00000000000017c0       0x14 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x00000000000017c0                uartx_send_char
+
+.text.uartx_wait_tx_done
+                0x00000000000017d4       0x12
+ .text.uartx_wait_tx_done
+                0x00000000000017d4       0x12 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x00000000000017d4                uartx_wait_tx_done
+
+.text.default_irq_handler
+                0x00000000000017e6        0x2
+ .text.default_irq_handler
+                0x00000000000017e6        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017e6                default_irq_handler
+
+.text.I2C5_IRQ_handler
+                0x00000000000017e8        0x2
+ .text.I2C5_IRQ_handler
+                0x00000000000017e8        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017e8                I2C5_IRQ_handler
+
+.text.I2C4_IRQ_handler
+                0x00000000000017ea        0x2
+ .text.I2C4_IRQ_handler
+                0x00000000000017ea        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017ea                I2C4_IRQ_handler
+
+.text.I2C3_IRQ_handler
+                0x00000000000017ec        0x2
+ .text.I2C3_IRQ_handler
+                0x00000000000017ec        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017ec                I2C3_IRQ_handler
+
+.text.I2C2_IRQ_handler
+                0x00000000000017ee        0x2
+ .text.I2C2_IRQ_handler
+                0x00000000000017ee        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017ee                I2C2_IRQ_handler
+
+.text.I2C1_IRQ_handler
+                0x00000000000017f0        0x2
+ .text.I2C1_IRQ_handler
+                0x00000000000017f0        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017f0                I2C1_IRQ_handler
+
+.text.I2C0_IRQ_handler
+                0x00000000000017f2        0x2
+ .text.I2C0_IRQ_handler
+                0x00000000000017f2        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017f2                I2C0_IRQ_handler
+
+.text.ADCH_IRQ_handler
+                0x00000000000017f4        0x2
+ .text.ADCH_IRQ_handler
+                0x00000000000017f4        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017f4                ADCH_IRQ_handler
+
+.text.ADCF_IRQ_handler
+                0x00000000000017f6        0x2
+ .text.ADCF_IRQ_handler
+                0x00000000000017f6        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017f6                ADCF_IRQ_handler
+
+.text.RTC_IRQ_handler
+                0x00000000000017f8        0x2
+ .text.RTC_IRQ_handler
+                0x00000000000017f8        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017f8                RTC_IRQ_handler
+
+.text.CAL32M_IRQ_handler
+                0x00000000000017fa        0x2
+ .text.CAL32M_IRQ_handler
+                0x00000000000017fa        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017fa                CAL32M_IRQ_handler
+
+.text.CAL32K_IRQ_handler
+                0x00000000000017fc        0x2
+ .text.CAL32K_IRQ_handler
+                0x00000000000017fc        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017fc                CAL32K_IRQ_handler
+
+.text.UART5_IRQ_handler
+                0x00000000000017fe        0x2
+ .text.UART5_IRQ_handler
+                0x00000000000017fe        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000017fe                UART5_IRQ_handler
+
+.text.UART4_IRQ_handler
+                0x0000000000001800        0x2
+ .text.UART4_IRQ_handler
+                0x0000000000001800        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001800                UART4_IRQ_handler
+
+.text.UART3_IRQ_handler
+                0x0000000000001802        0x2
+ .text.UART3_IRQ_handler
+                0x0000000000001802        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001802                UART3_IRQ_handler
+
+.text.UART2_IRQ_handler
+                0x0000000000001804        0x2
+ .text.UART2_IRQ_handler
+                0x0000000000001804        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001804                UART2_IRQ_handler
+
+.text.UART1_IRQ_handler
+                0x0000000000001806        0x2
+ .text.UART1_IRQ_handler
+                0x0000000000001806        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001806                UART1_IRQ_handler
+
+.text.UART0_IRQ_handler
+                0x0000000000001808        0x2
+ .text.UART0_IRQ_handler
+                0x0000000000001808        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001808                UART0_IRQ_handler
+
+.text.GPIO_IRQ_handler
+                0x000000000000180a        0x2
+ .text.GPIO_IRQ_handler
+                0x000000000000180a        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000180a                GPIO_IRQ_handler
+
+.text.SPIM1A_IRQ_handler
+                0x000000000000180c        0x2
+ .text.SPIM1A_IRQ_handler
+                0x000000000000180c        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000180c                SPIM1A_IRQ_handler
+
+.text.SPIM1B_IRQ_handler
+                0x000000000000180e        0x2
+ .text.SPIM1B_IRQ_handler
+                0x000000000000180e        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000180e                SPIM1B_IRQ_handler
+
+.text.SPIM0A_IRQ_handler
+                0x0000000000001810        0x2
+ .text.SPIM0A_IRQ_handler
+                0x0000000000001810        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001810                SPIM0A_IRQ_handler
+
+.text.SPIM0B_IRQ_handler
+                0x0000000000001812        0x2
+ .text.SPIM0B_IRQ_handler
+                0x0000000000001812        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001812                SPIM0B_IRQ_handler
+
+.text.TIMER0_IRQ_handler
+                0x0000000000001814        0x2
+ .text.TIMER0_IRQ_handler
+                0x0000000000001814        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001814                TIMER0_IRQ_handler
+
+.text.TIMER1_IRQ_handler
+                0x0000000000001816        0x2
+ .text.TIMER1_IRQ_handler
+                0x0000000000001816        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001816                TIMER1_IRQ_handler
+
+.text.TIMER2_IRQ_handler
+                0x0000000000001818        0x2
+ .text.TIMER2_IRQ_handler
+                0x0000000000001818        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001818                TIMER2_IRQ_handler
+
+.text.TIMER3_IRQ_handler
+                0x000000000000181a        0x2
+ .text.TIMER3_IRQ_handler
+                0x000000000000181a        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000181a                TIMER3_IRQ_handler
+
+.text.illegal_insn_handler_c
+                0x000000000000181c        0x2
+ .text.illegal_insn_handler_c
+                0x000000000000181c        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000181c                illegal_insn_handler_c
+
+.text.ecall_insn_handler_c
+                0x000000000000181e        0x2
+ .text.ecall_insn_handler_c
+                0x000000000000181e        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000181e                ecall_insn_handler_c
+
+.text.request_irq
+                0x0000000000001820       0x22
+ .text.request_irq
+                0x0000000000001820       0x22 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001820                request_irq
+
+.text.system_irq_handler
+                0x0000000000001842       0x1a
+ .text.system_irq_handler
+                0x0000000000001842       0x1a ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000001842                system_irq_handler
+
+.text.system_init_hook
+                0x000000000000185c      0x10a
+ .text.system_init_hook
+                0x000000000000185c      0x10a ./driver_library/libs/sys_lib/src/system_proton.o
+                0x000000000000185c                system_init_hook
+
+.text.system_init
+                0x0000000000001966       0x50
+ .text.system_init
+                0x0000000000001966       0x50 ./driver_library/libs/sys_lib/src/system_proton.o
+                0x0000000000001966                system_init
+
+.text.exit      0x00000000000019b6       0x12
+ .text.exit     0x00000000000019b6       0x12 ./driver_library/libs/sys_lib/src/utils.o
+                0x00000000000019b6                exit
+
+.text.qprinti.constprop.1
+                0x00000000000019c8      0x2ba
+ .text.qprinti.constprop.1
+                0x00000000000019c8      0x2ba ./driver_library/libs/string_lib/src/qprintf.o
+
+.text.putchar   0x0000000000001c82       0x1a
+ .text.putchar  0x0000000000001c82       0x1a ./driver_library/libs/string_lib/src/qprintf.o
+                0x0000000000001c82                putchar
+
+.text.printf    0x0000000000001c9c      0x354
+ .text.printf   0x0000000000001c9c      0x354 ./driver_library/libs/string_lib/src/qprintf.o
+                0x0000000000001c9c                printf
+
+.text.__libc_init_array
+                0x0000000000001ff0       0x98
+ .text.__libc_init_array
+                0x0000000000001ff0       0x98 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+                0x0000000000001ff0                __libc_init_array
+
+.text.memcpy    0x0000000000002088      0x11c
+ .text.memcpy   0x0000000000002088      0x11c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+                0x0000000000002088                memcpy
+
+.text.log       0x00000000000021a4      0x1c8
+ .text.log      0x00000000000021a4      0x1c8 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o)
+                0x00000000000021a4                log
+
+.text.pow       0x000000000000236c      0x4dc
+ .text.pow      0x000000000000236c      0x4dc d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o)
+                0x000000000000236c                pow
+
+.text.__ieee754_log
+                0x0000000000002848      0x5dc
+ .text.__ieee754_log
+                0x0000000000002848      0x5dc d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o)
+                0x0000000000002848                __ieee754_log
+
+.text.__ieee754_pow
+                0x0000000000002e24      0xfd8
+ .text.__ieee754_pow
+                0x0000000000002e24      0xfd8 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o)
+                0x0000000000002e24                __ieee754_pow
+
+.text.__ieee754_sqrt
+                0x0000000000003dfc      0x2b0
+ .text.__ieee754_sqrt
+                0x0000000000003dfc      0x2b0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_sqrt.o)
+                0x0000000000003dfc                __ieee754_sqrt
+
+.text.fabs      0x00000000000040ac        0xc
+ .text.fabs     0x00000000000040ac        0xc d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_fabs.o)
+                0x00000000000040ac                fabs
+
+.text.finite    0x00000000000040b8       0x18
+ .text.finite   0x00000000000040b8       0x18 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_finite.o)
+                0x00000000000040b8                finite
+
+.text.matherr   0x00000000000040d0        0x8
+ .text.matherr  0x00000000000040d0        0x8 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_matherr.o)
+                0x00000000000040d0                matherr
+
+.text.nan       0x00000000000040d8       0x14
+ .text.nan      0x00000000000040d8       0x14 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_nan.o)
+                0x00000000000040d8                nan
+
+.text.rint      0x00000000000040ec      0x21c
+ .text.rint     0x00000000000040ec      0x21c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_rint.o)
+                0x00000000000040ec                rint
+
+.text.scalbn    0x0000000000004308      0x1f4
+ .text.scalbn   0x0000000000004308      0x1f4 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_scalbn.o)
+                0x0000000000004308                scalbn
+
+.text.copysign  0x00000000000044fc       0x24
+ .text.copysign
+                0x00000000000044fc       0x24 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_copysign.o)
+                0x00000000000044fc                copysign
+
+.text.__adddf3  0x0000000000004520      0x884
+ .text.__adddf3
+                0x0000000000004520      0x884 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(adddf3.o)
+                0x0000000000004520                __adddf3
+
+.text.__divdf3  0x0000000000004da4      0x798
+ .text.__divdf3
+                0x0000000000004da4      0x798 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(divdf3.o)
+                0x0000000000004da4                __divdf3
+
+.text.__eqdf2   0x000000000000553c       0x8c
+ .text.__eqdf2  0x000000000000553c       0x8c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(eqdf2.o)
+                0x000000000000553c                __nedf2
+                0x000000000000553c                __eqdf2
+
+.text.__gedf2   0x00000000000055c8       0xf0
+ .text.__gedf2  0x00000000000055c8       0xf0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(gedf2.o)
+                0x00000000000055c8                __gedf2
+                0x00000000000055c8                __gtdf2
+
+.text.__ledf2   0x00000000000056b8       0xfc
+ .text.__ledf2  0x00000000000056b8       0xfc d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(ledf2.o)
+                0x00000000000056b8                __ledf2
+                0x00000000000056b8                __ltdf2
+
+.text.__muldf3  0x00000000000057b4      0x65c
+ .text.__muldf3
+                0x00000000000057b4      0x65c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(muldf3.o)
+                0x00000000000057b4                __muldf3
+
+.text.__subdf3  0x0000000000005e10      0x87c
+ .text.__subdf3
+                0x0000000000005e10      0x87c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(subdf3.o)
+                0x0000000000005e10                __subdf3
+
+.text.__unorddf2
+                0x000000000000668c       0x54
+ .text.__unorddf2
+                0x000000000000668c       0x54 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(unorddf2.o)
+                0x000000000000668c                __unorddf2
+
+.text.__fixdfsi
+                0x00000000000066e0       0x84
+ .text.__fixdfsi
+                0x00000000000066e0       0x84 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(fixdfsi.o)
+                0x00000000000066e0                __fixdfsi
+
+.text.__floatsidf
+                0x0000000000006764       0xc0
+ .text.__floatsidf
+                0x0000000000006764       0xc0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(floatsidf.o)
+                0x0000000000006764                __floatsidf
+
+.text.__clzsi2  0x0000000000006824       0x84
+ .text.__clzsi2
+                0x0000000000006824       0x84 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+                0x0000000000006824                __clzsi2
+
+.text.__errno   0x00000000000068a8       0x10
+ .text.__errno  0x00000000000068a8       0x10 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-errno.o)
+                0x00000000000068a8                __errno
+
+.sdata2.TIMER1  0x00000000000068b8        0x4
+ .sdata2.TIMER1
+                0x00000000000068b8        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x00000000000068b8                TIMER1
+
+.sdata2.UART0   0x00000000000068bc        0x4
+ .sdata2.UART0  0x00000000000068bc        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x00000000000068bc                UART0
+
+.rela.dyn       0x00000000000068c0        0x0
+ .rela.text.startup.main
+                0x00000000000068c0        0x0 ./src/fpmath_demo.o
+ .rela.data.isr_table
+                0x00000000000068c0        0x0 ./src/fpmath_demo.o
+ .rela.text.system_init
+                0x00000000000068c0        0x0 ./src/fpmath_demo.o
+ .rela.text     0x00000000000068c0        0x0 ./src/fpmath_demo.o
+ .rela.text.__libc_init_array
+                0x00000000000068c0        0x0 ./src/fpmath_demo.o
+
+.preinit_array  0x00000000000068c0        0x0
+                0x00000000000068c0                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x00000000000068c0                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000000000068c0        0x0
+                0x00000000000068c0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x00000000000068c0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000000000068c0        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x00000000000068c0                __etext = .
+                0x00000000000068c0                __global_pointer = .
+                0x00000000000068c0                __DATA_ROM = .
+
+.data           0x0000000000100000      0x4b8 load address 0x00000000000068c0
+                0x0000000000100000                . = ALIGN (0x4)
+                0x0000000000100000                __DATA_RAM = .
+                0x0000000000100000                __data_start__ = .
+                0x0000000000100000                sdata = .
+ *(.data)
+ *(.data.*)
+ .data.isr_table
+                0x0000000000100000       0x80 ./driver_library/libs/sys_lib/src/irq.o
+ .data.remu10_table
+                0x0000000000100080       0x10 ./driver_library/libs/string_lib/src/qprintf.o
+                0x0000000000100080                remu10_table
+ .data.impure_data
+                0x0000000000100090      0x428 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-impure.o)
+                0x00000000001004b8                edata = .
+                0x00000000001004b8                . = ALIGN (0x4)
+                0x00000000001004b8                __data_end__ = .
+
+.sdata.__fdlib_version
+                0x00000000001004b8        0x4 load address 0x0000000000006d78
+ .sdata.__fdlib_version
+                0x00000000001004b8        0x4 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_lib_ver.o)
+                0x00000000001004b8                __fdlib_version
+
+.sdata._impure_ptr
+                0x00000000001004bc        0x4 load address 0x0000000000006d7c
+ .sdata._impure_ptr
+                0x00000000001004bc        0x4 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-impure.o)
+                0x00000000001004bc                _impure_ptr
+
+.stack          0x00000000001004c0      0x800 load address 0x0000000000006d80
+                0x00000000001004c0                . = ALIGN (0x8)
+                0x00000000001004c0                __StackLimit = .
+                0x0000000000100cc0                . = (. + STACK_SIZE)
+ *fill*         0x00000000001004c0      0x800 
+                0x0000000000100cc0                __StackTop = .
+                0x0000000000100cc0                __rt_thread_irq_stack_top = .
+                0x0000000000100cc0                __freertos_irq_stack_top = .
+                [!provide]                        PROVIDE (__stack = __StackTop)
+                0x0000000000100cc0                __bss_start = .
+
+.bss            0x0000000000100cc0        0x8 load address 0x0000000000007580
+                0x0000000000100cc0                . = ALIGN (0x4)
+                0x0000000000100cc0                __START_BSS = .
+                0x0000000000100cc0                __bss_start__ = .
+ *(.bss)
+ *(.bss.*)
+ *(.sbss)
+ *(.sbss.*)
+ .sbss.tick_count
+                0x0000000000100cc0        0x4 ./src/fpmath_demo.o
+                0x0000000000100cc0                tick_count
+ *(COMMON)
+ COMMON         0x0000000000100cc4        0x4 ./src/fpmath_demo.o
+                0x0000000000100cc4                tick
+                0x0000000000100cc8                . = ALIGN (0x4)
+                0x0000000000100cc8                __bss_end__ = .
+                0x0000000000100cc8                __END_BSS = .
+                0x0000000000100cc8                __bss_end = .
+OUTPUT(fp32.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0x9dfe
+ .debug_info    0x0000000000000000     0x10f9 ./src/fpmath_demo.o
+ .debug_info    0x00000000000010f9     0x2a16 ./fpmath/math-sll/math-sll.o
+ .debug_info    0x0000000000003b0f     0x13de ./fpmath/fpmath.o
+ .debug_info    0x0000000000004eed      0x249 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_info    0x0000000000005136      0x2a1 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_info    0x00000000000053d7      0x444 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_info    0x000000000000581b      0x9ca ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_info    0x00000000000061e5      0x45e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_info    0x0000000000006643      0x33d ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_info    0x0000000000006980      0x7c0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_info    0x0000000000007140      0xbf7 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_info    0x0000000000007d37      0x75c ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_info    0x0000000000008493      0xa9f ./driver_library/libs/sys_lib/src/utils.o
+ .debug_info    0x0000000000008f32      0xeaa ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_info    0x0000000000009ddc       0x22 ./driver_library/gcc/crt0.riscv.o
+
+.debug_abbrev   0x0000000000000000     0x1e83
+ .debug_abbrev  0x0000000000000000      0x323 ./src/fpmath_demo.o
+ .debug_abbrev  0x0000000000000323      0x2b5 ./fpmath/math-sll/math-sll.o
+ .debug_abbrev  0x00000000000005d8      0x346 ./fpmath/fpmath.o
+ .debug_abbrev  0x000000000000091e      0x142 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_abbrev  0x0000000000000a60      0x161 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_abbrev  0x0000000000000bc1      0x189 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_abbrev  0x0000000000000d4a      0x21a ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_abbrev  0x0000000000000f64      0x156 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_abbrev  0x00000000000010ba      0x108 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_abbrev  0x00000000000011c2      0x1d5 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_abbrev  0x0000000000001397      0x24b ./driver_library/libs/sys_lib/src/irq.o
+ .debug_abbrev  0x00000000000015e2      0x20a ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_abbrev  0x00000000000017ec      0x2fa ./driver_library/libs/sys_lib/src/utils.o
+ .debug_abbrev  0x0000000000001ae6      0x38b ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_abbrev  0x0000000000001e71       0x12 ./driver_library/gcc/crt0.riscv.o
+
+.debug_aranges  0x0000000000000000      0x628
+ .debug_aranges
+                0x0000000000000000       0x30 ./src/fpmath_demo.o
+ .debug_aranges
+                0x0000000000000030       0xa0 ./fpmath/math-sll/math-sll.o
+ .debug_aranges
+                0x00000000000000d0       0xb8 ./fpmath/fpmath.o
+ .debug_aranges
+                0x0000000000000188       0x50 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_aranges
+                0x00000000000001d8       0x40 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_aranges
+                0x0000000000000218       0x38 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_aranges
+                0x0000000000000250       0x80 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_aranges
+                0x00000000000002d0       0x80 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_aranges
+                0x0000000000000350       0x70 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_aranges
+                0x00000000000003c0       0x68 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_aranges
+                0x0000000000000428      0x118 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_aranges
+                0x0000000000000540       0x28 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_aranges
+                0x0000000000000568       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_aranges
+                0x00000000000005a8       0x58 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_aranges
+                0x0000000000000600       0x28 ./driver_library/gcc/crt0.riscv.o
+
+.debug_ranges   0x0000000000000000     0x1dd8
+ .debug_ranges  0x0000000000000000       0x20 ./src/fpmath_demo.o
+ .debug_ranges  0x0000000000000020     0x10f0 ./fpmath/math-sll/math-sll.o
+ .debug_ranges  0x0000000000001110      0x1a8 ./fpmath/fpmath.o
+ .debug_ranges  0x00000000000012b8       0x40 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_ranges  0x00000000000012f8       0x30 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_ranges  0x0000000000001328       0x28 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_ranges  0x0000000000001350      0x2a8 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_ranges  0x00000000000015f8       0x70 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_ranges  0x0000000000001668       0x60 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_ranges  0x00000000000016c8       0x58 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_ranges  0x0000000000001720      0x108 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_ranges  0x0000000000001828       0x80 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_ranges  0x00000000000018a8       0x60 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_ranges  0x0000000000001908      0x4b0 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_ranges  0x0000000000001db8       0x20 ./driver_library/gcc/crt0.riscv.o
+
+.debug_macro    0x0000000000000000     0x3b79
+ .debug_macro   0x0000000000000000      0x345 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000345      0x748 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000a8d       0x22 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000aaf       0x52 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000b01       0x19 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000b1a       0x94 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000bae       0x34 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000be2       0x34 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000c16       0x16 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000c2c       0x57 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000c83       0x97 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000000d1a      0x330 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000104a       0xfd ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001147       0x10 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001157       0x58 ./src/fpmath_demo.o
+ .debug_macro   0x00000000000011af       0x1f ./src/fpmath_demo.o
+ .debug_macro   0x00000000000011ce       0x43 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001211       0x20 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001231      0x18e ./src/fpmath_demo.o
+ .debug_macro   0x00000000000013bf       0x10 ./src/fpmath_demo.o
+ .debug_macro   0x00000000000013cf       0x6a ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001439       0x1c ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001455       0x52 ./src/fpmath_demo.o
+ .debug_macro   0x00000000000014a7       0x40 ./src/fpmath_demo.o
+ .debug_macro   0x00000000000014e7       0x10 ./src/fpmath_demo.o
+ .debug_macro   0x00000000000014f7       0x40 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001537       0xd7 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000160e       0x1c ./src/fpmath_demo.o
+ .debug_macro   0x000000000000162a       0x3d ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001667       0x16 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000167d      0x16f ./src/fpmath_demo.o
+ .debug_macro   0x00000000000017ec       0x22 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000180e      0x1e1 ./src/fpmath_demo.o
+ .debug_macro   0x00000000000019ef       0xef ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001ade      0x1df ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001cbd      0x162 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001e1f       0x8e ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001ead       0x6a ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001f17       0x28 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000001f3f       0xf5 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000002034       0x16 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000204a      0x224 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000226e       0xf4 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000002362       0xdc ./src/fpmath_demo.o
+ .debug_macro   0x000000000000243e       0x58 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000002496       0x70 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000002506       0x16 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000251c       0x22 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000253e       0x10 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000254e       0xee ./src/fpmath_demo.o
+ .debug_macro   0x000000000000263c       0x4c ./src/fpmath_demo.o
+ .debug_macro   0x0000000000002688       0x16 ./src/fpmath_demo.o
+ .debug_macro   0x000000000000269e      0x1f4 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000002892      0x1b3 ./src/fpmath_demo.o
+ .debug_macro   0x0000000000002a45       0x1a ./fpmath/math-sll/math-sll.o
+ .debug_macro   0x0000000000002a5f      0x1cc ./fpmath/fpmath.o
+ .debug_macro   0x0000000000002c2b       0x8e ./fpmath/fpmath.o
+ .debug_macro   0x0000000000002cb9       0x51 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000002d0a       0x58 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000002d62      0x2a3 ./fpmath/fpmath.o
+ .debug_macro   0x0000000000003005       0x7a ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x000000000000307f      0x174 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_macro   0x00000000000031f3       0x8e ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_macro   0x0000000000003281       0xac ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_macro   0x000000000000332d       0x8d ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_macro   0x00000000000033ba       0x8d ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_macro   0x0000000000003447       0x8d ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_macro   0x00000000000034d4       0xb3 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_macro   0x0000000000003587      0x1d9 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000003760       0x10 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_macro   0x0000000000003770       0xfc ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_macro   0x000000000000386c      0x1dd ./driver_library/libs/sys_lib/src/utils.o
+ .debug_macro   0x0000000000003a49       0xd8 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_macro   0x0000000000003b21       0x58 ./driver_library/libs/string_lib/src/qprintf.o
+
+.debug_line     0x0000000000000000     0xe855
+ .debug_line    0x0000000000000000      0x946 ./src/fpmath_demo.o
+ .debug_line    0x0000000000000946     0x52b7 ./fpmath/math-sll/math-sll.o
+ .debug_line    0x0000000000005bfd      0xb5c ./fpmath/fpmath.o
+ .debug_line    0x0000000000006759      0x503 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_line    0x0000000000006c5c      0x572 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_line    0x00000000000071ce      0x474 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_line    0x0000000000007642     0x184b ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_line    0x0000000000008e8d      0xdfd ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_line    0x0000000000009c8a      0x9f9 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_line    0x000000000000a683      0xf78 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_line    0x000000000000b5fb      0x91c ./driver_library/libs/sys_lib/src/irq.o
+ .debug_line    0x000000000000bf17      0x656 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_line    0x000000000000c56d      0x775 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_line    0x000000000000cce2     0x1769 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_line    0x000000000000e44b      0x40a ./driver_library/gcc/crt0.riscv.o
+
+.debug_str      0x0000000000000000     0xd043
+ .debug_str     0x0000000000000000     0xbe3f ./src/fpmath_demo.o
+                                       0xc104 (size before relaxing)
+ .debug_str     0x000000000000be3f       0x7b ./fpmath/math-sll/math-sll.o
+                                       0x2e69 (size before relaxing)
+ .debug_str     0x000000000000beba      0x293 ./fpmath/fpmath.o
+                                       0x8641 (size before relaxing)
+ .debug_str     0x000000000000c14d       0xcc ./driver_library/libs/sys_lib/src/drv_clock.o
+                                       0x425f (size before relaxing)
+ .debug_str     0x000000000000c219       0xd3 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                                       0x42e8 (size before relaxing)
+ .debug_str     0x000000000000c2ec      0x191 ./driver_library/libs/sys_lib/src/drv_console.o
+                                       0x50b0 (size before relaxing)
+ .debug_str     0x000000000000c47d      0x16a ./driver_library/libs/sys_lib/src/drv_eflash.o
+                                       0x41e5 (size before relaxing)
+ .debug_str     0x000000000000c5e7      0x1d1 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                                       0x4ae6 (size before relaxing)
+ .debug_str     0x000000000000c7b8       0x9b ./driver_library/libs/sys_lib/src/drv_timer.o
+                                       0x42a9 (size before relaxing)
+ .debug_str     0x000000000000c853       0xc4 ./driver_library/libs/sys_lib/src/drv_uart.o
+                                       0x5459 (size before relaxing)
+ .debug_str     0x000000000000c917      0x2a2 ./driver_library/libs/sys_lib/src/irq.o
+                                       0x80c0 (size before relaxing)
+ .debug_str     0x000000000000cbb9      0x139 ./driver_library/libs/sys_lib/src/system_proton.o
+                                       0x587d (size before relaxing)
+ .debug_str     0x000000000000ccf2       0x7e ./driver_library/libs/sys_lib/src/utils.o
+                                       0x8749 (size before relaxing)
+ .debug_str     0x000000000000cd70      0x294 ./driver_library/libs/string_lib/src/qprintf.o
+                                       0x4844 (size before relaxing)
+ .debug_str     0x000000000000d004       0x3f ./driver_library/gcc/crt0.riscv.o
+                                         0x5f (size before relaxing)
+
+.comment        0x0000000000000000       0x39
+ .comment       0x0000000000000000       0x39 ./src/fpmath_demo.o
+                                         0x3a (size before relaxing)
+ .comment       0x0000000000000039       0x3a ./fpmath/math-sll/math-sll.o
+ .comment       0x0000000000000039       0x3a ./fpmath/fpmath.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_clock.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_console.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_uart.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/irq.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/system_proton.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/utils.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/string_lib/src/qprintf.o
+
+.debug_frame    0x0000000000000000     0x1538
+ .debug_frame   0x0000000000000000       0x78 ./src/fpmath_demo.o
+ .debug_frame   0x0000000000000078      0x2e4 ./fpmath/math-sll/math-sll.o
+ .debug_frame   0x000000000000035c      0x2ac ./fpmath/fpmath.o
+ .debug_frame   0x0000000000000608       0x80 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_frame   0x0000000000000688       0x70 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_frame   0x00000000000006f8       0x88 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_frame   0x0000000000000780      0x148 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_frame   0x00000000000008c8       0xe0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_frame   0x00000000000009a8       0xc0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_frame   0x0000000000000a68      0x104 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_frame   0x0000000000000b6c      0x210 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_frame   0x0000000000000d7c       0x4c ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_frame   0x0000000000000dc8       0x74 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_frame   0x0000000000000e3c      0x134 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_frame   0x0000000000000f70       0x3c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000fac       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000fcc       0x44 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_log.o)
+ .debug_frame   0x0000000000001010       0x50 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x0000000000001060       0x60 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_log.o)
+ .debug_frame   0x00000000000010c0       0xa4 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x0000000000001164       0x48 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00000000000011ac       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x00000000000011cc       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x00000000000011ec       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x000000000000120c       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x000000000000122c       0x40 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x000000000000126c       0x68 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x00000000000012d4       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x00000000000012f4       0x44 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(adddf3.o)
+ .debug_frame   0x0000000000001338       0x50 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(divdf3.o)
+ .debug_frame   0x0000000000001388       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(eqdf2.o)
+ .debug_frame   0x00000000000013a8       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(gedf2.o)
+ .debug_frame   0x00000000000013c8       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(ledf2.o)
+ .debug_frame   0x00000000000013e8       0x54 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(muldf3.o)
+ .debug_frame   0x000000000000143c       0x44 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(subdf3.o)
+ .debug_frame   0x0000000000001480       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(unorddf2.o)
+ .debug_frame   0x00000000000014a0       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(fixdfsi.o)
+ .debug_frame   0x00000000000014c0       0x38 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(floatsidf.o)
+ .debug_frame   0x00000000000014f8       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .debug_frame   0x0000000000001518       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-errno.o)
+
+.debug_loc      0x0000000000000000     0x7d96
+ .debug_loc     0x0000000000000000     0x3dc7 ./fpmath/math-sll/math-sll.o
+ .debug_loc     0x0000000000003dc7      0x490 ./fpmath/fpmath.o
+ .debug_loc     0x0000000000004257       0xab ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_loc     0x0000000000004302       0xdd ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_loc     0x00000000000043df       0xa5 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_loc     0x0000000000004484      0xbfd ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_loc     0x0000000000005081      0x48c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_loc     0x000000000000550d      0x41a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_loc     0x0000000000005927      0x68e ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_loc     0x0000000000005fb5       0x8b ./driver_library/libs/sys_lib/src/irq.o
+ .debug_loc     0x0000000000006040       0x61 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_loc     0x00000000000060a1      0x22a ./driver_library/libs/sys_lib/src/utils.o
+ .debug_loc     0x00000000000062cb     0x1acb ./driver_library/libs/string_lib/src/qprintf.o

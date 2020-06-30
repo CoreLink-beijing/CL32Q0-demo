@@ -1,0 +1,2959 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+                              ./driver_library/gcc/crt0.riscv.o (__libc_init_array)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcmp.o)
+                              ./shell/shell.o (memcmp)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+                              ./shell/shell.o (memcpy)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+                              ./shell/fifo.o (memset)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-strlen.o)
+                              ./shell/shell.o (strlen)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+                              ./kernel/tasks.o (__clzsi2)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(extendsfdf2.o)
+                              ./shell/shell.o (__extendsfdf2)
+d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+                              d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./xprintf/xprintf.o
+ .data          0x0000000000000000        0x0 ./xprintf/xprintf.o
+ .bss           0x0000000000000000        0x0 ./xprintf/xprintf.o
+ .text.xgets.part.1
+                0x0000000000000000       0x96 ./xprintf/xprintf.o
+ .text.xfputs   0x0000000000000000       0x44 ./xprintf/xprintf.o
+ .text.xsprintf
+                0x0000000000000000       0x42 ./xprintf/xprintf.o
+ .text.xfprintf
+                0x0000000000000000       0x40 ./xprintf/xprintf.o
+ .text.put_dump
+                0x0000000000000000      0x110 ./xprintf/xprintf.o
+ .text.xgets    0x0000000000000000       0x18 ./xprintf/xprintf.o
+ .text.xfgets   0x0000000000000000       0x48 ./xprintf/xprintf.o
+ .rodata.put_dump.str1.4
+                0x0000000000000000       0x1f ./xprintf/xprintf.o
+ .text          0x0000000000000000        0x0 ./shell/fifo.o
+ .data          0x0000000000000000        0x0 ./shell/fifo.o
+ .bss           0x0000000000000000        0x0 ./shell/fifo.o
+ .text.fifo_count
+                0x0000000000000000       0x14 ./shell/fifo.o
+ .text.fifo_full
+                0x0000000000000000       0x1c ./shell/fifo.o
+ .text.fifo_empty
+                0x0000000000000000       0x1a ./shell/fifo.o
+ .text.fifo_peek
+                0x0000000000000000       0x30 ./shell/fifo.o
+ .text.fifo_back
+                0x0000000000000000       0x26 ./shell/fifo.o
+ .text.fifo_getc
+                0x0000000000000000       0x36 ./shell/fifo.o
+ .text.fifo_puts
+                0x0000000000000000       0x52 ./shell/fifo.o
+ .text          0x0000000000000000        0x0 ./shell/shell.o
+ .data          0x0000000000000000        0x0 ./shell/shell.o
+ .bss           0x0000000000000000        0x0 ./shell/shell.o
+ .text.shell_get_cmd
+                0x0000000000000000       0x4a ./shell/shell.o
+ .text          0x0000000000000000        0x0 ./shell/tools.o
+ .data          0x0000000000000000        0x0 ./shell/tools.o
+ .bss           0x0000000000000000        0x0 ./shell/tools.o
+ .text.str_len  0x0000000000000000       0x22 ./shell/tools.o
+ .text.str_replc
+                0x0000000000000000       0x42 ./shell/tools.o
+ .text.str_copy
+                0x0000000000000000       0x46 ./shell/tools.o
+ .text.str_ltrim
+                0x0000000000000000       0x16 ./shell/tools.o
+ .text.str_trim
+                0x0000000000000000       0x8e ./shell/tools.o
+ .text.int_pow  0x0000000000000000       0x26 ./shell/tools.o
+ .text.str2int  0x0000000000000000       0xa2 ./shell/tools.o
+ .text.int2str  0x0000000000000000      0x144 ./shell/tools.o
+ .text.uint2str
+                0x0000000000000000       0xb4 ./shell/tools.o
+ .text.int2str_r
+                0x0000000000000000      0x196 ./shell/tools.o
+ .text.uint2str_r
+                0x0000000000000000      0x16c ./shell/tools.o
+ .text.str_toright
+                0x0000000000000000      0x176 ./shell/tools.o
+ .text.tok_comp
+                0x0000000000000000       0x6c ./shell/tools.o
+ .rodata.int2str.str1.4
+                0x0000000000000000       0x25 ./shell/tools.o
+ .text          0x0000000000000000        0x0 ./kernel/portable/MemMang/heap_4a.o
+ .data          0x0000000000000000        0x0 ./kernel/portable/MemMang/heap_4a.o
+ .bss           0x0000000000000000        0x0 ./kernel/portable/MemMang/heap_4a.o
+ .text.vPortInitialiseBlocks
+                0x0000000000000000        0x2 ./kernel/portable/MemMang/heap_4a.o
+ .text          0x0000000000000000        0x0 ./kernel/portable/GCC/RISC-V/port.o
+ .data          0x0000000000000000        0x0 ./kernel/portable/GCC/RISC-V/port.o
+ .bss           0x0000000000000000        0x0 ./kernel/portable/GCC/RISC-V/port.o
+ .text.vPortEndScheduler
+                0x0000000000000000        0x2 ./kernel/portable/GCC/RISC-V/port.o
+ .sbss.ullNextTime
+                0x0000000000000000        0x8 ./kernel/portable/GCC/RISC-V/port.o
+ .sdata.pullNextTime
+                0x0000000000000000        0x4 ./kernel/portable/GCC/RISC-V/port.o
+ .sdata2.pullMachineTimerCompareRegister
+                0x0000000000000000        0x4 ./kernel/portable/GCC/RISC-V/port.o
+ .sdata2.uxTimerIncrementsForOneTick
+                0x0000000000000000        0x4 ./kernel/portable/GCC/RISC-V/port.o
+ .data          0x0000000000000000        0x0 ./kernel/portable/GCC/RISC-V/portASM.o
+ .bss           0x0000000000000000        0x0 ./kernel/portable/GCC/RISC-V/portASM.o
+ .text          0x0000000000000000        0x0 ./kernel/croutine.o
+ .data          0x0000000000000000        0x0 ./kernel/croutine.o
+ .bss           0x0000000000000000        0x0 ./kernel/croutine.o
+ .debug_info    0x0000000000000000       0x72 ./kernel/croutine.o
+ .debug_abbrev  0x0000000000000000       0x26 ./kernel/croutine.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./kernel/croutine.o
+ .debug_line    0x0000000000000000       0x1d ./kernel/croutine.o
+ .debug_str     0x0000000000000000      0x1e0 ./kernel/croutine.o
+ .comment       0x0000000000000000       0x3a ./kernel/croutine.o
+ .text          0x0000000000000000        0x0 ./kernel/event_groups.o
+ .data          0x0000000000000000        0x0 ./kernel/event_groups.o
+ .bss           0x0000000000000000        0x0 ./kernel/event_groups.o
+ .text.xEventGroupCreate
+                0x0000000000000000       0x2c ./kernel/event_groups.o
+ .text.xEventGroupWaitBits
+                0x0000000000000000      0x114 ./kernel/event_groups.o
+ .text.xEventGroupClearBits
+                0x0000000000000000       0x52 ./kernel/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x0000000000000000        0x4 ./kernel/event_groups.o
+ .text.xEventGroupSetBits
+                0x0000000000000000       0xbe ./kernel/event_groups.o
+ .text.xEventGroupSync
+                0x0000000000000000       0xf2 ./kernel/event_groups.o
+ .text.vEventGroupDelete
+                0x0000000000000000       0x5a ./kernel/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x0000000000000000        0x8 ./kernel/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x0000000000000000        0x8 ./kernel/event_groups.o
+ .debug_info    0x0000000000000000     0x12c5 ./kernel/event_groups.o
+ .debug_abbrev  0x0000000000000000      0x3a1 ./kernel/event_groups.o
+ .debug_loc     0x0000000000000000      0x94a ./kernel/event_groups.o
+ .debug_aranges
+                0x0000000000000000       0x60 ./kernel/event_groups.o
+ .debug_ranges  0x0000000000000000       0xc0 ./kernel/event_groups.o
+ .debug_line    0x0000000000000000     0x1053 ./kernel/event_groups.o
+ .debug_str     0x0000000000000000      0xa11 ./kernel/event_groups.o
+ .comment       0x0000000000000000       0x3a ./kernel/event_groups.o
+ .debug_frame   0x0000000000000000      0x154 ./kernel/event_groups.o
+ .text          0x0000000000000000        0x0 ./kernel/list.o
+ .data          0x0000000000000000        0x0 ./kernel/list.o
+ .bss           0x0000000000000000        0x0 ./kernel/list.o
+ .text          0x0000000000000000        0x0 ./kernel/queue.o
+ .data          0x0000000000000000        0x0 ./kernel/queue.o
+ .bss           0x0000000000000000        0x0 ./kernel/queue.o
+ .text.prvCopyDataToQueue
+                0x0000000000000000       0xb0 ./kernel/queue.o
+ .text.prvCopyDataFromQueue
+                0x0000000000000000       0x22 ./kernel/queue.o
+ .text.prvUnlockQueue
+                0x0000000000000000       0xd6 ./kernel/queue.o
+ .text.xQueueGenericReset.part.0
+                0x0000000000000000       0xa6 ./kernel/queue.o
+ .text.xQueueGenericCreate.part.2
+                0x0000000000000000       0x6e ./kernel/queue.o
+ .text.xQueueGenericReset
+                0x0000000000000000       0x12 ./kernel/queue.o
+ .text.xQueueGenericCreate
+                0x0000000000000000       0x12 ./kernel/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x0000000000000000       0x34 ./kernel/queue.o
+ .text.xQueueGenericSend
+                0x0000000000000000      0x1a0 ./kernel/queue.o
+ .text.xQueueCreateMutex
+                0x0000000000000000       0x3a ./kernel/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x0000000000000000       0x52 ./kernel/queue.o
+ .text.xQueueGenericSendFromISR
+                0x0000000000000000       0xaa ./kernel/queue.o
+ .text.xQueueGiveFromISR
+                0x0000000000000000       0x82 ./kernel/queue.o
+ .text.xQueueReceive
+                0x0000000000000000      0x184 ./kernel/queue.o
+ .text.xQueueSemaphoreTake
+                0x0000000000000000      0x1da ./kernel/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x0000000000000000       0x5a ./kernel/queue.o
+ .text.xQueuePeek
+                0x0000000000000000      0x178 ./kernel/queue.o
+ .text.xQueueReceiveFromISR
+                0x0000000000000000       0x9c ./kernel/queue.o
+ .text.xQueuePeekFromISR
+                0x0000000000000000       0x4e ./kernel/queue.o
+ .text.uxQueueMessagesWaiting
+                0x0000000000000000       0x2e ./kernel/queue.o
+ .text.uxQueueSpacesAvailable
+                0x0000000000000000       0x32 ./kernel/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x0000000000000000        0xe ./kernel/queue.o
+ .text.vQueueDelete
+                0x0000000000000000       0x7c ./kernel/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x0000000000000000       0x12 ./kernel/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x0000000000000000       0x16 ./kernel/queue.o
+ .text.vQueueAddToRegistry
+                0x0000000000000000       0x52 ./kernel/queue.o
+ .text.pcQueueGetName
+                0x0000000000000000       0x64 ./kernel/queue.o
+ .text.vQueueUnregisterQueue
+                0x0000000000000000       0x66 ./kernel/queue.o
+ .bss.xQueueRegistry
+                0x0000000000000000       0x40 ./kernel/queue.o
+ .debug_info    0x0000000000000000     0x24c4 ./kernel/queue.o
+ .debug_abbrev  0x0000000000000000      0x48e ./kernel/queue.o
+ .debug_loc     0x0000000000000000     0x1f77 ./kernel/queue.o
+ .debug_aranges
+                0x0000000000000000       0xf8 ./kernel/queue.o
+ .debug_ranges  0x0000000000000000      0x340 ./kernel/queue.o
+ .debug_line    0x0000000000000000     0x347a ./kernel/queue.o
+ .debug_str     0x0000000000000000      0xe53 ./kernel/queue.o
+ .comment       0x0000000000000000       0x3a ./kernel/queue.o
+ .debug_frame   0x0000000000000000      0x454 ./kernel/queue.o
+ .text          0x0000000000000000        0x0 ./kernel/stream_buffer.o
+ .data          0x0000000000000000        0x0 ./kernel/stream_buffer.o
+ .bss           0x0000000000000000        0x0 ./kernel/stream_buffer.o
+ .text.prvReadBytesFromBuffer
+                0x0000000000000000       0xa8 ./kernel/stream_buffer.o
+ .text.prvWriteBytesToBuffer.part.1
+                0x0000000000000000       0x82 ./kernel/stream_buffer.o
+ .text.prvWriteMessageToBuffer
+                0x0000000000000000       0x6c ./kernel/stream_buffer.o
+ .text.xStreamBufferGenericCreate
+                0x0000000000000000       0xaa ./kernel/stream_buffer.o
+ .text.vStreamBufferDelete
+                0x0000000000000000       0x28 ./kernel/stream_buffer.o
+ .text.xStreamBufferReset
+                0x0000000000000000       0x98 ./kernel/stream_buffer.o
+ .text.xStreamBufferSetTriggerLevel
+                0x0000000000000000       0x1e ./kernel/stream_buffer.o
+ .text.xStreamBufferSpacesAvailable
+                0x0000000000000000       0x20 ./kernel/stream_buffer.o
+ .text.xStreamBufferBytesAvailable
+                0x0000000000000000       0x1e ./kernel/stream_buffer.o
+ .text.xStreamBufferSend
+                0x0000000000000000      0x14e ./kernel/stream_buffer.o
+ .text.xStreamBufferSendFromISR
+                0x0000000000000000       0x96 ./kernel/stream_buffer.o
+ .text.xStreamBufferReceive
+                0x0000000000000000      0x130 ./kernel/stream_buffer.o
+ .text.xStreamBufferNextMessageLengthBytes
+                0x0000000000000000       0x66 ./kernel/stream_buffer.o
+ .text.xStreamBufferReceiveFromISR
+                0x0000000000000000       0xc2 ./kernel/stream_buffer.o
+ .text.xStreamBufferIsEmpty
+                0x0000000000000000       0x16 ./kernel/stream_buffer.o
+ .text.xStreamBufferIsFull
+                0x0000000000000000       0x2e ./kernel/stream_buffer.o
+ .text.xStreamBufferSendCompletedFromISR
+                0x0000000000000000       0x38 ./kernel/stream_buffer.o
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x0000000000000000       0x38 ./kernel/stream_buffer.o
+ .debug_info    0x0000000000000000     0x1e15 ./kernel/stream_buffer.o
+ .debug_abbrev  0x0000000000000000      0x446 ./kernel/stream_buffer.o
+ .debug_loc     0x0000000000000000     0x1b13 ./kernel/stream_buffer.o
+ .debug_aranges
+                0x0000000000000000       0xa8 ./kernel/stream_buffer.o
+ .debug_ranges  0x0000000000000000      0x1f0 ./kernel/stream_buffer.o
+ .debug_line    0x0000000000000000     0x26a6 ./kernel/stream_buffer.o
+ .debug_str     0x0000000000000000      0xc47 ./kernel/stream_buffer.o
+ .comment       0x0000000000000000       0x3a ./kernel/stream_buffer.o
+ .debug_frame   0x0000000000000000      0x2f8 ./kernel/stream_buffer.o
+ .text          0x0000000000000000        0x0 ./kernel/tasks.o
+ .data          0x0000000000000000        0x0 ./kernel/tasks.o
+ .bss           0x0000000000000000        0x0 ./kernel/tasks.o
+ .text.eTaskGetState
+                0x0000000000000000       0xce ./kernel/tasks.o
+ .text.uxTaskPriorityGet
+                0x0000000000000000       0x5a ./kernel/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x0000000000000000       0x14 ./kernel/tasks.o
+ .text.vTaskPrioritySet
+                0x0000000000000000      0x152 ./kernel/tasks.o
+ .text.vTaskSuspend
+                0x0000000000000000      0x194 ./kernel/tasks.o
+ .text.vTaskResume
+                0x0000000000000000       0xe2 ./kernel/tasks.o
+ .text.xTaskResumeFromISR
+                0x0000000000000000       0xbc ./kernel/tasks.o
+ .text.vTaskEndScheduler
+                0x0000000000000000       0x14 ./kernel/tasks.o
+ .text.xTaskGetTickCount
+                0x0000000000000000        0xc ./kernel/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x0000000000000000        0xc ./kernel/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x0000000000000000        0xc ./kernel/tasks.o
+ .text.pcTaskGetName
+                0x0000000000000000       0x1c ./kernel/tasks.o
+ .text.vTaskDelayUntil
+                0x0000000000000000       0x90 ./kernel/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x0000000000000000       0x38 ./kernel/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x0000000000000000       0x58 ./kernel/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x0000000000000000       0xb4 ./kernel/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x0000000000000000       0xa6 ./kernel/tasks.o
+ .text.vTaskSetTimeOutState
+                0x0000000000000000       0x70 ./kernel/tasks.o
+ .text.vTaskInternalSetTimeOutState
+                0x0000000000000000       0x1a ./kernel/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x0000000000000000       0xba ./kernel/tasks.o
+ .text.vTaskMissedYield
+                0x0000000000000000        0xc ./kernel/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x0000000000000000        0xc ./kernel/tasks.o
+ .text.xTaskPriorityInherit
+                0x0000000000000000       0xea ./kernel/tasks.o
+ .text.xTaskPriorityDisinherit
+                0x0000000000000000       0xd8 ./kernel/tasks.o
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x0000000000000000       0xfe ./kernel/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x0000000000000000       0x1a ./kernel/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x0000000000000000       0x18 ./kernel/tasks.o
+ .text.ulTaskNotifyTake
+                0x0000000000000000       0xba ./kernel/tasks.o
+ .text.xTaskNotifyWait
+                0x0000000000000000       0xf0 ./kernel/tasks.o
+ .text.xTaskGenericNotify
+                0x0000000000000000      0x142 ./kernel/tasks.o
+ .rodata.xTaskGenericNotify
+                0x0000000000000000       0x14 ./kernel/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x0000000000000000      0x130 ./kernel/tasks.o
+ .rodata.xTaskGenericNotifyFromISR
+                0x0000000000000000       0x14 ./kernel/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x0000000000000000       0xdc ./kernel/tasks.o
+ .text.xTaskNotifyStateClear
+                0x0000000000000000       0x6a ./kernel/tasks.o
+ .text          0x0000000000000000        0x0 ./kernel/timers.o
+ .data          0x0000000000000000        0x0 ./kernel/timers.o
+ .bss           0x0000000000000000        0x0 ./kernel/timers.o
+ .debug_info    0x0000000000000000      0x925 ./kernel/timers.o
+ .debug_abbrev  0x0000000000000000      0x1b1 ./kernel/timers.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./kernel/timers.o
+ .debug_line    0x0000000000000000      0x194 ./kernel/timers.o
+ .debug_str     0x0000000000000000      0x5cd ./kernel/timers.o
+ .comment       0x0000000000000000       0x3a ./kernel/timers.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text.adc_int_disable
+                0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text.hf_clock_enable
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text.clock_status_get
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_clock.o
+ .sdata2.CLOCK  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text.clockcal_write_factor_to_memory
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text.clockcal_read_factor_from_memory
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .sdata2.cal    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_console.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_program_page.part.1
+                0x0000000000000000       0x78 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_page.part.3
+                0x0000000000000000       0x78 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_chip
+                0x0000000000000000       0x62 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_main_pages
+                0x0000000000000000       0x62 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_erase_info_pages
+                0x0000000000000000       0x24 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_program_page
+                0x0000000000000000       0x14 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_page
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_page
+                0x0000000000000000       0x14 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_main_page
+                0x0000000000000000       0x14 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_write_info_page
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_main_page
+                0x0000000000000000       0x14 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text.eflash_read_info_page
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .sdata2.EFLASH
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_direction_set
+                0x0000000000000000       0x42 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_pin_value
+                0x0000000000000000       0x2a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_port_value
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_reset_port_value
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_port_value
+                0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_pin_int_enable
+                0x0000000000000000       0x3e ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_set_pin_int_type
+                0x0000000000000000       0xda ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_get_int_status
+                0x0000000000000000       0x1c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_global_int_enable
+                0x0000000000000000       0x18 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text.gpio_global_int_disable
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .sdata2.IOMUX  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_get_status
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text.i2cx_get_data
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C1   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C2   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C3   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C4   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .sdata2.I2C5   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_get
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_core_1p5v_is_ready
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_bais_powerdown_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_bais_powerdown_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_powerdown_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_powerdown_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_threshold_set
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_threshold_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_pvd_status_get
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text.power_vcc_value_get
+                0x0000000000000000       0x54 ./driver_library/libs/sys_lib/src/drv_power.o
+ .rodata.vol_tab
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/drv_power.o
+ .sdata2.pwr_ctrl
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_info    0x0000000000000000      0x2f4 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_abbrev  0x0000000000000000      0x1b4 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_loc     0x0000000000000000       0xce ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_ranges  0x0000000000000000       0x78 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_line    0x0000000000000000      0x4f3 ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_str     0x0000000000000000      0x33e ./driver_library/libs/sys_lib/src/drv_power.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_power.o
+ .debug_frame   0x0000000000000000       0xcc ./driver_library/libs/sys_lib/src/drv_power.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_deinit
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_enable_all_channel
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_disable_all_channel
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text.pwm_enable_multi_channel
+                0x0000000000000000       0x16 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .sdata2.PWM    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_deinit
+                0x0000000000000000       0x28 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_init
+                0x0000000000000000       0x2a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_enable
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_disable
+                0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_set_time
+                0x0000000000000000      0x15c ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_get_time
+                0x0000000000000000       0xfe ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_set_alarm
+                0x0000000000000000       0xe4 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_get_alarm
+                0x0000000000000000       0xbe ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_enable
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_disable
+                0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_int_enable
+                0x0000000000000000       0x38 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_int_disable
+                0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text.rtc_alarm_reset
+                0x0000000000000000       0x30 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .sdata2.rtc    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_info    0x0000000000000000      0x803 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_abbrev  0x0000000000000000      0x208 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_loc     0x0000000000000000     0x13f5 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_ranges  0x0000000000000000       0xc8 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_line    0x0000000000000000      0xd66 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_str     0x0000000000000000      0x47e ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .comment       0x0000000000000000       0x3a ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .debug_frame   0x0000000000000000      0x180 ./driver_library/libs/sys_lib/src/drv_rtc.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .text.scu_get_reset_reason
+                0x0000000000000000        0x8 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .sdata2.SCU    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_init
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_deinit
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_cmd_addr
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_setup_dummy
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_set_datalen
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_start_transaction
+                0x0000000000000000       0x1e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_get_status
+                0x0000000000000000        0xc ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.swap_endian
+                0x0000000000000000       0x26 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_read_direct
+                0x0000000000000000      0x104 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text.spix_write_then_write_direct
+                0x0000000000000000      0x17e ./driver_library/libs/sys_lib/src/drv_spi.o
+ .sdata2.SPI1   0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_deinit
+                0x0000000000000000       0x20 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_int_disable
+                0x0000000000000000       0x92 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_int_reset
+                0x0000000000000000       0x6a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_reset
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_stop
+                0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text.timer_get_count
+                0x0000000000000000        0xa ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER1
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER2
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .sdata2.TIMER3
+                0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_init
+                0x0000000000000000      0x1ec ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_deinit
+                0x0000000000000000       0x90 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_int_disable
+                0x0000000000000000       0xcc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text.uartx_int_reset
+                0x0000000000000000       0x9a ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART3  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART4  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .sdata2.UART5  0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_deinit
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text.wdt_reset_mcu
+                0x0000000000000000        0xe ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .sdata2.WDT    0x0000000000000000        0x4 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/irq.o
+ .text.ADCH_IRQ_handler
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/irq.o
+ .text.UART0_IRQ_handler
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/irq.o
+ .text.TIMER0_IRQ_handler
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/irq.o
+ .text.default_exception_handler_c
+                0x0000000000000000        0x2 ./driver_library/libs/sys_lib/src/irq.o
+ .text.request_irq
+                0x0000000000000000       0x22 ./driver_library/libs/sys_lib/src/irq.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/system_proton.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/sys_lib/src/utils.o
+ .text.eoc      0x0000000000000000       0x12 ./driver_library/libs/sys_lib/src/utils.o
+ .text.sleep_busy
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/utils.o
+ .text.cpu_perf_set
+                0x0000000000000000       0x10 ./driver_library/libs/sys_lib/src/utils.o
+ .text.cpu_perf_get
+                0x0000000000000000       0x96 ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_get
+                0x0000000000000000       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_get.str1.4
+                0x0000000000000000       0x1a ./driver_library/libs/sys_lib/src/utils.o
+ .rodata.cpu_perf_set.str1.4
+                0x0000000000000000       0x23 ./driver_library/libs/sys_lib/src/utils.o
+ .text          0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .data          0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .bss           0x0000000000000000        0x0 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.putchar  0x0000000000000000       0x1e ./driver_library/libs/string_lib/src/qprintf.o
+ .text.puts     0x0000000000000000       0x3c ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strcmp_c
+                0x0000000000000000       0x82 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.memset_c
+                0x0000000000000000       0xc4 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strcpy_c
+                0x0000000000000000       0x18 ./driver_library/libs/string_lib/src/qprintf.o
+ .text.strlen_c
+                0x0000000000000000       0x20 ./driver_library/libs/string_lib/src/qprintf.o
+ .data          0x0000000000000000        0x0 ./driver_library/gcc/crt0.riscv.o
+ .bss           0x0000000000000000        0x0 ./driver_library/gcc/crt0.riscv.o
+ .text          0x0000000000000000        0x0 ./coremark/core_list_join.o
+ .data          0x0000000000000000        0x0 ./coremark/core_list_join.o
+ .bss           0x0000000000000000        0x0 ./coremark/core_list_join.o
+ .text.cmp_idx  0x0000000000000000       0x46 ./coremark/core_list_join.o
+ .text.calc_func
+                0x0000000000000000       0xda ./coremark/core_list_join.o
+ .text.cmp_complex
+                0x0000000000000000       0x36 ./coremark/core_list_join.o
+ .text.copy_info
+                0x0000000000000000       0x12 ./coremark/core_list_join.o
+ .text.core_list_insert_new
+                0x0000000000000000       0x4c ./coremark/core_list_join.o
+ .text.core_list_remove
+                0x0000000000000000       0x18 ./coremark/core_list_join.o
+ .text.core_list_undo_remove
+                0x0000000000000000       0x10 ./coremark/core_list_join.o
+ .text.core_list_find
+                0x0000000000000000       0x4e ./coremark/core_list_join.o
+ .text.core_list_reverse
+                0x0000000000000000       0x12 ./coremark/core_list_join.o
+ .text.core_list_mergesort
+                0x0000000000000000       0xc4 ./coremark/core_list_join.o
+ .text.core_bench_list
+                0x0000000000000000      0x1b4 ./coremark/core_list_join.o
+ .text.core_list_init
+                0x0000000000000000      0x122 ./coremark/core_list_join.o
+ .debug_info    0x0000000000000000     0x1599 ./coremark/core_list_join.o
+ .debug_abbrev  0x0000000000000000      0x433 ./coremark/core_list_join.o
+ .debug_loc     0x0000000000000000     0x11af ./coremark/core_list_join.o
+ .debug_aranges
+                0x0000000000000000       0x78 ./coremark/core_list_join.o
+ .debug_ranges  0x0000000000000000      0x1a0 ./coremark/core_list_join.o
+ .debug_line    0x0000000000000000     0x1542 ./coremark/core_list_join.o
+ .debug_str     0x0000000000000000      0x8ee ./coremark/core_list_join.o
+ .comment       0x0000000000000000       0x3a ./coremark/core_list_join.o
+ .debug_frame   0x0000000000000000      0x17c ./coremark/core_list_join.o
+ .text          0x0000000000000000        0x0 ./coremark/core_main.o
+ .data          0x0000000000000000        0x0 ./coremark/core_main.o
+ .bss           0x0000000000000000        0x0 ./coremark/core_main.o
+ .text.iterate  0x0000000000000000       0x7a ./coremark/core_main.o
+ .text.coremark
+                0x0000000000000000      0x702 ./coremark/core_main.o
+ .data.mem_name
+                0x0000000000000000        0xc ./coremark/core_main.o
+ .rodata.coremark.str1.4
+                0x0000000000000000      0x467 ./coremark/core_main.o
+ .rodata.str1.4
+                0x0000000000000000       0x16 ./coremark/core_main.o
+ .debug_info    0x0000000000000000     0x12e8 ./coremark/core_main.o
+ .debug_abbrev  0x0000000000000000      0x2bc ./coremark/core_main.o
+ .debug_loc     0x0000000000000000      0x5ad ./coremark/core_main.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./coremark/core_main.o
+ .debug_ranges  0x0000000000000000       0x58 ./coremark/core_main.o
+ .debug_line    0x0000000000000000      0xef3 ./coremark/core_main.o
+ .debug_str     0x0000000000000000      0x886 ./coremark/core_main.o
+ .comment       0x0000000000000000       0x3a ./coremark/core_main.o
+ .debug_frame   0x0000000000000000       0x80 ./coremark/core_main.o
+ .text          0x0000000000000000        0x0 ./coremark/core_matrix.o
+ .data          0x0000000000000000        0x0 ./coremark/core_matrix.o
+ .bss           0x0000000000000000        0x0 ./coremark/core_matrix.o
+ .text.core_init_matrix
+                0x0000000000000000       0xbc ./coremark/core_matrix.o
+ .text.matrix_sum
+                0x0000000000000000       0x66 ./coremark/core_matrix.o
+ .text.matrix_mul_const
+                0x0000000000000000       0x42 ./coremark/core_matrix.o
+ .text.matrix_add_const
+                0x0000000000000000       0x3a ./coremark/core_matrix.o
+ .text.matrix_mul_vect
+                0x0000000000000000       0x3a ./coremark/core_matrix.o
+ .text.matrix_mul_matrix
+                0x0000000000000000       0x5c ./coremark/core_matrix.o
+ .text.matrix_mul_matrix_bitextract
+                0x0000000000000000       0x6c ./coremark/core_matrix.o
+ .text.matrix_test
+                0x0000000000000000      0x30e ./coremark/core_matrix.o
+ .text.core_bench_matrix
+                0x0000000000000000       0x2a ./coremark/core_matrix.o
+ .debug_info    0x0000000000000000     0x1367 ./coremark/core_matrix.o
+ .debug_abbrev  0x0000000000000000      0x373 ./coremark/core_matrix.o
+ .debug_loc     0x0000000000000000     0x102b ./coremark/core_matrix.o
+ .debug_aranges
+                0x0000000000000000       0x60 ./coremark/core_matrix.o
+ .debug_ranges  0x0000000000000000      0x110 ./coremark/core_matrix.o
+ .debug_line    0x0000000000000000     0x1062 ./coremark/core_matrix.o
+ .debug_str     0x0000000000000000      0x70a ./coremark/core_matrix.o
+ .comment       0x0000000000000000       0x3a ./coremark/core_matrix.o
+ .debug_frame   0x0000000000000000      0x124 ./coremark/core_matrix.o
+ .text          0x0000000000000000        0x0 ./coremark/core_portme.o
+ .data          0x0000000000000000        0x0 ./coremark/core_portme.o
+ .bss           0x0000000000000000        0x0 ./coremark/core_portme.o
+ .text.start_time
+                0x0000000000000000       0x20 ./coremark/core_portme.o
+ .text.stop_time
+                0x0000000000000000       0x20 ./coremark/core_portme.o
+ .text.get_time
+                0x0000000000000000       0x28 ./coremark/core_portme.o
+ .text.time_in_secs
+                0x0000000000000000        0xa ./coremark/core_portme.o
+ .sbss.seed1_volatile
+                0x0000000000000000        0x4 ./coremark/core_portme.o
+ .sbss.seed2_volatile
+                0x0000000000000000        0x4 ./coremark/core_portme.o
+ .sbss.seed5_volatile
+                0x0000000000000000        0x4 ./coremark/core_portme.o
+ .sbss.t0       0x0000000000000000        0x8 ./coremark/core_portme.o
+ .sbss.t1       0x0000000000000000        0x8 ./coremark/core_portme.o
+ .sdata.seed3_volatile
+                0x0000000000000000        0x4 ./coremark/core_portme.o
+ .sdata.seed4_volatile
+                0x0000000000000000        0x4 ./coremark/core_portme.o
+ .debug_info    0x0000000000000000      0xaa0 ./coremark/core_portme.o
+ .debug_abbrev  0x0000000000000000      0x276 ./coremark/core_portme.o
+ .debug_loc     0x0000000000000000       0x52 ./coremark/core_portme.o
+ .debug_aranges
+                0x0000000000000000       0x38 ./coremark/core_portme.o
+ .debug_ranges  0x0000000000000000       0x28 ./coremark/core_portme.o
+ .debug_line    0x0000000000000000      0x3a0 ./coremark/core_portme.o
+ .debug_str     0x0000000000000000      0x69c ./coremark/core_portme.o
+ .comment       0x0000000000000000       0x3a ./coremark/core_portme.o
+ .debug_frame   0x0000000000000000       0x68 ./coremark/core_portme.o
+ .text          0x0000000000000000        0x0 ./coremark/core_state.o
+ .data          0x0000000000000000        0x0 ./coremark/core_state.o
+ .bss           0x0000000000000000        0x0 ./coremark/core_state.o
+ .text.core_init_state
+                0x0000000000000000      0x1da ./coremark/core_state.o
+ .rodata.core_init_state
+                0x0000000000000000       0x14 ./coremark/core_state.o
+ .text.core_state_transition
+                0x0000000000000000      0x24e ./coremark/core_state.o
+ .text.core_bench_state
+                0x0000000000000000      0x15c ./coremark/core_state.o
+ .rodata.errpat
+                0x0000000000000000       0x10 ./coremark/core_state.o
+ .rodata.floatpat
+                0x0000000000000000       0x10 ./coremark/core_state.o
+ .rodata.intpat
+                0x0000000000000000       0x10 ./coremark/core_state.o
+ .rodata.scipat
+                0x0000000000000000       0x10 ./coremark/core_state.o
+ .rodata.str1.4
+                0x0000000000000000       0xad ./coremark/core_state.o
+ .debug_info    0x0000000000000000      0xda2 ./coremark/core_state.o
+ .debug_abbrev  0x0000000000000000      0x350 ./coremark/core_state.o
+ .debug_loc     0x0000000000000000      0xad0 ./coremark/core_state.o
+ .debug_aranges
+                0x0000000000000000       0x30 ./coremark/core_state.o
+ .debug_ranges  0x0000000000000000      0x130 ./coremark/core_state.o
+ .debug_line    0x0000000000000000     0x11b6 ./coremark/core_state.o
+ .debug_str     0x0000000000000000      0x769 ./coremark/core_state.o
+ .comment       0x0000000000000000       0x3a ./coremark/core_state.o
+ .debug_frame   0x0000000000000000       0x8c ./coremark/core_state.o
+ .text          0x0000000000000000        0x0 ./coremark/core_util.o
+ .data          0x0000000000000000        0x0 ./coremark/core_util.o
+ .bss           0x0000000000000000        0x0 ./coremark/core_util.o
+ .text.get_seed_32
+                0x0000000000000000       0x58 ./coremark/core_util.o
+ .rodata.get_seed_32
+                0x0000000000000000       0x18 ./coremark/core_util.o
+ .text.crcu8    0x0000000000000000       0xb8 ./coremark/core_util.o
+ .text.crcu16   0x0000000000000000      0x16e ./coremark/core_util.o
+ .text.crcu32   0x0000000000000000       0x28 ./coremark/core_util.o
+ .text.crc16    0x0000000000000000        0xc ./coremark/core_util.o
+ .text.check_data_types
+                0x0000000000000000        0x4 ./coremark/core_util.o
+ .debug_info    0x0000000000000000      0xc80 ./coremark/core_util.o
+ .debug_abbrev  0x0000000000000000      0x326 ./coremark/core_util.o
+ .debug_loc     0x0000000000000000      0x7ad ./coremark/core_util.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./coremark/core_util.o
+ .debug_ranges  0x0000000000000000       0x98 ./coremark/core_util.o
+ .debug_line    0x0000000000000000      0xd4e ./coremark/core_util.o
+ .debug_str     0x0000000000000000      0x6b1 ./coremark/core_util.o
+ .comment       0x0000000000000000       0x3a ./coremark/core_util.o
+ .debug_frame   0x0000000000000000       0x80 ./coremark/core_util.o
+ .text          0x0000000000000000        0x0 ./EasyProton/FreeRTOS-proton.o
+ .data          0x0000000000000000        0x0 ./EasyProton/FreeRTOS-proton.o
+ .bss           0x0000000000000000        0x0 ./EasyProton/FreeRTOS-proton.o
+ .text          0x0000000000000000        0x0 ./EasyProton/main.o
+ .data          0x0000000000000000        0x0 ./EasyProton/main.o
+ .bss           0x0000000000000000        0x0 ./EasyProton/main.o
+ .text.pwm_task
+                0x0000000000000000       0xe6 ./EasyProton/main.o
+ .text.rtc_task
+                0x0000000000000000       0xd4 ./EasyProton/main.o
+ .rodata.rtc_task.str1.4
+                0x0000000000000000       0x26 ./EasyProton/main.o
+ .text          0x0000000000000000        0x0 ./EasyProton/oled-task.o
+ .data          0x0000000000000000        0x0 ./EasyProton/oled-task.o
+ .bss           0x0000000000000000        0x0 ./EasyProton/oled-task.o
+ .text.Write_IIC_Command
+                0x0000000000000000       0x36 ./EasyProton/oled-task.o
+ .text.Write_IIC_Data
+                0x0000000000000000       0x3a ./EasyProton/oled-task.o
+ .text.OLED_WR_Byte
+                0x0000000000000000       0x12 ./EasyProton/oled-task.o
+ .text.fill_picture
+                0x0000000000000000       0x5e ./EasyProton/oled-task.o
+ .text.Delay_50ms
+                0x0000000000000000        0x2 ./EasyProton/oled-task.o
+ .text.Delay_1ms
+                0x0000000000000000        0x2 ./EasyProton/oled-task.o
+ .text.OLED_Set_Pos
+                0x0000000000000000       0x3a ./EasyProton/oled-task.o
+ .text.OLED_ShowChar.constprop.3
+                0x0000000000000000       0xac ./EasyProton/oled-task.o
+ .text.OLED_ShowString.constprop.2
+                0x0000000000000000       0x74 ./EasyProton/oled-task.o
+ .text.OLED_Display_On
+                0x0000000000000000       0x2a ./EasyProton/oled-task.o
+ .text.OLED_Display_Off
+                0x0000000000000000       0x2a ./EasyProton/oled-task.o
+ .text.OLED_Clear
+                0x0000000000000000       0x90 ./EasyProton/oled-task.o
+ .text.OLED_On  0x0000000000000000       0x90 ./EasyProton/oled-task.o
+ .text.OLED_ShowChar
+                0x0000000000000000       0xe8 ./EasyProton/oled-task.o
+ .text.oled_pow
+                0x0000000000000000       0x22 ./EasyProton/oled-task.o
+ .text.OLED_ShowNum
+                0x0000000000000000       0xc6 ./EasyProton/oled-task.o
+ .text.OLED_ShowString
+                0x0000000000000000       0x68 ./EasyProton/oled-task.o
+ .text.OLED_ShowCHinese
+                0x0000000000000000       0x90 ./EasyProton/oled-task.o
+ .text.OLED_DrawBMP
+                0x0000000000000000       0x8e ./EasyProton/oled-task.o
+ .text.OLED_Init
+                0x0000000000000000      0x140 ./EasyProton/oled-task.o
+ .text.delay_50ms
+                0x0000000000000000        0x2 ./EasyProton/oled-task.o
+ .text.oled_task
+                0x0000000000000000      0x146 ./EasyProton/oled-task.o
+ .rodata.BMP1   0x0000000000000000      0x400 ./EasyProton/oled-task.o
+ .rodata.F6x8   0x0000000000000000      0x228 ./EasyProton/oled-task.o
+ .rodata.F8X16  0x0000000000000000      0x5f0 ./EasyProton/oled-task.o
+ .rodata.Hzk    0x0000000000000000      0x380 ./EasyProton/oled-task.o
+ .rodata.oled_task.str1.4
+                0x0000000000000000       0x31 ./EasyProton/oled-task.o
+ .debug_info    0x0000000000000000     0x2636 ./EasyProton/oled-task.o
+ .debug_abbrev  0x0000000000000000      0x52a ./EasyProton/oled-task.o
+ .debug_loc     0x0000000000000000     0x14f2 ./EasyProton/oled-task.o
+ .debug_aranges
+                0x0000000000000000       0xb8 ./EasyProton/oled-task.o
+ .debug_ranges  0x0000000000000000      0x2e0 ./EasyProton/oled-task.o
+ .debug_line    0x0000000000000000     0x1773 ./EasyProton/oled-task.o
+ .debug_str     0x0000000000000000      0x989 ./EasyProton/oled-task.o
+ .comment       0x0000000000000000       0x3a ./EasyProton/oled-task.o
+ .debug_frame   0x0000000000000000      0x394 ./EasyProton/oled-task.o
+ .text          0x0000000000000000        0x0 ./EasyProton/shell-task.o
+ .data          0x0000000000000000        0x0 ./EasyProton/shell-task.o
+ .bss           0x0000000000000000        0x0 ./EasyProton/shell-task.o
+ .text.printk   0x0000000000000000       0x1e ./EasyProton/shell-task.o
+ .text.set_func
+                0x0000000000000000       0x52 ./EasyProton/shell-task.o
+ .text.set_mode
+                0x0000000000000000       0x52 ./EasyProton/shell-task.o
+ .text.eep_write
+                0x0000000000000000       0xaa ./EasyProton/shell-task.o
+ .rodata.printk.str1.4
+                0x0000000000000000        0x4 ./EasyProton/shell-task.o
+ .rodata.set_func.str1.4
+                0x0000000000000000        0xf ./EasyProton/shell-task.o
+ .text          0x0000000000000000        0x0 ./EasyProton/tft.o
+ .data          0x0000000000000000        0x0 ./EasyProton/tft.o
+ .bss           0x0000000000000000        0x0 ./EasyProton/tft.o
+ .text.Display_Clear
+                0x0000000000000000       0x94 ./EasyProton/tft.o
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcmp.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(extendsfdf2.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(extendsfdf2.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(extendsfdf2.o)
+ .text          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_text           0x0000000000000000 0x0000000000008000
+m_data           0x0000000000100000 0x0000000000004000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./xprintf/xprintf.o
+LOAD ./shell/fifo.o
+LOAD ./shell/shell.o
+LOAD ./shell/tools.o
+LOAD ./kernel/portable/MemMang/heap_4a.o
+LOAD ./kernel/portable/GCC/RISC-V/port.o
+LOAD ./kernel/portable/GCC/RISC-V/portASM.o
+LOAD ./kernel/croutine.o
+LOAD ./kernel/event_groups.o
+LOAD ./kernel/list.o
+LOAD ./kernel/queue.o
+LOAD ./kernel/stream_buffer.o
+LOAD ./kernel/tasks.o
+LOAD ./kernel/timers.o
+LOAD ./driver_library/libs/sys_lib/src/drv_adc.o
+LOAD ./driver_library/libs/sys_lib/src/drv_clock.o
+LOAD ./driver_library/libs/sys_lib/src/drv_clockcal.o
+LOAD ./driver_library/libs/sys_lib/src/drv_console.o
+LOAD ./driver_library/libs/sys_lib/src/drv_eflash.o
+LOAD ./driver_library/libs/sys_lib/src/drv_gpio.o
+LOAD ./driver_library/libs/sys_lib/src/drv_i2c.o
+LOAD ./driver_library/libs/sys_lib/src/drv_power.o
+LOAD ./driver_library/libs/sys_lib/src/drv_pwm.o
+LOAD ./driver_library/libs/sys_lib/src/drv_rtc.o
+LOAD ./driver_library/libs/sys_lib/src/drv_scu.o
+LOAD ./driver_library/libs/sys_lib/src/drv_spi.o
+LOAD ./driver_library/libs/sys_lib/src/drv_timer.o
+LOAD ./driver_library/libs/sys_lib/src/drv_uart.o
+LOAD ./driver_library/libs/sys_lib/src/drv_wdt.o
+LOAD ./driver_library/libs/sys_lib/src/irq.o
+LOAD ./driver_library/libs/sys_lib/src/system_proton.o
+LOAD ./driver_library/libs/sys_lib/src/utils.o
+LOAD ./driver_library/libs/string_lib/src/qprintf.o
+LOAD ./driver_library/gcc/crt0.riscv.o
+LOAD ./coremark/core_list_join.o
+LOAD ./coremark/core_main.o
+LOAD ./coremark/core_matrix.o
+LOAD ./coremark/core_portme.o
+LOAD ./coremark/core_state.o
+LOAD ./coremark/core_util.o
+LOAD ./EasyProton/FreeRTOS-proton.o
+LOAD ./EasyProton/main.o
+LOAD ./EasyProton/oled-task.o
+LOAD ./EasyProton/shell-task.o
+LOAD ./EasyProton/tft.o
+START GROUP
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libm.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libgloss.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a
+LOAD d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libsupc++.a
+END GROUP
+                0x0000000000000800                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x800
+
+.vectors        0x0000000000000000       0x8c
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c ./driver_library/gcc/crt0.riscv.o
+
+.text           0x0000000000000100     0x14d0
+                0x0000000000000100                . = ALIGN (0x4)
+                0x0000000000000100                _stext = .
+ *(.text)
+ .text          0x0000000000000100      0x2d4 ./kernel/portable/GCC/RISC-V/portASM.o
+                0x0000000000000100                freertos_risc_v_trap_handler
+                0x0000000000000200                xPortStartFirstTask
+                0x0000000000000300                pxPortInitialiseStack
+ .text          0x00000000000003d4      0x158 ./driver_library/gcc/crt0.riscv.o
+                0x000000000000052a                _fini
+                0x000000000000052a                _init
+ .text          0x000000000000052c       0xdc d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memset.o)
+                0x000000000000052c                memset
+                0x0000000000000608                _etext = .
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.xvprintf
+                0x0000000000000608       0x5c ./xprintf/xprintf.o
+ .rodata.get    0x0000000000000664       0x28 ./shell/shell.o
+ .rodata.set    0x000000000000068c       0x28 ./shell/shell.o
+ .rodata.shell  0x00000000000006b4       0x14 ./shell/shell.o
+ .rodata.get.str1.4
+                0x00000000000006c8       0x92 ./shell/shell.o
+ *fill*         0x000000000000075a        0x2 
+ .rodata.help.str1.4
+                0x000000000000075c       0x16 ./shell/shell.o
+ *fill*         0x0000000000000772        0x2 
+ .rodata.set.str1.4
+                0x0000000000000774       0x19 ./shell/shell.o
+ *fill*         0x000000000000078d        0x3 
+ .rodata.shell.str1.4
+                0x0000000000000790       0x34 ./shell/shell.o
+                                         0x38 (size before relaxing)
+ .rodata.tiny_shell_run.str1.4
+                0x00000000000007c4       0x14 ./shell/shell.o
+ .rodata.vTaskStartScheduler.str1.4
+                0x00000000000007d8        0x5 ./kernel/tasks.o
+ *fill*         0x00000000000007dd        0x3 
+ .rodata.CSWTCH.0
+                0x00000000000007e0       0x1c ./driver_library/libs/sys_lib/src/drv_clock.o
+ .rodata.gpio_mode_set
+                0x00000000000007fc       0x20 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .rodata.printf.str1.4
+                0x000000000000081c        0x7 ./driver_library/libs/string_lib/src/qprintf.o
+ *fill*         0x0000000000000823        0x1 
+ .rodata.init_task.str1.4
+                0x0000000000000824       0x1f ./EasyProton/main.o
+ *fill*         0x0000000000000843        0x1 
+ .rodata.main.str1.4
+                0x0000000000000844        0x5 ./EasyProton/main.o
+ *fill*         0x0000000000000849        0x3 
+ .rodata.prvSetupHardware.str1.4
+                0x000000000000084c       0x7b ./EasyProton/main.o
+ *fill*         0x00000000000008c7        0x1 
+ .rodata.stack_check.str1.4
+                0x00000000000008c8       0x88 ./EasyProton/main.o
+ .rodata.__fsym_adc_demo_name
+                0x0000000000000950        0x9 ./EasyProton/shell-task.o
+                0x0000000000000950                __fsym_adc_demo_name
+ *fill*         0x0000000000000959        0x3 
+ .rodata.__fsym_eep_demo_name
+                0x000000000000095c        0x9 ./EasyProton/shell-task.o
+                0x000000000000095c                __fsym_eep_demo_name
+ *fill*         0x0000000000000965        0x3 
+ .rodata.__fsym_eflash_demo_name
+                0x0000000000000968        0xc ./EasyProton/shell-task.o
+                0x0000000000000968                __fsym_eflash_demo_name
+ .rodata.__fsym_pwm_demo_name
+                0x0000000000000974        0x9 ./EasyProton/shell-task.o
+                0x0000000000000974                __fsym_pwm_demo_name
+ *fill*         0x000000000000097d        0x3 
+ .rodata.__fsym_set_freq_name
+                0x0000000000000980        0x9 ./EasyProton/shell-task.o
+                0x0000000000000980                __fsym_set_freq_name
+ *fill*         0x0000000000000989        0x3 
+ .rodata.__fsym_spi0_demo_name
+                0x000000000000098c        0xa ./EasyProton/shell-task.o
+                0x000000000000098c                __fsym_spi0_demo_name
+ *fill*         0x0000000000000996        0x2 
+ .rodata.__fsym_uart_demo_name
+                0x0000000000000998        0xa ./EasyProton/shell-task.o
+                0x0000000000000998                __fsym_uart_demo_name
+ *fill*         0x00000000000009a2        0x2 
+ .rodata.adc_demo.str1.4
+                0x00000000000009a4       0x4a ./EasyProton/shell-task.o
+ *fill*         0x00000000000009ee        0x2 
+ .rodata.adc_scan.str1.4
+                0x00000000000009f0       0x12 ./EasyProton/shell-task.o
+                                         0x16 (size before relaxing)
+ *fill*         0x0000000000000a02        0x2 
+ .rodata.adc_select1.str1.4
+                0x0000000000000a04       0x10 ./EasyProton/shell-task.o
+ .rodata.dump.str1.4
+                0x0000000000000a14       0x13 ./EasyProton/shell-task.o
+ *fill*         0x0000000000000a27        0x1 
+ .rodata.eep_demo.str1.4
+                0x0000000000000a28       0x3b ./EasyProton/shell-task.o
+ *fill*         0x0000000000000a63        0x1 
+ .rodata.eflash_demo.str1.4
+                0x0000000000000a64       0x31 ./EasyProton/shell-task.o
+ *fill*         0x0000000000000a95        0x3 
+ .rodata.heap_free.str1.4
+                0x0000000000000a98       0x5f ./EasyProton/shell-task.o
+ *fill*         0x0000000000000af7        0x1 
+ .rodata.hello.str1.4
+                0x0000000000000af8        0xd ./EasyProton/shell-task.o
+ *fill*         0x0000000000000b05        0x3 
+ .rodata.read.str1.4
+                0x0000000000000b08       0x11 ./EasyProton/shell-task.o
+ *fill*         0x0000000000000b19        0x3 
+ .rodata.set_freq.str1.4
+                0x0000000000000b1c       0x4d ./EasyProton/shell-task.o
+ *fill*         0x0000000000000b69        0x3 
+ .rodata.spi0_demo.str1.4
+                0x0000000000000b6c       0x10 ./EasyProton/shell-task.o
+ .rodata.uart_demo.str1.4
+                0x0000000000000b7c        0xf ./EasyProton/shell-task.o
+ *fill*         0x0000000000000b8b        0x1 
+ .rodata.Display_Panel1.str1.4
+                0x0000000000000b8c       0x68 ./EasyProton/tft.o
+ .rodata.Zk_ASCII8X16
+                0x0000000000000bf4      0x800 ./EasyProton/tft.o
+                0x0000000000000bf4                Zk_ASCII8X16
+ .rodata.__clz_tab
+                0x00000000000013f4      0x100 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+                0x00000000000013f4                __clz_tab
+                0x00000000000014f4                __CTOR_LIST__ = .
+                0x00000000000014f4        0x4 LONG 0x0 (((__CTOR_END__ - __CTOR_LIST__) / 0x4) - 0x2)
+ *(.ctors)
+                0x00000000000014f8        0x4 LONG 0x0
+                0x00000000000014fc                __CTOR_END__ = .
+                0x00000000000014fc                __DTOR_LIST__ = .
+                0x00000000000014fc        0x4 LONG 0x0 (((__DTOR_END__ - __DTOR_LIST__) / 0x4) - 0x2)
+ *(.dtors)
+                0x0000000000001500        0x4 LONG 0x0
+                0x0000000000001504                __DTOR_END__ = .
+ *(.lit)
+ *(.shdata)
+                0x0000000000001504                . = ALIGN (0x4)
+                0x0000000000001504                __fsymtab_start = .
+ *(FSymTab)
+ FSymTab        0x0000000000001504       0x24 ./shell/shell.o
+                0x0000000000001504                __fsym_help
+                0x0000000000001510                __fsym_set
+                0x000000000000151c                __fsym_get
+ FSymTab        0x0000000000001528        0xc ./EasyProton/main.o
+                0x0000000000001528                __fsym_stack_check
+ FSymTab        0x0000000000001534       0x9c ./EasyProton/shell-task.o
+                0x0000000000001534                __fsym_set_freq
+                0x0000000000001540                __fsym_eep_demo
+                0x000000000000154c                __fsym_adc_demo
+                0x0000000000001558                __fsym_pwm_demo
+                0x0000000000001564                __fsym_uart_demo
+                0x0000000000001570                __fsym_eflash_demo
+                0x000000000000157c                __fsym_spi0_demo
+                0x0000000000001588                __fsym_reboot
+                0x0000000000001594                __fsym_dump
+                0x00000000000015a0                __fsym_write
+                0x00000000000015ac                __fsym_read
+                0x00000000000015b8                __fsym_hello
+                0x00000000000015c4                __fsym_heap_free
+                0x00000000000015d0                __fsymtab_end = .
+                0x00000000000015d0                . = ALIGN (0x4)
+                0x00000000000015d0                __vsymtab_start = .
+ *(VSymTab)
+                0x00000000000015d0                __vsymtab_end = .
+                0x00000000000015d0                . = ALIGN (0x4)
+                0x00000000000015d0                . = ALIGN (0x4)
+                0x00000000000015d0                __rt_init_start = .
+ *(SORT_BY_NAME(.rti_fn*))
+                0x00000000000015d0                __rt_init_end = .
+                0x00000000000015d0                . = ALIGN (0x4)
+                0x00000000000015d0                _endtext = .
+
+.text.xputc.constprop.2
+                0x00000000000015d0       0x3a
+ .text.xputc.constprop.2
+                0x00000000000015d0       0x3a ./xprintf/xprintf.o
+
+.text.xputc     0x000000000000160a       0x54
+ .text.xputc    0x000000000000160a       0x54 ./xprintf/xprintf.o
+                0x000000000000160a                xputc
+
+.text.xvprintf  0x000000000000165e      0x2dc
+ .text.xvprintf
+                0x000000000000165e      0x2dc ./xprintf/xprintf.o
+
+.text.xputs     0x000000000000193a       0x20
+ .text.xputs    0x000000000000193a       0x20 ./xprintf/xprintf.o
+                0x000000000000193a                xputs
+
+.text.xprintf   0x000000000000195a       0x22
+ .text.xprintf  0x000000000000195a       0x22 ./xprintf/xprintf.o
+                0x000000000000195a                xprintf
+
+.text.xatoi     0x000000000000197c      0x122
+ .text.xatoi    0x000000000000197c      0x122 ./xprintf/xprintf.o
+                0x000000000000197c                xatoi
+
+.text.fifo_init
+                0x0000000000001a9e       0x38
+ .text.fifo_init
+                0x0000000000001a9e       0x38 ./shell/fifo.o
+                0x0000000000001a9e                fifo_init
+
+.text.fifo_putc
+                0x0000000000001ad6       0x32
+ .text.fifo_putc
+                0x0000000000001ad6       0x32 ./shell/fifo.o
+                0x0000000000001ad6                fifo_putc
+
+.text.fifo_scanc
+                0x0000000000001b08       0x84
+ .text.fifo_scanc
+                0x0000000000001b08       0x84 ./shell/fifo.o
+                0x0000000000001b08                fifo_scanc
+
+.text.fifo_get_token
+                0x0000000000001b8c       0xb8
+ .text.fifo_get_token
+                0x0000000000001b8c       0xb8 ./shell/fifo.o
+                0x0000000000001b8c                fifo_get_token
+
+.text.help      0x0000000000001c44       0xf0
+ .text.help     0x0000000000001c44       0xf0 ./shell/shell.o
+                0x0000000000001c44                help
+
+.text.get       0x0000000000001d34      0x13e
+ .text.get      0x0000000000001d34      0x13e ./shell/shell.o
+                0x0000000000001d34                get
+
+.text.set       0x0000000000001e72      0x1c2
+ .text.set      0x0000000000001e72      0x1c2 ./shell/shell.o
+                0x0000000000001e72                set
+
+.text.shell_get_args
+                0x0000000000002034       0x5c
+ .text.shell_get_args
+                0x0000000000002034       0x5c ./shell/shell.o
+                0x0000000000002034                shell_get_args
+
+.text.shell     0x0000000000002090      0x1fe
+ .text.shell    0x0000000000002090      0x1fe ./shell/shell.o
+                0x0000000000002090                shell
+
+.text.shell_getc
+                0x000000000000228e       0x1e
+ .text.shell_getc
+                0x000000000000228e       0x1e ./shell/shell.o
+                0x000000000000228e                shell_getc
+
+.text.tiny_shell_run
+                0x00000000000022ac       0xa0
+ .text.tiny_shell_run
+                0x00000000000022ac       0xa0 ./shell/shell.o
+                0x00000000000022ac                tiny_shell_run
+
+.text.shell_task
+                0x000000000000234c        0x2
+ .text.shell_task
+                0x000000000000234c        0x2 ./shell/shell.o
+                0x000000000000234c                shell_task
+
+.text.str_cmp   0x000000000000234e       0x5a
+ .text.str_cmp  0x000000000000234e       0x5a ./shell/tools.o
+                0x000000000000234e                str_cmp
+
+.text.prvInsertBlockIntoFreeList
+                0x00000000000023a8       0x52
+ .text.prvInsertBlockIntoFreeList
+                0x00000000000023a8       0x52 ./kernel/portable/MemMang/heap_4a.o
+
+.text.pvPortMalloc
+                0x00000000000023fa      0x166
+ .text.pvPortMalloc
+                0x00000000000023fa      0x166 ./kernel/portable/MemMang/heap_4a.o
+                0x00000000000023fa                pvPortMalloc
+
+.text.vPortFree
+                0x0000000000002560       0x6c
+ .text.vPortFree
+                0x0000000000002560       0x6c ./kernel/portable/MemMang/heap_4a.o
+                0x0000000000002560                vPortFree
+
+.text.xPortGetTotalHeapSize
+                0x00000000000025cc        0xc
+ .text.xPortGetTotalHeapSize
+                0x00000000000025cc        0xc ./kernel/portable/MemMang/heap_4a.o
+                0x00000000000025cc                xPortGetTotalHeapSize
+
+.text.xPortGetFreeHeapSize
+                0x00000000000025d8        0xc
+ .text.xPortGetFreeHeapSize
+                0x00000000000025d8        0xc ./kernel/portable/MemMang/heap_4a.o
+                0x00000000000025d8                xPortGetFreeHeapSize
+
+.text.xPortGetMinimumEverFreeHeapSize
+                0x00000000000025e4        0xc
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000000025e4        0xc ./kernel/portable/MemMang/heap_4a.o
+                0x00000000000025e4                xPortGetMinimumEverFreeHeapSize
+
+.text.xPortStartScheduler
+                0x00000000000025f0       0x48
+ .text.xPortStartScheduler
+                0x00000000000025f0       0x48 ./kernel/portable/GCC/RISC-V/port.o
+                0x00000000000025f0                xPortStartScheduler
+
+.text.vListInitialise
+                0x0000000000002638       0x14
+ .text.vListInitialise
+                0x0000000000002638       0x14 ./kernel/list.o
+                0x0000000000002638                vListInitialise
+
+.text.vListInitialiseItem
+                0x000000000000264c        0x6
+ .text.vListInitialiseItem
+                0x000000000000264c        0x6 ./kernel/list.o
+                0x000000000000264c                vListInitialiseItem
+
+.text.vListInsertEnd
+                0x0000000000002652       0x18
+ .text.vListInsertEnd
+                0x0000000000002652       0x18 ./kernel/list.o
+                0x0000000000002652                vListInsertEnd
+
+.text.vListInsert
+                0x000000000000266a       0x30
+ .text.vListInsert
+                0x000000000000266a       0x30 ./kernel/list.o
+                0x000000000000266a                vListInsert
+
+.text.uxListRemove
+                0x000000000000269a       0x2e
+ .text.uxListRemove
+                0x000000000000269a       0x2e ./kernel/list.o
+                0x000000000000269a                uxListRemove
+
+.text.prvResetNextTaskUnblockTime.part.1
+                0x00000000000026c8       0x1a
+ .text.prvResetNextTaskUnblockTime.part.1
+                0x00000000000026c8       0x1a ./kernel/tasks.o
+
+.text.prvAddCurrentTaskToDelayedList
+                0x00000000000026e2       0xce
+ .text.prvAddCurrentTaskToDelayedList
+                0x00000000000026e2       0xce ./kernel/tasks.o
+
+.text.vTaskSwitchContext.part.4
+                0x00000000000027b0       0x72
+ .text.vTaskSwitchContext.part.4
+                0x00000000000027b0       0x72 ./kernel/tasks.o
+
+.text.vTaskEnterCritical.part.5
+                0x0000000000002822       0x14
+ .text.vTaskEnterCritical.part.5
+                0x0000000000002822       0x14 ./kernel/tasks.o
+
+.text.vTaskExitCritical.part.6
+                0x0000000000002836       0x1c
+ .text.vTaskExitCritical.part.6
+                0x0000000000002836       0x1c ./kernel/tasks.o
+
+.text.prvIdleTask
+                0x0000000000002852       0xa8
+ .text.prvIdleTask
+                0x0000000000002852       0xa8 ./kernel/tasks.o
+
+.text.xTaskCreate
+                0x00000000000028fa      0x2a4
+ .text.xTaskCreate
+                0x00000000000028fa      0x2a4 ./kernel/tasks.o
+                0x00000000000028fa                xTaskCreate
+
+.text.vTaskDelete
+                0x0000000000002b9e      0x134
+ .text.vTaskDelete
+                0x0000000000002b9e      0x134 ./kernel/tasks.o
+                0x0000000000002b9e                vTaskDelete
+
+.text.vTaskStartScheduler
+                0x0000000000002cd2       0x66
+ .text.vTaskStartScheduler
+                0x0000000000002cd2       0x66 ./kernel/tasks.o
+                0x0000000000002cd2                vTaskStartScheduler
+
+.text.vTaskSuspendAll
+                0x0000000000002d38       0x10
+ .text.vTaskSuspendAll
+                0x0000000000002d38       0x10 ./kernel/tasks.o
+                0x0000000000002d38                vTaskSuspendAll
+
+.text.xTaskIncrementTick
+                0x0000000000002d48      0x1bc
+ .text.xTaskIncrementTick
+                0x0000000000002d48      0x1bc ./kernel/tasks.o
+                0x0000000000002d48                xTaskIncrementTick
+
+.text.xTaskResumeAll.part.7
+                0x0000000000002f04      0x16e
+ .text.xTaskResumeAll.part.7
+                0x0000000000002f04      0x16e ./kernel/tasks.o
+
+.text.xTaskResumeAll
+                0x0000000000003072       0x16
+ .text.xTaskResumeAll
+                0x0000000000003072       0x16 ./kernel/tasks.o
+                0x0000000000003072                xTaskResumeAll
+
+.text.vTaskDelay
+                0x0000000000003088       0x50
+ .text.vTaskDelay
+                0x0000000000003088       0x50 ./kernel/tasks.o
+                0x0000000000003088                vTaskDelay
+
+.text.vTaskSwitchContext
+                0x00000000000030d8       0x1c
+ .text.vTaskSwitchContext
+                0x00000000000030d8       0x1c ./kernel/tasks.o
+                0x00000000000030d8                vTaskSwitchContext
+
+.text.uxTaskGetStackHighWaterMark
+                0x00000000000030f4       0x48
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000000030f4       0x48 ./kernel/tasks.o
+                0x00000000000030f4                uxTaskGetStackHighWaterMark
+
+.text.vTaskEnterCritical
+                0x000000000000313c       0x16
+ .text.vTaskEnterCritical
+                0x000000000000313c       0x16 ./kernel/tasks.o
+                0x000000000000313c                vTaskEnterCritical
+
+.text.vTaskExitCritical
+                0x0000000000003152       0x20
+ .text.vTaskExitCritical
+                0x0000000000003152       0x20 ./kernel/tasks.o
+                0x0000000000003152                vTaskExitCritical
+
+.text.adc_deinit
+                0x0000000000003172       0x18
+ .text.adc_deinit
+                0x0000000000003172       0x18 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x0000000000003172                adc_deinit
+
+.text.adc_init  0x000000000000318a       0x16
+ .text.adc_init
+                0x000000000000318a       0x16 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x000000000000318a                adc_init
+
+.text.adc_conf_struct_init
+                0x00000000000031a0       0x38
+ .text.adc_conf_struct_init
+                0x00000000000031a0       0x38 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x00000000000031a0                adc_conf_struct_init
+
+.text.adc_set_conf
+                0x00000000000031d8       0x52
+ .text.adc_set_conf
+                0x00000000000031d8       0x52 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x00000000000031d8                adc_set_conf
+
+.text.adc_start
+                0x000000000000322a       0x20
+ .text.adc_start
+                0x000000000000322a       0x20 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x000000000000322a                adc_start
+
+.text.adc_stop  0x000000000000324a       0x18
+ .text.adc_stop
+                0x000000000000324a       0x18 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x000000000000324a                adc_stop
+
+.text.adc_set_int_level
+                0x0000000000003262       0x1e
+ .text.adc_set_int_level
+                0x0000000000003262       0x1e ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x0000000000003262                adc_set_int_level
+
+.text.adc_int_enable
+                0x0000000000003280       0x34
+ .text.adc_int_enable
+                0x0000000000003280       0x34 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x0000000000003280                adc_int_enable
+
+.text.adc_read_status
+                0x00000000000032b4        0x8
+ .text.adc_read_status
+                0x00000000000032b4        0x8 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x00000000000032b4                adc_read_status
+
+.text.adc_read_result
+                0x00000000000032bc        0xc
+ .text.adc_read_result
+                0x00000000000032bc        0xc ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x00000000000032bc                adc_read_result
+
+.text.system_clock_set
+                0x00000000000032c8       0x16
+ .text.system_clock_set
+                0x00000000000032c8       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x00000000000032c8                system_clock_set
+
+.text.system_clock_get
+                0x00000000000032de       0x26
+ .text.system_clock_get
+                0x00000000000032de       0x26 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x00000000000032de                system_clock_get
+
+.text.lf_clock_select
+                0x0000000000003304       0x16
+ .text.lf_clock_select
+                0x0000000000003304       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x0000000000003304                lf_clock_select
+
+.text.adc_clock_select
+                0x000000000000331a       0x16
+ .text.adc_clock_select
+                0x000000000000331a       0x16 ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x000000000000331a                adc_clock_select
+
+.text.ext_clock_enable
+                0x0000000000003330       0x1e
+ .text.ext_clock_enable
+                0x0000000000003330       0x1e ./driver_library/libs/sys_lib/src/drv_clock.o
+                0x0000000000003330                ext_clock_enable
+
+.text.clockcal_calibrate
+                0x000000000000334e       0x32
+ .text.clockcal_calibrate
+                0x000000000000334e       0x32 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x000000000000334e                clockcal_calibrate
+
+.text.clockcal_read_factor_register
+                0x0000000000003380       0x1a
+ .text.clockcal_read_factor_register
+                0x0000000000003380       0x1a ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x0000000000003380                clockcal_read_factor_register
+
+.text.clockcal_write_factor_register
+                0x000000000000339a       0x32
+ .text.clockcal_write_factor_register
+                0x000000000000339a       0x32 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                0x000000000000339a                clockcal_write_factor_register
+
+.text.console_init
+                0x00000000000033cc       0x54
+ .text.console_init
+                0x00000000000033cc       0x54 ./driver_library/libs/sys_lib/src/drv_console.o
+                0x00000000000033cc                console_init
+
+.text.console_send
+                0x0000000000003420       0x26
+ .text.console_send
+                0x0000000000003420       0x26 ./driver_library/libs/sys_lib/src/drv_console.o
+                0x0000000000003420                console_send
+
+.text.console_send_char
+                0x0000000000003446       0x24
+ .text.console_send_char
+                0x0000000000003446       0x24 ./driver_library/libs/sys_lib/src/drv_console.o
+                0x0000000000003446                console_send_char
+
+.text.console_get_char
+                0x000000000000346a        0xe
+ .text.console_get_char
+                0x000000000000346a        0xe ./driver_library/libs/sys_lib/src/drv_console.o
+                0x000000000000346a                console_get_char
+
+.text.eflash_erase_page.part.0
+                0x0000000000003478       0x62
+ .text.eflash_erase_page.part.0
+                0x0000000000003478       0x62 ./driver_library/libs/sys_lib/src/drv_eflash.o
+
+.text.eflash_erase_page
+                0x00000000000034da        0xe
+ .text.eflash_erase_page
+                0x00000000000034da        0xe ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x00000000000034da                eflash_erase_page
+
+.text.eflash_program_word
+                0x00000000000034e8       0x5c
+ .text.eflash_program_word
+                0x00000000000034e8       0x5c ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x00000000000034e8                eflash_program_word
+
+.text.eflash_read_word
+                0x0000000000003544       0x5c
+ .text.eflash_read_word
+                0x0000000000003544       0x5c ./driver_library/libs/sys_lib/src/drv_eflash.o
+                0x0000000000003544                eflash_read_word
+
+.text.gpio_func_set
+                0x00000000000035a0       0x48
+ .text.gpio_func_set
+                0x00000000000035a0       0x48 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x00000000000035a0                gpio_func_set
+
+.text.gpio_mode_set
+                0x00000000000035e8      0x1c8
+ .text.gpio_mode_set
+                0x00000000000035e8      0x1c8 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x00000000000035e8                gpio_mode_set
+
+.text.gpio_set_pin_value
+                0x00000000000037b0       0x3e
+ .text.gpio_set_pin_value
+                0x00000000000037b0       0x3e ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x00000000000037b0                gpio_set_pin_value
+
+.text.i2cx_init
+                0x00000000000037ee       0xfa
+ .text.i2cx_init
+                0x00000000000037ee       0xfa ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x00000000000037ee                i2cx_init
+
+.text.i2cx_deinit
+                0x00000000000038e8       0xc6
+ .text.i2cx_deinit
+                0x00000000000038e8       0xc6 ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x00000000000038e8                i2cx_deinit
+
+.text.i2cx_setup_adapter
+                0x00000000000039ae       0x4a
+ .text.i2cx_setup_adapter
+                0x00000000000039ae       0x4a ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x00000000000039ae                i2cx_setup_adapter
+
+.text.i2cx_get_ack
+                0x00000000000039f8       0x46
+ .text.i2cx_get_ack
+                0x00000000000039f8       0x46 ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x00000000000039f8                i2cx_get_ack
+
+.text.i2cx_send_data
+                0x0000000000003a3e        0xc
+ .text.i2cx_send_data
+                0x0000000000003a3e        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x0000000000003a3e                i2cx_send_data
+
+.text.i2cx_send_command
+                0x0000000000003a4a        0xc
+ .text.i2cx_send_command
+                0x0000000000003a4a        0xc ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x0000000000003a4a                i2cx_send_command
+
+.text.i2cx_busy
+                0x0000000000003a56        0xe
+ .text.i2cx_busy
+                0x0000000000003a56        0xe ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x0000000000003a56                i2cx_busy
+
+.text.i2cx_xfer
+                0x0000000000003a64      0x106
+ .text.i2cx_xfer
+                0x0000000000003a64      0x106 ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x0000000000003a64                i2cx_xfer
+
+.text.pwm_init  0x0000000000003b6a       0x10
+ .text.pwm_init
+                0x0000000000003b6a       0x10 ./driver_library/libs/sys_lib/src/drv_pwm.o
+                0x0000000000003b6a                pwm_init
+
+.text.pwm_set_channel
+                0x0000000000003b7a       0x42
+ .text.pwm_set_channel
+                0x0000000000003b7a       0x42 ./driver_library/libs/sys_lib/src/drv_pwm.o
+                0x0000000000003b7a                pwm_set_channel
+
+.text.pwm_enable_channel
+                0x0000000000003bbc       0x1e
+ .text.pwm_enable_channel
+                0x0000000000003bbc       0x1e ./driver_library/libs/sys_lib/src/drv_pwm.o
+                0x0000000000003bbc                pwm_enable_channel
+
+.text.pwm_disable_channel
+                0x0000000000003bda       0x22
+ .text.pwm_disable_channel
+                0x0000000000003bda       0x22 ./driver_library/libs/sys_lib/src/drv_pwm.o
+                0x0000000000003bda                pwm_disable_channel
+
+.text.scu_reset_mcu
+                0x0000000000003bfc       0x10
+ .text.scu_reset_mcu
+                0x0000000000003bfc       0x10 ./driver_library/libs/sys_lib/src/drv_scu.o
+                0x0000000000003bfc                scu_reset_mcu
+
+.text.spix_setup_master
+                0x0000000000003c0c       0x60
+ .text.spix_setup_master
+                0x0000000000003c0c       0x60 ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003c0c                spix_setup_master
+
+.text.spix_set_max_speed
+                0x0000000000003c6c       0x36
+ .text.spix_set_max_speed
+                0x0000000000003c6c       0x36 ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003c6c                spix_set_max_speed
+
+.text.spix_attach_chip_select
+                0x0000000000003ca2       0xf0
+ .text.spix_attach_chip_select
+                0x0000000000003ca2       0xf0 ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003ca2                spix_attach_chip_select
+
+.text.spix_write_fifo
+                0x0000000000003d92       0x46
+ .text.spix_write_fifo
+                0x0000000000003d92       0x46 ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003d92                spix_write_fifo
+
+.text.spix_read_fifo
+                0x0000000000003dd8       0x46
+ .text.spix_read_fifo
+                0x0000000000003dd8       0x46 ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003dd8                spix_read_fifo
+
+.text.spix_setup_chip_select
+                0x0000000000003e1e       0x5e
+ .text.spix_setup_chip_select
+                0x0000000000003e1e       0x5e ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003e1e                spix_setup_chip_select
+
+.text.spix_release_chip_select
+                0x0000000000003e7c       0x6a
+ .text.spix_release_chip_select
+                0x0000000000003e7c       0x6a ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003e7c                spix_release_chip_select
+
+.text.spix_write_direct
+                0x0000000000003ee6       0xcc
+ .text.spix_write_direct
+                0x0000000000003ee6       0xcc ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003ee6                spix_write_direct
+
+.text.spix_write_then_read_direct
+                0x0000000000003fb2      0x196
+ .text.spix_write_then_read_direct
+                0x0000000000003fb2      0x196 ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x0000000000003fb2                spix_write_then_read_direct
+
+.text.timer_init
+                0x0000000000004148       0x1e
+ .text.timer_init
+                0x0000000000004148       0x1e ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x0000000000004148                timer_init
+
+.text.timer_int_enable
+                0x0000000000004166       0x72
+ .text.timer_int_enable
+                0x0000000000004166       0x72 ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x0000000000004166                timer_int_enable
+
+.text.timer_set_prescaler
+                0x00000000000041d8       0x1e
+ .text.timer_set_prescaler
+                0x00000000000041d8       0x1e ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x00000000000041d8                timer_set_prescaler
+
+.text.timer_start
+                0x00000000000041f6       0x14
+ .text.timer_start
+                0x00000000000041f6       0x14 ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x00000000000041f6                timer_start
+
+.text.timer_set_output_cmp
+                0x000000000000420a        0xc
+ .text.timer_set_output_cmp
+                0x000000000000420a        0xc ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x000000000000420a                timer_set_output_cmp
+
+.text.uartx_set_conf
+                0x0000000000004216       0x68
+ .text.uartx_set_conf
+                0x0000000000004216       0x68 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000004216                uartx_set_conf
+
+.text.uartx_int_enable
+                0x000000000000427e       0x94
+ .text.uartx_int_enable
+                0x000000000000427e       0x94 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x000000000000427e                uartx_int_enable
+
+.text.uartx_send
+                0x0000000000004312       0x26
+ .text.uartx_send
+                0x0000000000004312       0x26 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000004312                uartx_send
+
+.text.uartx_get_char
+                0x0000000000004338       0x14
+ .text.uartx_get_char
+                0x0000000000004338       0x14 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000004338                uartx_get_char
+
+.text.uartx_send_char
+                0x000000000000434c       0x14
+ .text.uartx_send_char
+                0x000000000000434c       0x14 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x000000000000434c                uartx_send_char
+
+.text.uartx_wait_tx_done
+                0x0000000000004360       0x12
+ .text.uartx_wait_tx_done
+                0x0000000000004360       0x12 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x0000000000004360                uartx_wait_tx_done
+
+.text.wdt_init  0x0000000000004372        0xe
+ .text.wdt_init
+                0x0000000000004372        0xe ./driver_library/libs/sys_lib/src/drv_wdt.o
+                0x0000000000004372                wdt_init
+
+.text.wdt_start
+                0x0000000000004380        0xc
+ .text.wdt_start
+                0x0000000000004380        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+                0x0000000000004380                wdt_start
+
+.text.wdt_keep_alive
+                0x000000000000438c        0xc
+ .text.wdt_keep_alive
+                0x000000000000438c        0xc ./driver_library/libs/sys_lib/src/drv_wdt.o
+                0x000000000000438c                wdt_keep_alive
+
+.text.default_irq_handler
+                0x0000000000004398        0x2
+ .text.default_irq_handler
+                0x0000000000004398        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x0000000000004398                default_irq_handler
+
+.text.I2C5_IRQ_handler
+                0x000000000000439a        0x2
+ .text.I2C5_IRQ_handler
+                0x000000000000439a        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000439a                I2C5_IRQ_handler
+
+.text.I2C4_IRQ_handler
+                0x000000000000439c        0x2
+ .text.I2C4_IRQ_handler
+                0x000000000000439c        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000439c                I2C4_IRQ_handler
+
+.text.I2C3_IRQ_handler
+                0x000000000000439e        0x2
+ .text.I2C3_IRQ_handler
+                0x000000000000439e        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x000000000000439e                I2C3_IRQ_handler
+
+.text.I2C2_IRQ_handler
+                0x00000000000043a0        0x2
+ .text.I2C2_IRQ_handler
+                0x00000000000043a0        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043a0                I2C2_IRQ_handler
+
+.text.I2C1_IRQ_handler
+                0x00000000000043a2        0x2
+ .text.I2C1_IRQ_handler
+                0x00000000000043a2        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043a2                I2C1_IRQ_handler
+
+.text.I2C0_IRQ_handler
+                0x00000000000043a4        0x2
+ .text.I2C0_IRQ_handler
+                0x00000000000043a4        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043a4                I2C0_IRQ_handler
+
+.text.ADCF_IRQ_handler
+                0x00000000000043a6        0x2
+ .text.ADCF_IRQ_handler
+                0x00000000000043a6        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043a6                ADCF_IRQ_handler
+
+.text.RTC_IRQ_handler
+                0x00000000000043a8        0x2
+ .text.RTC_IRQ_handler
+                0x00000000000043a8        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043a8                RTC_IRQ_handler
+
+.text.CAL32M_IRQ_handler
+                0x00000000000043aa        0x2
+ .text.CAL32M_IRQ_handler
+                0x00000000000043aa        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043aa                CAL32M_IRQ_handler
+
+.text.CAL32K_IRQ_handler
+                0x00000000000043ac        0x2
+ .text.CAL32K_IRQ_handler
+                0x00000000000043ac        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043ac                CAL32K_IRQ_handler
+
+.text.UART5_IRQ_handler
+                0x00000000000043ae        0x2
+ .text.UART5_IRQ_handler
+                0x00000000000043ae        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043ae                UART5_IRQ_handler
+
+.text.UART4_IRQ_handler
+                0x00000000000043b0        0x2
+ .text.UART4_IRQ_handler
+                0x00000000000043b0        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043b0                UART4_IRQ_handler
+
+.text.UART3_IRQ_handler
+                0x00000000000043b2        0x2
+ .text.UART3_IRQ_handler
+                0x00000000000043b2        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043b2                UART3_IRQ_handler
+
+.text.UART2_IRQ_handler
+                0x00000000000043b4        0x2
+ .text.UART2_IRQ_handler
+                0x00000000000043b4        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043b4                UART2_IRQ_handler
+
+.text.UART1_IRQ_handler
+                0x00000000000043b6        0x2
+ .text.UART1_IRQ_handler
+                0x00000000000043b6        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043b6                UART1_IRQ_handler
+
+.text.GPIO_IRQ_handler
+                0x00000000000043b8        0x2
+ .text.GPIO_IRQ_handler
+                0x00000000000043b8        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043b8                GPIO_IRQ_handler
+
+.text.SPIM1A_IRQ_handler
+                0x00000000000043ba        0x2
+ .text.SPIM1A_IRQ_handler
+                0x00000000000043ba        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043ba                SPIM1A_IRQ_handler
+
+.text.SPIM1B_IRQ_handler
+                0x00000000000043bc        0x2
+ .text.SPIM1B_IRQ_handler
+                0x00000000000043bc        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043bc                SPIM1B_IRQ_handler
+
+.text.SPIM0A_IRQ_handler
+                0x00000000000043be        0x2
+ .text.SPIM0A_IRQ_handler
+                0x00000000000043be        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043be                SPIM0A_IRQ_handler
+
+.text.SPIM0B_IRQ_handler
+                0x00000000000043c0        0x2
+ .text.SPIM0B_IRQ_handler
+                0x00000000000043c0        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043c0                SPIM0B_IRQ_handler
+
+.text.TIMER1_IRQ_handler
+                0x00000000000043c2        0x2
+ .text.TIMER1_IRQ_handler
+                0x00000000000043c2        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043c2                TIMER1_IRQ_handler
+
+.text.TIMER2_IRQ_handler
+                0x00000000000043c4        0x2
+ .text.TIMER2_IRQ_handler
+                0x00000000000043c4        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043c4                TIMER2_IRQ_handler
+
+.text.TIMER3_IRQ_handler
+                0x00000000000043c6        0x2
+ .text.TIMER3_IRQ_handler
+                0x00000000000043c6        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043c6                TIMER3_IRQ_handler
+
+.text.illegal_insn_handler_c
+                0x00000000000043c8        0x2
+ .text.illegal_insn_handler_c
+                0x00000000000043c8        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043c8                illegal_insn_handler_c
+
+.text.ecall_insn_handler_c
+                0x00000000000043ca        0x2
+ .text.ecall_insn_handler_c
+                0x00000000000043ca        0x2 ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043ca                ecall_insn_handler_c
+
+.text.system_irq_handler
+                0x00000000000043cc       0x1a
+ .text.system_irq_handler
+                0x00000000000043cc       0x1a ./driver_library/libs/sys_lib/src/irq.o
+                0x00000000000043cc                system_irq_handler
+
+.text.system_init_hook
+                0x00000000000043e6      0x132
+ .text.system_init_hook
+                0x00000000000043e6      0x132 ./driver_library/libs/sys_lib/src/system_proton.o
+                0x00000000000043e6                system_init_hook
+
+.text.system_init
+                0x0000000000004518       0x5c
+ .text.system_init
+                0x0000000000004518       0x5c ./driver_library/libs/sys_lib/src/system_proton.o
+                0x0000000000004518                system_init
+
+.text.exit      0x0000000000004574       0x12
+ .text.exit     0x0000000000004574       0x12 ./driver_library/libs/sys_lib/src/utils.o
+                0x0000000000004574                exit
+
+.text.qprints.constprop.2
+                0x0000000000004586       0xca
+ .text.qprints.constprop.2
+                0x0000000000004586       0xca ./driver_library/libs/string_lib/src/qprintf.o
+
+.text.qprinti.constprop.1
+                0x0000000000004650      0x144
+ .text.qprinti.constprop.1
+                0x0000000000004650      0x144 ./driver_library/libs/string_lib/src/qprintf.o
+
+.text.printf    0x0000000000004794      0x18a
+ .text.printf   0x0000000000004794      0x18a ./driver_library/libs/string_lib/src/qprintf.o
+                0x0000000000004794                printf
+
+.text.vPortSetupTimerInterrupt
+                0x000000000000491e       0x3c
+ .text.vPortSetupTimerInterrupt
+                0x000000000000491e       0x3c ./EasyProton/FreeRTOS-proton.o
+                0x000000000000491e                vPortSetupTimerInterrupt
+
+.text.timer0_irq_handler
+                0x000000000000495a       0x24
+ .text.timer0_irq_handler
+                0x000000000000495a       0x24 ./EasyProton/FreeRTOS-proton.o
+                0x000000000000495a                timer0_irq_handler
+
+.text.TIMER0_IRQ_handler
+                0x000000000000497e        0x2
+ .text.TIMER0_IRQ_handler
+                0x000000000000497e        0x2 ./EasyProton/FreeRTOS-proton.o
+                0x000000000000497e                TIMER0_IRQ_handler
+
+.text.vApplicationIdleHook
+                0x0000000000004980       0x12
+ .text.vApplicationIdleHook
+                0x0000000000004980       0x12 ./EasyProton/FreeRTOS-proton.o
+                0x0000000000004980                vApplicationIdleHook
+
+.text.led_task  0x0000000000004992       0x3a
+ .text.led_task
+                0x0000000000004992       0x3a ./EasyProton/main.o
+                0x0000000000004992                led_task
+
+.text.wdt_task  0x00000000000049cc       0x20
+ .text.wdt_task
+                0x00000000000049cc       0x20 ./EasyProton/main.o
+                0x00000000000049cc                wdt_task
+
+.text.stack_check
+                0x00000000000049ec       0xca
+ .text.stack_check
+                0x00000000000049ec       0xca ./EasyProton/main.o
+                0x00000000000049ec                stack_check
+
+.text.init_task
+                0x0000000000004ab6       0x98
+ .text.init_task
+                0x0000000000004ab6       0x98 ./EasyProton/main.o
+                0x0000000000004ab6                init_task
+
+.text.prvSetupHardware
+                0x0000000000004b4e       0x80
+ .text.prvSetupHardware
+                0x0000000000004b4e       0x80 ./EasyProton/main.o
+                0x0000000000004b4e                prvSetupHardware
+
+.text.startup.main
+                0x0000000000004bce       0x30
+ .text.startup.main
+                0x0000000000004bce       0x30 ./EasyProton/main.o
+                0x0000000000004bce                main
+
+.text.hello     0x0000000000004bfe       0x18
+ .text.hello    0x0000000000004bfe       0x18 ./EasyProton/shell-task.o
+                0x0000000000004bfe                hello
+
+.text.heap_free
+                0x0000000000004c16       0x42
+ .text.heap_free
+                0x0000000000004c16       0x42 ./EasyProton/shell-task.o
+                0x0000000000004c16                heap_free
+
+.text.read      0x0000000000004c58       0x26
+ .text.read     0x0000000000004c58       0x26 ./EasyProton/shell-task.o
+                0x0000000000004c58                read
+
+.text.write     0x0000000000004c7e       0x3c
+ .text.write    0x0000000000004c7e       0x3c ./EasyProton/shell-task.o
+                0x0000000000004c7e                write
+
+.text.dump      0x0000000000004cba       0x54
+ .text.dump     0x0000000000004cba       0x54 ./EasyProton/shell-task.o
+                0x0000000000004cba                dump
+
+.text.reboot    0x0000000000004d0e       0x10
+ .text.reboot   0x0000000000004d0e       0x10 ./EasyProton/shell-task.o
+                0x0000000000004d0e                reboot
+
+.text.spi0_demo
+                0x0000000000004d1e       0x92
+ .text.spi0_demo
+                0x0000000000004d1e       0x92 ./EasyProton/shell-task.o
+                0x0000000000004d1e                spi0_demo
+
+.text.eflash_demo
+                0x0000000000004db0       0x8a
+ .text.eflash_demo
+                0x0000000000004db0       0x8a ./EasyProton/shell-task.o
+                0x0000000000004db0                eflash_demo
+
+.text.uart_demo
+                0x0000000000004e3a       0xb6
+ .text.uart_demo
+                0x0000000000004e3a       0xb6 ./EasyProton/shell-task.o
+                0x0000000000004e3a                uart_demo
+
+.text.pwm_demo  0x0000000000004ef0      0x16e
+ .text.pwm_demo
+                0x0000000000004ef0      0x16e ./EasyProton/shell-task.o
+                0x0000000000004ef0                pwm_demo
+
+.text.set_freq  0x000000000000505e       0x90
+ .text.set_freq
+                0x000000000000505e       0x90 ./EasyProton/shell-task.o
+                0x000000000000505e                set_freq
+
+.text.adc_select1
+                0x00000000000050ee       0x98
+ .text.adc_select1
+                0x00000000000050ee       0x98 ./EasyProton/shell-task.o
+                0x00000000000050ee                adc_select1
+
+.text.adc_select2
+                0x0000000000005186       0x98
+ .text.adc_select2
+                0x0000000000005186       0x98 ./EasyProton/shell-task.o
+                0x0000000000005186                adc_select2
+
+.text.adc_scan  0x000000000000521e       0xf2
+ .text.adc_scan
+                0x000000000000521e       0xf2 ./EasyProton/shell-task.o
+                0x000000000000521e                adc_scan
+
+.text.adc_demo  0x0000000000005310       0x42
+ .text.adc_demo
+                0x0000000000005310       0x42 ./EasyProton/shell-task.o
+                0x0000000000005310                adc_demo
+
+.text.ISR_ADC   0x0000000000005352       0x6a
+ .text.ISR_ADC  0x0000000000005352       0x6a ./EasyProton/shell-task.o
+                0x0000000000005352                ISR_ADC
+
+.text.ADCH_IRQ_handler
+                0x00000000000053bc        0x2
+ .text.ADCH_IRQ_handler
+                0x00000000000053bc        0x2 ./EasyProton/shell-task.o
+                0x00000000000053bc                ADCH_IRQ_handler
+
+.text.eep_read  0x00000000000053be       0x4e
+ .text.eep_read
+                0x00000000000053be       0x4e ./EasyProton/shell-task.o
+                0x00000000000053be                eep_read
+
+.text.eep_demo  0x000000000000540c      0x180
+ .text.eep_demo
+                0x000000000000540c      0x180 ./EasyProton/shell-task.o
+                0x000000000000540c                eep_demo
+
+.text.uart0_irq_handler
+                0x000000000000558c       0x3e
+ .text.uart0_irq_handler
+                0x000000000000558c       0x3e ./EasyProton/shell-task.o
+                0x000000000000558c                uart0_irq_handler
+
+.text.UART0_IRQ_handler
+                0x00000000000055ca        0x2
+ .text.UART0_IRQ_handler
+                0x00000000000055ca        0x2 ./EasyProton/shell-task.o
+                0x00000000000055ca                UART0_IRQ_handler
+
+.text.SPI_WriteData
+                0x00000000000055cc      0x1b0
+ .text.SPI_WriteData
+                0x00000000000055cc      0x1b0 ./EasyProton/tft.o
+                0x00000000000055cc                SPI_WriteData
+
+.text.SPI_WriteData16
+                0x000000000000577c      0x344
+ .text.SPI_WriteData16
+                0x000000000000577c      0x344 ./EasyProton/tft.o
+                0x000000000000577c                SPI_WriteData16
+
+.text.Lcd_WriteIndex
+                0x0000000000005ac0       0x3c
+ .text.Lcd_WriteIndex
+                0x0000000000005ac0       0x3c ./EasyProton/tft.o
+                0x0000000000005ac0                Lcd_WriteIndex
+
+.text.Lcd_WriteData
+                0x0000000000005afc       0x3a
+ .text.Lcd_WriteData
+                0x0000000000005afc       0x3a ./EasyProton/tft.o
+                0x0000000000005afc                Lcd_WriteData
+
+.text.LCD_WriteData_16Bit
+                0x0000000000005b36       0x3a
+ .text.LCD_WriteData_16Bit
+                0x0000000000005b36       0x3a ./EasyProton/tft.o
+                0x0000000000005b36                LCD_WriteData_16Bit
+
+.text.Reset     0x0000000000005b70       0x56
+ .text.Reset    0x0000000000005b70       0x56 ./EasyProton/tft.o
+                0x0000000000005b70                Reset
+
+.text.tft_hw_if_init
+                0x0000000000005bc6       0x68
+ .text.tft_hw_if_init
+                0x0000000000005bc6       0x68 ./EasyProton/tft.o
+                0x0000000000005bc6                tft_hw_if_init
+
+.text.lcd_initial
+                0x0000000000005c2e      0x1f0
+ .text.lcd_initial
+                0x0000000000005c2e      0x1f0 ./EasyProton/tft.o
+                0x0000000000005c2e                lcd_initial
+
+.text.Lcd_SetRegion
+                0x0000000000005e1e       0x6a
+ .text.Lcd_SetRegion
+                0x0000000000005e1e       0x6a ./EasyProton/tft.o
+                0x0000000000005e1e                Lcd_SetRegion
+
+.text.PutPixel  0x0000000000005e88       0x26
+ .text.PutPixel
+                0x0000000000005e88       0x26 ./EasyProton/tft.o
+                0x0000000000005e88                PutPixel
+
+.text.Display_ASCII8X16
+                0x0000000000005eae      0x1a6
+ .text.Display_ASCII8X16
+                0x0000000000005eae      0x1a6 ./EasyProton/tft.o
+                0x0000000000005eae                Display_ASCII8X16
+
+.text.Display_Panel1
+                0x0000000000006054       0x94
+ .text.Display_Panel1
+                0x0000000000006054       0x94 ./EasyProton/tft.o
+                0x0000000000006054                Display_Panel1
+
+.text.Display_Panel2
+                0x00000000000060e8       0x96
+ .text.Display_Panel2
+                0x00000000000060e8       0x96 ./EasyProton/tft.o
+                0x00000000000060e8                Display_Panel2
+
+.text.tft_task  0x000000000000617e       0xd8
+ .text.tft_task
+                0x000000000000617e       0xd8 ./EasyProton/tft.o
+                0x000000000000617e                tft_task
+
+.text.__libc_init_array
+                0x0000000000006258       0x98
+ .text.__libc_init_array
+                0x0000000000006258       0x98 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+                0x0000000000006258                __libc_init_array
+
+.text.memcmp    0x00000000000062f0       0x88
+ .text.memcmp   0x00000000000062f0       0x88 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcmp.o)
+                0x00000000000062f0                memcmp
+
+.text.memcpy    0x0000000000006378      0x11c
+ .text.memcpy   0x0000000000006378      0x11c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+                0x0000000000006378                memcpy
+
+.text.strlen    0x0000000000006494       0x8c
+ .text.strlen   0x0000000000006494       0x8c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-strlen.o)
+                0x0000000000006494                strlen
+
+.text.__clzsi2  0x0000000000006520       0x94
+ .text.__clzsi2
+                0x0000000000006520       0x94 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+                0x0000000000006520                __clzsi2
+
+.text.__extendsfdf2
+                0x00000000000065b4      0x100
+ .text.__extendsfdf2
+                0x00000000000065b4      0x100 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(extendsfdf2.o)
+                0x00000000000065b4                __extendsfdf2
+
+.sdata2.__fsym_get_name
+                0x00000000000066b4        0x4
+ .sdata2.__fsym_get_name
+                0x00000000000066b4        0x4 ./shell/shell.o
+                0x00000000000066b4                __fsym_get_name
+
+.sdata2.__fsym_help_name
+                0x00000000000066b8        0x5
+ .sdata2.__fsym_help_name
+                0x00000000000066b8        0x5 ./shell/shell.o
+                0x00000000000066b8                __fsym_help_name
+
+.sdata2.__fsym_set_name
+                0x00000000000066c0        0x4
+ .sdata2.__fsym_set_name
+                0x00000000000066c0        0x4 ./shell/shell.o
+                0x00000000000066c0                __fsym_set_name
+
+.sdata2.xISRStackTop
+                0x00000000000066c4        0x4
+ .sdata2.xISRStackTop
+                0x00000000000066c4        0x4 ./kernel/portable/GCC/RISC-V/port.o
+                0x00000000000066c4                xISRStackTop
+
+.sdata2.ADC     0x00000000000066c8        0x4
+ .sdata2.ADC    0x00000000000066c8        0x4 ./driver_library/libs/sys_lib/src/drv_adc.o
+                0x00000000000066c8                ADC
+
+.sdata2.PORT    0x00000000000066cc        0x8
+ .sdata2.PORT   0x00000000000066cc        0x8 ./driver_library/libs/sys_lib/src/drv_gpio.o
+                0x00000000000066cc                PORT
+
+.sdata2.I2C0    0x00000000000066d4        0x4
+ .sdata2.I2C0   0x00000000000066d4        0x4 ./driver_library/libs/sys_lib/src/drv_i2c.o
+                0x00000000000066d4                I2C0
+
+.sdata2.SPI0    0x00000000000066d8        0x4
+ .sdata2.SPI0   0x00000000000066d8        0x4 ./driver_library/libs/sys_lib/src/drv_spi.o
+                0x00000000000066d8                SPI0
+
+.sdata2.TIMER0  0x00000000000066dc        0x4
+ .sdata2.TIMER0
+                0x00000000000066dc        0x4 ./driver_library/libs/sys_lib/src/drv_timer.o
+                0x00000000000066dc                TIMER0
+
+.sdata2.UART0   0x00000000000066e0        0x4
+ .sdata2.UART0  0x00000000000066e0        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x00000000000066e0                UART0
+
+.sdata2.UART1   0x00000000000066e4        0x4
+ .sdata2.UART1  0x00000000000066e4        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x00000000000066e4                UART1
+
+.sdata2.UART2   0x00000000000066e8        0x4
+ .sdata2.UART2  0x00000000000066e8        0x4 ./driver_library/libs/sys_lib/src/drv_uart.o
+                0x00000000000066e8                UART2
+
+.sdata2.__fsym_stack_check_name
+                0x00000000000066ec        0x6
+ .sdata2.__fsym_stack_check_name
+                0x00000000000066ec        0x6 ./EasyProton/main.o
+                0x00000000000066ec                __fsym_stack_check_name
+
+.sdata2.__fsym_dump_name
+                0x00000000000066f4        0x5
+ .sdata2.__fsym_dump_name
+                0x00000000000066f4        0x5 ./EasyProton/shell-task.o
+                0x00000000000066f4                __fsym_dump_name
+
+.sdata2.__fsym_heap_free_name
+                0x00000000000066fc        0x5
+ .sdata2.__fsym_heap_free_name
+                0x00000000000066fc        0x5 ./EasyProton/shell-task.o
+                0x00000000000066fc                __fsym_heap_free_name
+
+.sdata2.__fsym_hello_name
+                0x0000000000006704        0x6
+ .sdata2.__fsym_hello_name
+                0x0000000000006704        0x6 ./EasyProton/shell-task.o
+                0x0000000000006704                __fsym_hello_name
+
+.sdata2.__fsym_read_name
+                0x000000000000670c        0x5
+ .sdata2.__fsym_read_name
+                0x000000000000670c        0x5 ./EasyProton/shell-task.o
+                0x000000000000670c                __fsym_read_name
+
+.sdata2.__fsym_reboot_name
+                0x0000000000006714        0x7
+ .sdata2.__fsym_reboot_name
+                0x0000000000006714        0x7 ./EasyProton/shell-task.o
+                0x0000000000006714                __fsym_reboot_name
+
+.sdata2.__fsym_write_name
+                0x000000000000671c        0x6
+ .sdata2.__fsym_write_name
+                0x000000000000671c        0x6 ./EasyProton/shell-task.o
+                0x000000000000671c                __fsym_write_name
+
+.rela.dyn       0x0000000000006724        0x0
+ .rela.text.help
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text.get
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text.set
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text.shell
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text.shell_task
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text.pvPortMalloc
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text.xPortStartScheduler
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.sdata2.xISRStackTop
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text     0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.data.isr_table
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text.system_init
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+ .rela.text.__libc_init_array
+                0x0000000000006724        0x0 ./xprintf/xprintf.o
+
+.preinit_array  0x0000000000006722        0x0
+                0x0000000000006722                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000000006722                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000006722        0x0
+                0x0000000000006722                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000000006722                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000006722        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000000006722                __etext = .
+                0x0000000000006722                __global_pointer = .
+                0x0000000000006722                __DATA_ROM = .
+
+.data           0x0000000000100000       0xb4 load address 0x0000000000006722
+                0x0000000000100000                . = ALIGN (0x4)
+                0x0000000000100000                __DATA_RAM = .
+                0x0000000000100000                __data_start__ = .
+                0x0000000000100000                sdata = .
+ *(.data)
+ *(.data.*)
+ .data.isr_table
+                0x0000000000100000       0x80 ./driver_library/libs/sys_lib/src/irq.o
+ .data.remu10_table
+                0x0000000000100080       0x10 ./driver_library/libs/string_lib/src/qprintf.o
+                0x0000000000100080                remu10_table
+ .data.rx       0x0000000000100090       0x12 ./EasyProton/shell-task.o
+                0x0000000000100090                rx
+ *fill*         0x00000000001000a2        0x2 
+ .data.tx       0x00000000001000a4       0x10 ./EasyProton/shell-task.o
+                0x00000000001000a4                tx
+                0x00000000001000b4                edata = .
+                0x00000000001000b4                . = ALIGN (0x4)
+                0x00000000001000b4                __data_end__ = .
+
+.stack          0x00000000001000b4      0x804 load address 0x00000000000067d6
+                0x00000000001000b8                . = ALIGN (0x8)
+ *fill*         0x00000000001000b4        0x4 
+                0x00000000001000b8                __StackLimit = .
+                0x00000000001008b8                . = (. + STACK_SIZE)
+ *fill*         0x00000000001000b8      0x800 
+                0x00000000001008b8                __StackTop = .
+                0x00000000001008b8                __rt_thread_irq_stack_top = .
+                0x00000000001008b8                __freertos_irq_stack_top = .
+                [!provide]                        PROVIDE (__stack = __StackTop)
+                0x00000000001008b8                __bss_start = .
+
+.bss            0x00000000001008b8      0x304 load address 0x0000000000006fdc
+                0x00000000001008b8                . = ALIGN (0x4)
+                0x00000000001008b8                __START_BSS = .
+                0x00000000001008b8                __bss_start__ = .
+ *(.bss)
+ *(.bss.*)
+ .bss.fifo_in   0x00000000001008b8       0x10 ./shell/shell.o
+ .bss.inbuf     0x00000000001008c8      0x100 ./shell/shell.o
+ .bss.pxReadyTasksLists
+                0x00000000001009c8       0xa0 ./kernel/tasks.o
+ .bss.xDelayedTaskList1
+                0x0000000000100a68       0x14 ./kernel/tasks.o
+ .bss.xDelayedTaskList2
+                0x0000000000100a7c       0x14 ./kernel/tasks.o
+ .bss.xPendingReadyList
+                0x0000000000100a90       0x14 ./kernel/tasks.o
+ .bss.xSuspendedTaskList
+                0x0000000000100aa4       0x14 ./kernel/tasks.o
+ .bss.xTasksWaitingTermination
+                0x0000000000100ab8       0x14 ./kernel/tasks.o
+ .bss.adc_buf   0x0000000000100acc       0x20 ./EasyProton/shell-task.o
+                0x0000000000100acc                adc_buf
+ .bss.buf       0x0000000000100aec       0x10 ./EasyProton/shell-task.o
+                0x0000000000100aec                buf
+ .bss.tx_buf    0x0000000000100afc       0x20 ./EasyProton/shell-task.o
+                0x0000000000100afc                tx_buf
+ *(.sbss)
+ *(.sbss.*)
+ .sbss.outptr   0x0000000000100b1c        0x4 ./xprintf/xprintf.o
+ .sbss.xfunc_in
+                0x0000000000100b20        0x4 ./xprintf/xprintf.o
+                0x0000000000100b20                xfunc_in
+ .sbss.xfunc_out
+                0x0000000000100b24        0x4 ./xprintf/xprintf.o
+                0x0000000000100b24                xfunc_out
+ .sbss._shell_func
+                0x0000000000100b28        0x4 ./shell/shell.o
+                0x0000000000100b28                _shell_func
+ .sbss._shell_func_end
+                0x0000000000100b2c        0x4 ./shell/shell.o
+                0x0000000000100b2c                _shell_func_end
+ .sbss._shell_var
+                0x0000000000100b30        0x4 ./shell/shell.o
+                0x0000000000100b30                _shell_var
+ .sbss._shell_var_end
+                0x0000000000100b34        0x4 ./shell/shell.o
+                0x0000000000100b34                _shell_var_end
+ .sbss.in       0x0000000000100b38        0x4 ./shell/shell.o
+ .sbss.pxEnd    0x0000000000100b3c        0x4 ./kernel/portable/MemMang/heap_4a.o
+ .sbss.xBlockAllocatedBit
+                0x0000000000100b40        0x4 ./kernel/portable/MemMang/heap_4a.o
+ .sbss.xFreeBytesRemaining
+                0x0000000000100b44        0x4 ./kernel/portable/MemMang/heap_4a.o
+ .sbss.xMinimumEverFreeBytesRemaining
+                0x0000000000100b48        0x4 ./kernel/portable/MemMang/heap_4a.o
+ .sbss.xStart   0x0000000000100b4c        0x8 ./kernel/portable/MemMang/heap_4a.o
+ .sbss.xTotalHeapSize
+                0x0000000000100b54        0x4 ./kernel/portable/MemMang/heap_4a.o
+                0x0000000000100b54                xTotalHeapSize
+ .sbss.pxCurrentTCB
+                0x0000000000100b58        0x4 ./kernel/tasks.o
+                0x0000000000100b58                pxCurrentTCB
+ .sbss.pxDelayedTaskList
+                0x0000000000100b5c        0x4 ./kernel/tasks.o
+ .sbss.pxOverflowDelayedTaskList
+                0x0000000000100b60        0x4 ./kernel/tasks.o
+ .sbss.uxCurrentNumberOfTasks
+                0x0000000000100b64        0x4 ./kernel/tasks.o
+ .sbss.uxDeletedTasksWaitingCleanUp
+                0x0000000000100b68        0x4 ./kernel/tasks.o
+ .sbss.uxPendedTicks
+                0x0000000000100b6c        0x4 ./kernel/tasks.o
+ .sbss.uxSchedulerSuspended
+                0x0000000000100b70        0x4 ./kernel/tasks.o
+ .sbss.uxTaskNumber
+                0x0000000000100b74        0x4 ./kernel/tasks.o
+ .sbss.uxTopReadyPriority
+                0x0000000000100b78        0x4 ./kernel/tasks.o
+ .sbss.xIdleTaskHandle
+                0x0000000000100b7c        0x4 ./kernel/tasks.o
+ .sbss.xNextTaskUnblockTime
+                0x0000000000100b80        0x4 ./kernel/tasks.o
+ .sbss.xNumOfOverflows
+                0x0000000000100b84        0x4 ./kernel/tasks.o
+ .sbss.xSchedulerRunning
+                0x0000000000100b88        0x4 ./kernel/tasks.o
+ .sbss.xTickCount
+                0x0000000000100b8c        0x4 ./kernel/tasks.o
+ .sbss.xYieldPending
+                0x0000000000100b90        0x4 ./kernel/tasks.o
+ .sbss.handle_led
+                0x0000000000100b94        0x4 ./EasyProton/main.o
+                0x0000000000100b94                handle_led
+ .sbss.handle_oled
+                0x0000000000100b98        0x4 ./EasyProton/main.o
+                0x0000000000100b98                handle_oled
+ .sbss.handle_pwm
+                0x0000000000100b9c        0x4 ./EasyProton/main.o
+                0x0000000000100b9c                handle_pwm
+ .sbss.handle_rtc
+                0x0000000000100ba0        0x4 ./EasyProton/main.o
+                0x0000000000100ba0                handle_rtc
+ .sbss.handle_shell
+                0x0000000000100ba4        0x4 ./EasyProton/main.o
+                0x0000000000100ba4                handle_shell
+ .sbss.handle_wdt
+                0x0000000000100ba8        0x4 ./EasyProton/main.o
+                0x0000000000100ba8                handle_wdt
+ .sbss.adc_conf
+                0x0000000000100bac        0x8 ./EasyProton/shell-task.o
+                0x0000000000100bac                adc_conf
+ .sbss.adc_done
+                0x0000000000100bb4        0x4 ./EasyProton/shell-task.o
+                0x0000000000100bb4                adc_done
+ .sbss.adi      0x0000000000100bb8        0x4 ./EasyProton/shell-task.o
+                0x0000000000100bb8                adi
+ *(COMMON)
+                0x0000000000100bbc                . = ALIGN (0x4)
+                0x0000000000100bbc                __bss_end__ = .
+                0x0000000000100bbc                __END_BSS = .
+                0x0000000000100bbc                __bss_end = .
+OUTPUT(FreeRTOS.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000    0x16126
+ .debug_info    0x0000000000000000      0x7f0 ./xprintf/xprintf.o
+ .debug_info    0x00000000000007f0     0x100f ./shell/fifo.o
+ .debug_info    0x00000000000017ff     0x172e ./shell/shell.o
+ .debug_info    0x0000000000002f2d      0x76f ./shell/tools.o
+ .debug_info    0x000000000000369c      0xc4e ./kernel/portable/MemMang/heap_4a.o
+ .debug_info    0x00000000000042ea      0x20f ./kernel/portable/GCC/RISC-V/port.o
+ .debug_info    0x00000000000044f9       0x26 ./kernel/portable/GCC/RISC-V/portASM.o
+ .debug_info    0x000000000000451f      0xb77 ./kernel/list.o
+ .debug_info    0x0000000000005096     0x2db1 ./kernel/tasks.o
+ .debug_info    0x0000000000007e47      0xca6 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_info    0x0000000000008aed      0x245 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_info    0x0000000000008d32      0x29d ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_info    0x0000000000008fcf      0x440 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_info    0x000000000000940f      0x792 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_info    0x0000000000009ba1      0x45a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_info    0x0000000000009ffb      0x803 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_info    0x000000000000a7fe      0x233 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_info    0x000000000000aa31      0x10b ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_info    0x000000000000ab3c     0x15e6 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_info    0x000000000000c122      0x339 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_info    0x000000000000c45b      0x7bc ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_info    0x000000000000cc17      0x15d ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_info    0x000000000000cd74      0xbf3 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_info    0x000000000000d967      0x732 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_info    0x000000000000e099      0xa90 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_info    0x000000000000eb29      0xabd ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_info    0x000000000000f5e6       0x22 ./driver_library/gcc/crt0.riscv.o
+ .debug_info    0x000000000000f608      0x6b8 ./EasyProton/FreeRTOS-proton.o
+ .debug_info    0x000000000000fcc0     0x1822 ./EasyProton/main.o
+ .debug_info    0x00000000000114e2     0x2b24 ./EasyProton/shell-task.o
+ .debug_info    0x0000000000014006     0x2120 ./EasyProton/tft.o
+
+.debug_abbrev   0x0000000000000000     0x4628
+ .debug_abbrev  0x0000000000000000      0x328 ./xprintf/xprintf.o
+ .debug_abbrev  0x0000000000000328      0x35d ./shell/fifo.o
+ .debug_abbrev  0x0000000000000685      0x4cf ./shell/shell.o
+ .debug_abbrev  0x0000000000000b54      0x1b4 ./shell/tools.o
+ .debug_abbrev  0x0000000000000d08      0x36d ./kernel/portable/MemMang/heap_4a.o
+ .debug_abbrev  0x0000000000001075      0x107 ./kernel/portable/GCC/RISC-V/port.o
+ .debug_abbrev  0x000000000000117c       0x14 ./kernel/portable/GCC/RISC-V/portASM.o
+ .debug_abbrev  0x0000000000001190      0x254 ./kernel/list.o
+ .debug_abbrev  0x00000000000013e4      0x50d ./kernel/tasks.o
+ .debug_abbrev  0x00000000000018f1      0x2d5 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_abbrev  0x0000000000001bc6      0x13f ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_abbrev  0x0000000000001d05      0x15e ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_abbrev  0x0000000000001e63      0x186 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_abbrev  0x0000000000001fe9      0x21f ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_abbrev  0x0000000000002208      0x153 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_abbrev  0x000000000000235b      0x21d ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_abbrev  0x0000000000002578      0x108 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_abbrev  0x0000000000002680       0xd0 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_abbrev  0x0000000000002750      0x317 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_abbrev  0x0000000000002a67      0x105 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_abbrev  0x0000000000002b6c      0x1d2 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_abbrev  0x0000000000002d3e       0xe1 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_abbrev  0x0000000000002e1f      0x248 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_abbrev  0x0000000000003067      0x1f8 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_abbrev  0x000000000000325f      0x2c7 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_abbrev  0x0000000000003526      0x36a ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_abbrev  0x0000000000003890       0x12 ./driver_library/gcc/crt0.riscv.o
+ .debug_abbrev  0x00000000000038a2      0x18c ./EasyProton/FreeRTOS-proton.o
+ .debug_abbrev  0x0000000000003a2e      0x318 ./EasyProton/main.o
+ .debug_abbrev  0x0000000000003d46      0x4cc ./EasyProton/shell-task.o
+ .debug_abbrev  0x0000000000004212      0x416 ./EasyProton/tft.o
+
+.debug_loc      0x0000000000000000     0x9d8d
+ .debug_loc     0x0000000000000000      0xe8b ./xprintf/xprintf.o
+ .debug_loc     0x0000000000000e8b      0x6ca ./shell/fifo.o
+ .debug_loc     0x0000000000001555      0x5fe ./shell/shell.o
+ .debug_loc     0x0000000000001b53      0xd67 ./shell/tools.o
+ .debug_loc     0x00000000000028ba      0x274 ./kernel/portable/MemMang/heap_4a.o
+ .debug_loc     0x0000000000002b2e       0x58 ./kernel/list.o
+ .debug_loc     0x0000000000002b86     0x1ea8 ./kernel/tasks.o
+ .debug_loc     0x0000000000004a2e       0xc2 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_loc     0x0000000000004af0       0xab ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_loc     0x0000000000004b9b       0xdd ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_loc     0x0000000000004c78       0xa5 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_loc     0x0000000000004d1d      0x969 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_loc     0x0000000000005686      0x48c ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_loc     0x0000000000005b12      0x61a ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_loc     0x000000000000612c      0x100 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_loc     0x000000000000622c     0x1202 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_loc     0x000000000000742e      0x41a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_loc     0x0000000000007848      0x68e ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_loc     0x0000000000007ed6       0x8b ./driver_library/libs/sys_lib/src/irq.o
+ .debug_loc     0x0000000000007f61       0xca ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_loc     0x000000000000802b      0x22a ./driver_library/libs/sys_lib/src/utils.o
+ .debug_loc     0x0000000000008255      0xcf6 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_loc     0x0000000000008f4b       0xb9 ./EasyProton/main.o
+ .debug_loc     0x0000000000009004      0x55f ./EasyProton/shell-task.o
+ .debug_loc     0x0000000000009563      0x82a ./EasyProton/tft.o
+
+.debug_aranges  0x0000000000000000      0xd58
+ .debug_aranges
+                0x0000000000000000       0x80 ./xprintf/xprintf.o
+ .debug_aranges
+                0x0000000000000080       0x70 ./shell/fifo.o
+ .debug_aranges
+                0x00000000000000f0       0x60 ./shell/shell.o
+ .debug_aranges
+                0x0000000000000150       0x88 ./shell/tools.o
+ .debug_aranges
+                0x00000000000001d8       0x50 ./kernel/portable/MemMang/heap_4a.o
+ .debug_aranges
+                0x0000000000000228       0x28 ./kernel/portable/GCC/RISC-V/port.o
+ .debug_aranges
+                0x0000000000000250       0x20 ./kernel/portable/GCC/RISC-V/portASM.o
+ .debug_aranges
+                0x0000000000000270       0x40 ./kernel/list.o
+ .debug_aranges
+                0x00000000000002b0      0x1a8 ./kernel/tasks.o
+ .debug_aranges
+                0x0000000000000458       0x70 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_aranges
+                0x00000000000004c8       0x50 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_aranges
+                0x0000000000000518       0x40 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_aranges
+                0x0000000000000558       0x38 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_aranges
+                0x0000000000000590       0x98 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_aranges
+                0x0000000000000628       0x80 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_aranges
+                0x00000000000006a8       0x68 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_aranges
+                0x0000000000000710       0x58 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_aranges
+                0x0000000000000768       0x28 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_aranges
+                0x0000000000000790       0xa8 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_aranges
+                0x0000000000000838       0x70 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_aranges
+                0x00000000000008a8       0x68 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_aranges
+                0x0000000000000910       0x40 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_aranges
+                0x0000000000000950      0x118 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_aranges
+                0x0000000000000a68       0x28 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_aranges
+                0x0000000000000a90       0x40 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_aranges
+                0x0000000000000ad0       0x60 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_aranges
+                0x0000000000000b30       0x28 ./driver_library/gcc/crt0.riscv.o
+ .debug_aranges
+                0x0000000000000b58       0x38 ./EasyProton/FreeRTOS-proton.o
+ .debug_aranges
+                0x0000000000000b90       0x58 ./EasyProton/main.o
+ .debug_aranges
+                0x0000000000000be8       0xe0 ./EasyProton/shell-task.o
+ .debug_aranges
+                0x0000000000000cc8       0x90 ./EasyProton/tft.o
+
+.debug_ranges   0x0000000000000000     0x1898
+ .debug_ranges  0x0000000000000000       0xa0 ./xprintf/xprintf.o
+ .debug_ranges  0x00000000000000a0      0x1e0 ./shell/fifo.o
+ .debug_ranges  0x0000000000000280      0x150 ./shell/shell.o
+ .debug_ranges  0x00000000000003d0       0xa8 ./shell/tools.o
+ .debug_ranges  0x0000000000000478       0x40 ./kernel/portable/MemMang/heap_4a.o
+ .debug_ranges  0x00000000000004b8       0x30 ./kernel/portable/GCC/RISC-V/port.o
+ .debug_ranges  0x00000000000004e8       0x30 ./kernel/list.o
+ .debug_ranges  0x0000000000000518      0x608 ./kernel/tasks.o
+ .debug_ranges  0x0000000000000b20       0x60 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_ranges  0x0000000000000b80       0x40 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_ranges  0x0000000000000bc0       0x30 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_ranges  0x0000000000000bf0       0x28 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_ranges  0x0000000000000c18      0x138 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_ranges  0x0000000000000d50       0x70 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_ranges  0x0000000000000dc0       0xd0 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_ranges  0x0000000000000e90       0x48 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_ranges  0x0000000000000ed8       0x18 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_ranges  0x0000000000000ef0      0x328 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_ranges  0x0000000000001218       0x60 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_ranges  0x0000000000001278       0x58 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_ranges  0x00000000000012d0       0x30 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_ranges  0x0000000000001300      0x108 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_ranges  0x0000000000001408       0x68 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_ranges  0x0000000000001470       0x60 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_ranges  0x00000000000014d0      0x1c8 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_ranges  0x0000000000001698       0x20 ./driver_library/gcc/crt0.riscv.o
+ .debug_ranges  0x00000000000016b8       0x28 ./EasyProton/FreeRTOS-proton.o
+ .debug_ranges  0x00000000000016e0       0x48 ./EasyProton/main.o
+ .debug_ranges  0x0000000000001728       0xd0 ./EasyProton/shell-task.o
+ .debug_ranges  0x00000000000017f8       0xa0 ./EasyProton/tft.o
+
+.debug_line     0x0000000000000000    0x19868
+ .debug_line    0x0000000000000000     0x14f5 ./xprintf/xprintf.o
+ .debug_line    0x00000000000014f5      0xccd ./shell/fifo.o
+ .debug_line    0x00000000000021c2     0x10fd ./shell/shell.o
+ .debug_line    0x00000000000032bf     0x1629 ./shell/tools.o
+ .debug_line    0x00000000000048e8      0xadf ./kernel/portable/MemMang/heap_4a.o
+ .debug_line    0x00000000000053c7      0x335 ./kernel/portable/GCC/RISC-V/port.o
+ .debug_line    0x00000000000056fc      0x3cd ./kernel/portable/GCC/RISC-V/portASM.o
+ .debug_line    0x0000000000005ac9      0x6c7 ./kernel/list.o
+ .debug_line    0x0000000000006190     0x50c3 ./kernel/tasks.o
+ .debug_line    0x000000000000b253      0x789 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_line    0x000000000000b9dc      0x3d8 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_line    0x000000000000bdb4      0x447 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_line    0x000000000000c1fb      0x32d ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_line    0x000000000000c528      0xd2e ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_line    0x000000000000d256      0xcc7 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_line    0x000000000000df1d      0xc6e ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_line    0x000000000000eb8b      0x488 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_line    0x000000000000f013      0x211 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_line    0x000000000000f224     0x1e2a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_line    0x000000000001104e      0x8c3 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_line    0x0000000000011911      0xe42 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_line    0x0000000000012753      0x2b6 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_line    0x0000000000012a09      0x76b ./driver_library/libs/sys_lib/src/irq.o
+ .debug_line    0x0000000000013174      0x533 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_line    0x00000000000136a7      0x5e4 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_line    0x0000000000013c8b     0x10e1 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_line    0x0000000000014d6c      0x40a ./driver_library/gcc/crt0.riscv.o
+ .debug_line    0x0000000000015176      0x3d7 ./EasyProton/FreeRTOS-proton.o
+ .debug_line    0x000000000001554d      0xa14 ./EasyProton/main.o
+ .debug_line    0x0000000000015f61     0x1a32 ./EasyProton/shell-task.o
+ .debug_line    0x0000000000017993     0x1ed5 ./EasyProton/tft.o
+
+.debug_str      0x0000000000000000     0x3665
+ .debug_str     0x0000000000000000      0x1f4 ./xprintf/xprintf.o
+                                        0x233 (size before relaxing)
+ .debug_str     0x00000000000001f4      0x4ce ./shell/fifo.o
+                                        0x699 (size before relaxing)
+ .debug_str     0x00000000000006c2      0x2dd ./shell/shell.o
+                                        0x948 (size before relaxing)
+ .debug_str     0x000000000000099f       0xc4 ./shell/tools.o
+                                        0x2e5 (size before relaxing)
+ .debug_str     0x0000000000000a63      0x250 ./kernel/portable/MemMang/heap_4a.o
+                                        0x7ee (size before relaxing)
+ .debug_str     0x0000000000000cb3      0x12f ./kernel/portable/GCC/RISC-V/port.o
+                                        0x327 (size before relaxing)
+ .debug_str     0x0000000000000de2       0x5f ./kernel/portable/GCC/RISC-V/portASM.o
+                                         0x83 (size before relaxing)
+ .debug_str     0x0000000000000e41      0x15a ./kernel/list.o
+                                        0x71e (size before relaxing)
+ .debug_str     0x0000000000000f9b      0xbb0 ./kernel/tasks.o
+                                       0x134a (size before relaxing)
+ .debug_str     0x0000000000001b4b      0x19f ./driver_library/libs/sys_lib/src/drv_adc.o
+                                        0x77b (size before relaxing)
+ .debug_str     0x0000000000001cea       0xd8 ./driver_library/libs/sys_lib/src/drv_clock.o
+                                        0x299 (size before relaxing)
+ .debug_str     0x0000000000001dc2      0x12e ./driver_library/libs/sys_lib/src/drv_clockcal.o
+                                        0x2ee (size before relaxing)
+ .debug_str     0x0000000000001ef0      0x1e6 ./driver_library/libs/sys_lib/src/drv_console.o
+                                        0x39a (size before relaxing)
+ .debug_str     0x00000000000020d6      0x16a ./driver_library/libs/sys_lib/src/drv_eflash.o
+                                        0x330 (size before relaxing)
+ .debug_str     0x0000000000002240      0x1cc ./driver_library/libs/sys_lib/src/drv_gpio.o
+                                        0x3b3 (size before relaxing)
+ .debug_str     0x000000000000240c      0x11a ./driver_library/libs/sys_lib/src/drv_i2c.o
+                                        0x330 (size before relaxing)
+ .debug_str     0x0000000000002526      0x11b ./driver_library/libs/sys_lib/src/drv_pwm.o
+                                        0x2da (size before relaxing)
+ .debug_str     0x0000000000002641       0x73 ./driver_library/libs/sys_lib/src/drv_scu.o
+                                        0x222 (size before relaxing)
+ .debug_str     0x00000000000026b4      0x2a7 ./driver_library/libs/sys_lib/src/drv_spi.o
+                                        0x4bb (size before relaxing)
+ .debug_str     0x000000000000295b      0x11f ./driver_library/libs/sys_lib/src/drv_timer.o
+                                        0x2f0 (size before relaxing)
+ .debug_str     0x0000000000002a7a       0xc4 ./driver_library/libs/sys_lib/src/drv_uart.o
+                                        0x426 (size before relaxing)
+ .debug_str     0x0000000000002b3e       0x93 ./driver_library/libs/sys_lib/src/drv_wdt.o
+                                        0x242 (size before relaxing)
+ .debug_str     0x0000000000002bd1      0x2ae ./driver_library/libs/sys_lib/src/irq.o
+                                        0x84f (size before relaxing)
+ .debug_str     0x0000000000002e7f      0x101 ./driver_library/libs/sys_lib/src/system_proton.o
+                                        0x441 (size before relaxing)
+ .debug_str     0x0000000000002f80       0x6f ./driver_library/libs/sys_lib/src/utils.o
+                                        0x61a (size before relaxing)
+ .debug_str     0x0000000000002fef       0xd6 ./driver_library/libs/string_lib/src/qprintf.o
+                                        0x32d (size before relaxing)
+ .debug_str     0x00000000000030c5       0x33 ./driver_library/gcc/crt0.riscv.o
+                                         0x63 (size before relaxing)
+ .debug_str     0x00000000000030f8       0x6a ./EasyProton/FreeRTOS-proton.o
+                                        0x4c2 (size before relaxing)
+ .debug_str     0x0000000000003162      0x12c ./EasyProton/main.o
+                                        0xa48 (size before relaxing)
+ .debug_str     0x000000000000328e      0x293 ./EasyProton/shell-task.o
+                                        0xf82 (size before relaxing)
+ .debug_str     0x0000000000003521      0x144 ./EasyProton/tft.o
+                                        0x990 (size before relaxing)
+
+.comment        0x0000000000000000       0x39
+ .comment       0x0000000000000000       0x39 ./xprintf/xprintf.o
+                                         0x3a (size before relaxing)
+ .comment       0x0000000000000039       0x3a ./shell/fifo.o
+ .comment       0x0000000000000039       0x3a ./shell/shell.o
+ .comment       0x0000000000000039       0x3a ./shell/tools.o
+ .comment       0x0000000000000039       0x3a ./kernel/portable/MemMang/heap_4a.o
+ .comment       0x0000000000000039       0x3a ./kernel/portable/GCC/RISC-V/port.o
+ .comment       0x0000000000000039       0x3a ./kernel/list.o
+ .comment       0x0000000000000039       0x3a ./kernel/tasks.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_adc.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_clock.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_console.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_scu.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_spi.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_timer.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_uart.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/irq.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/system_proton.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/sys_lib/src/utils.o
+ .comment       0x0000000000000039       0x3a ./driver_library/libs/string_lib/src/qprintf.o
+ .comment       0x0000000000000039       0x3a ./EasyProton/FreeRTOS-proton.o
+ .comment       0x0000000000000039       0x3a ./EasyProton/main.o
+ .comment       0x0000000000000039       0x3a ./EasyProton/shell-task.o
+ .comment       0x0000000000000039       0x3a ./EasyProton/tft.o
+
+.debug_frame    0x0000000000000000     0x2628
+ .debug_frame   0x0000000000000000      0x1fc ./xprintf/xprintf.o
+ .debug_frame   0x00000000000001fc      0x118 ./shell/fifo.o
+ .debug_frame   0x0000000000000314      0x1a0 ./shell/shell.o
+ .debug_frame   0x00000000000004b4      0x11c ./shell/tools.o
+ .debug_frame   0x00000000000005d0       0xb0 ./kernel/portable/MemMang/heap_4a.o
+ .debug_frame   0x0000000000000680       0x3c ./kernel/portable/GCC/RISC-V/port.o
+ .debug_frame   0x00000000000006bc       0x60 ./kernel/list.o
+ .debug_frame   0x000000000000071c      0x7f0 ./kernel/tasks.o
+ .debug_frame   0x0000000000000f0c       0xf8 ./driver_library/libs/sys_lib/src/drv_adc.o
+ .debug_frame   0x0000000000001004       0x80 ./driver_library/libs/sys_lib/src/drv_clock.o
+ .debug_frame   0x0000000000001084       0x70 ./driver_library/libs/sys_lib/src/drv_clockcal.o
+ .debug_frame   0x00000000000010f4       0x88 ./driver_library/libs/sys_lib/src/drv_console.o
+ .debug_frame   0x000000000000117c      0x174 ./driver_library/libs/sys_lib/src/drv_eflash.o
+ .debug_frame   0x00000000000012f0       0xe0 ./driver_library/libs/sys_lib/src/drv_gpio.o
+ .debug_frame   0x00000000000013d0      0x120 ./driver_library/libs/sys_lib/src/drv_i2c.o
+ .debug_frame   0x00000000000014f0       0x90 ./driver_library/libs/sys_lib/src/drv_pwm.o
+ .debug_frame   0x0000000000001580       0x30 ./driver_library/libs/sys_lib/src/drv_scu.o
+ .debug_frame   0x00000000000015b0      0x280 ./driver_library/libs/sys_lib/src/drv_spi.o
+ .debug_frame   0x0000000000001830       0xc0 ./driver_library/libs/sys_lib/src/drv_timer.o
+ .debug_frame   0x00000000000018f0      0x104 ./driver_library/libs/sys_lib/src/drv_uart.o
+ .debug_frame   0x00000000000019f4       0x60 ./driver_library/libs/sys_lib/src/drv_wdt.o
+ .debug_frame   0x0000000000001a54      0x210 ./driver_library/libs/sys_lib/src/irq.o
+ .debug_frame   0x0000000000001c64       0x40 ./driver_library/libs/sys_lib/src/system_proton.o
+ .debug_frame   0x0000000000001ca4       0x74 ./driver_library/libs/sys_lib/src/utils.o
+ .debug_frame   0x0000000000001d18      0x148 ./driver_library/libs/string_lib/src/qprintf.o
+ .debug_frame   0x0000000000001e60       0x74 ./EasyProton/FreeRTOS-proton.o
+ .debug_frame   0x0000000000001ed4       0xec ./EasyProton/main.o
+ .debug_frame   0x0000000000001fc0      0x34c ./EasyProton/shell-task.o
+ .debug_frame   0x000000000000230c      0x228 ./EasyProton/tft.o
+ .debug_frame   0x0000000000002534       0x3c d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000002570       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000002590       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000000025b0       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32im/ilp32\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000025d0       0x20 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000000000025f0       0x38 d:/corelinkide/gnu mcu eclipse/risc-v embedded gcc/8.2.0-2.2-20190521-0004/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32im/ilp32\libgcc.a(extendsfdf2.o)
